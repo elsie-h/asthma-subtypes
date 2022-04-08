@@ -1,0 +1,16 @@
+read_code,read_term,cat1,cat2,score
+663U.,Asthma management plan given,asthma_plan,NA,NA
+XaIQ4,Change in asthma management plan,asthma_plan,NA,NA
+XaIQD,Step up change in asthma management plan,asthma_plan,NA,NA
+XaIQE,Step down change in asthma management plan,asthma_plan,NA,NA
+XaJYe,Asthma clinical management plan,asthma_plan,NA,NA
+XaRFi,Patient has a written asthma personal action plan,asthma_plan,NA,NA
+XaYZB,Asthma self-management plan review,asthma_plan,NA,NA
+XaYb8,Asthma self-management plan agreed,asthma_plan,NA,NA
+8CMA0,Patient has a written asthma personal action plan,asthma_plan,NA,NA
+8CR0.,Asthma clinical management plan,asthma_plan,NA,NA
+661M1,Asthma self-management plan agreed,asthma_plan,NA,NA
+66Y5.,Change in asthma management plan,asthma_plan,NA,NA
+66Y9.,Step up change in asthma management plan,asthma_plan,NA,NA
+66YA.,Step down change in asthma management plan,asthma_plan,NA,NA
+661N1,Asthma self-management plan review,asthma_plan,NA,NA

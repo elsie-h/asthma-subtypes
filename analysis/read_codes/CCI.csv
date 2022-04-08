@@ -1,0 +1,2857 @@
+read_code,read_term,cat1,cat2,score
+A788W,HIV disease resulting in unspecified malignant neoplasm,cci,AIDS,6
+A788V,HIV disease resulting in multiple diseases CE,cci,AIDS,6
+AyuC.,[X]Human immunodeficiency virus disease,cci,AIDS,6
+A7890,HIV disease resulting in mycobacterial infection,cci,AIDS,6
+A7884,Human immunodeficiency virus with neurological disease,cci,AIDS,6
+AyuC6,[X]HIV disease resulting in other non-Hodgkin's lymphoma,cci,AIDS,6
+A788X,HIV disease resulting/unspcf infectious disease,cci,AIDS,6
+A788z,Acquired human immunodeficiency virus infection syndrome NOS,cci,AIDS,6
+AyuC9,[X]HIV disease resulting in unspecified malignant neoplasm,cci,AIDS,6
+AyuC3,[X]HIV disease resulting in multiple infections,cci,AIDS,6
+A7892,HIV disease resulting in candidiasis,cci,AIDS,6
+A7885,Human immunodeficiency virus with secondary infection,cci,AIDS,6
+AyuC0,[X]HIV disease resulting in other bacterial infections,cci,AIDS,6
+AyuCD,[X]Unspecified human immunodeficiency virus [HIV] disease,cci,AIDS,6
+AyuCC,[X]HIV disease resulting in other specified conditions,cci,AIDS,6
+A7896,HIV disease resulting in Burkitt's lymphoma,cci,AIDS,6
+AyuC2,[X]HIV disease resulting in other mycoses,cci,AIDS,6
+A7899,HIV disease resulting in lymphoid interstitial pneumonitis,cci,AIDS,6
+A789.,Human immunodef virus resulting in other disease,cci,AIDS,6
+A789A,HIV disease resulting in wasting syndrome,cci,AIDS,6
+AyuC1,[X]HIV disease resulting in other viral infections,cci,AIDS,6
+A7883,Human immunodeficiency virus with constitutional disease,cci,AIDS,6
+A788.,Acquired immune deficiency syndrome,cci,AIDS,6
+AyuCB,"[X]HIV disease result/haematological abnorms,NEC",cci,AIDS,6
+A7891,HIV disease resulting in cytomegaloviral disease,cci,AIDS,6
+A7895,HIV disease resulting in Kaposi's sarcoma,cci,AIDS,6
+A7882,HIV infection with persistent generalised lymphadenopathy,cci,AIDS,6
+A788U,"HIV disease result/haematological abnorms,NEC",cci,AIDS,6
+A788y,Human immunodeficiency virus with other clinical findings,cci,AIDS,6
+A7886,Human immunodeficiency virus with secondary cancers,cci,AIDS,6
+A7893,HIV disease resulting in Pneumocystis carinii pneumonia,cci,AIDS,6
+AyuC5,[X]HIV disease resulting/unspcf infectious disease,cci,AIDS,6
+A789X,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc tissu",cci,AIDS,6
+AyuC7,"[X]HIV dis reslt/oth mal neopl/lymph,h'matopoetc tissu",cci,AIDS,6
+A7881,Asymptomatic human immunodeficiency virus infection,cci,AIDS,6
+AyuC8,[X]HIV disease resulting in other malignant neoplasms,cci,AIDS,6
+AyuC4,[X]HIV disease resulting/other infectious diseases,cci,AIDS,6
+A7894,HIV disease resulting in multiple infections,cci,AIDS,6
+A7898,HIV disease resulting in multiple malignant neoplasms,cci,AIDS,6
+AyuCA,[X]HIV disease resulting in multiple diseases CE,cci,AIDS,6
+B072.,Malignant neoplasm of lateral wall of nasopharynx,cci,cancer,2
+B18y1,Malignant neoplasm of mesocaecum,cci,cancer,2
+B173.,Malignant neoplasm of pancreatic duct,cci,cancer,2
+B3371,Malignant neoplasm of skin of thigh,cci,cancer,2
+B335.,"Malignant neoplasm of skin of trunk, excluding scrotum",cci,cancer,2
+B6145,Hodgkin's nodular sclerosis of inguinal region and leg,cci,cancer,2
+B63..,Multiple myeloma and immunoproliferative neoplasms,cci,cancer,2
+B001.,"Malignant neoplasm of lower lip, vermilion border",cci,cancer,2
+B04y.,Malignant neoplasm of other sites of floor of mouth,cci,cancer,2
+B0721,Malignant neoplasm of opening of auditory tube,cci,cancer,2
+B0720,Malignant neoplasm of pharyngeal recess,cci,cancer,2
+B6126,Hodgkin's sarcoma of intrapelvic lymph nodes,cci,cancer,2
+B6264,Mast cell malignancy of lymph nodes of axilla and upper limb,cci,cancer,2
+B3057,Malignant neoplasm of carpal bone - hamate,cci,cancer,2
+B49..,Malignant neoplasm of urinary bladder,cci,cancer,2
+B4303,Malignant neoplasm of myometrium of corpus uteri,cci,cancer,2
+B627C,Follicular lymphoma NOS,cci,cancer,2
+Byu33,"[X]Malignant neoplasm/bone cartilage, unspecified",cci,cancer,2
+B03z.,Malignant neoplasm of gum NOS,cci,cancer,2
+B340z,Malignant neoplasm of nipple or areola of female breast NOS,cci,cancer,2
+B627D,Diffuse non-Hodgkin's centroblastic lymphoma,cci,cancer,2
+B3320,Malignant neoplasm of skin of auricle (ear),cci,cancer,2
+B6007,Reticulosarcoma of spleen,cci,cancer,2
+B0621,Malignant neoplasm of glossopalatine fold,cci,cancer,2
+B6003,Reticulosarcoma of intra-abdominal lymph nodes,cci,cancer,2
+B000.,"Malignant neoplasm of upper lip, vermilion border",cci,cancer,2
+ZV105,[V]Personal history of malignant neoplasm of bladder,cci,cancer,2
+B41z.,Malignant neoplasm of cervix uteri NOS,cci,cancer,2
+B4A1z,Malignant neoplasm of renal pelvis NOS,cci,cancer,2
+B3044,Malignant neoplasm of ulna,cci,cancer,2
+B00y.,Malignant neoplasm of other sites of lip,cci,cancer,2
+B51y1,Malignant neoplasm of tapetum,cci,cancer,2
+Byu12,"[X]Malignant neoplasm of intestinal tract, part unspecified",cci,cancer,2
+B07z.,Malignant neoplasm of nasopharynx NOS,cci,cancer,2
+B242.,Malignant neoplasm of anterior mediastinum,cci,cancer,2
+B333z,Malignant neoplasm skin other and unspec part of face NOS,cci,cancer,2
+B42..,Malignant neoplasm of placenta,cci,cancer,2
+B4711,Teratoma of descended testis,cci,cancer,2
+B4A3.,Malignant neoplasm of urethra,cci,cancer,2
+B6265,Mast cell malignancy of lymph nodes inguinal region and leg,cci,cancer,2
+B6160,Hodgkin's lymphocytic depletion of unspecified site,cci,cancer,2
+B02z.,Malignant neoplasm of major salivary gland NOS,cci,cancer,2
+B3153,Malig neopl of connective and soft tissue - sacrum or coccyx,cci,cancer,2
+B308.,Malignant neoplasm of short bones of leg,cci,cancer,2
+B675.,Acute myelofibrosis,cci,cancer,2
+Byu4.,[X]Melanoma and other malignant neoplasms of skin,cci,cancer,2
+Byu9.,[X]Malignant neoplasm of urinary tract,cci,cancer,2
+B62x0,T-zone lymphoma,cci,cancer,2
+B17y0,Malignant neoplasm of ectopic pancreatic tissue,cci,cancer,2
+B141.,Rectal carcinoma,cci,cancer,2
+B132.,Malignant neoplasm of descending colon,cci,cancer,2
+B330.,Malignant neoplasm of skin of lip,cci,cancer,2
+B6275,Diffuse non-Hodgkin mixed sml & lge cell (diffuse) lymphoma,cci,cancer,2
+B630.,Multiple myeloma,cci,cancer,2
+B62x2,Peripheral T-cell lymphoma,cci,cancer,2
+B502.,Malignant neoplasm of lacrimal gland,cci,cancer,2
+B62x4,Malignant reticulosis,cci,cancer,2
+ZV10y,[V]Personal history of malignant neoplasm of bone,cci,cancer,2
+B3050,Malignant neoplasm of carpal bone - scaphoid,cci,cancer,2
+B11..,Malignant neoplasm of stomach,cci,cancer,2
+B2221,Malignant neoplasm of upper lobe of lung,cci,cancer,2
+B106.,"Malignant neoplasm, overlapping lesion of oesophagus",cci,cancer,2
+ByuD.,"[X]Malignant neoplasms of lymphoid, haematopoietic and rela",cci,cancer,2
+B544.,Malignant neoplasm of carotid body,cci,cancer,2
+B066.,Malignant neoplasm of lateral wall of oropharynx,cci,cancer,2
+B62..,Other malignant neoplasm of lymphoid and histiocytic tissue,cci,cancer,2
+Byu54,"[X]Malignant neoplasm/peripheral nerves of trunk,unspecified",cci,cancer,2
+B101.,Malignant neoplasm of thoracic oesophagus,cci,cancer,2
+Byu10,[X]Other sarcomas of the liver,cci,cancer,2
+B66y0,Aleukaemic monocytic leukaemia,cci,cancer,2
+B68y.,Other leukaemia of unspecified cell type,cci,cancer,2
+B326.,Malignant melanoma of upper limb and shoulder,cci,cancer,2
+B203.,Malignant neoplasm of ethmoid sinus,cci,cancer,2
+ZV104,[V]Personal history of malignant neoplasm of genital organ,cci,cancer,2
+B6106,Hodgkin's paragranuloma of intrapelvic lymph nodes,cci,cancer,2
+B313.,Malignant neoplasm of connective and soft tissue of thorax,cci,cancer,2
+B31z0,Kaposi's sarcoma of soft tissue,cci,cancer,2
+B041.,Malignant neoplasm of lateral portion of floor of mouth,cci,cancer,2
+B6151,"Hodgkin's mixed cellularity of lymph nodes head, face, neck",cci,cancer,2
+B114.,Malignant neoplasm of body of stomach,cci,cancer,2
+B620.,Reticulosarcoma - follicular or nodular,cci,cancer,2
+Byu5A,[X]Malignant neoplasm overlapping lesion of skin,cci,cancer,2
+B3...,"Carcinoma of bone, connective tissue, skin and breast",cci,cancer,2
+B613.,"Hodgkin's disease, lymphocytic-histiocytic predominance",cci,cancer,2
+B6102,Hodgkin's paragranuloma of intrathoracic lymph nodes,cci,cancer,2
+B490.,Malignant neoplasm of trigone of urinary bladder,cci,cancer,2
+ZV101,[V]Personal history of malignant neoplasm of lung,cci,cancer,2
+B523z,Malignant neoplasm of spinal meninges NOS,cci,cancer,2
+B6150,"Hodgkin's disease, mixed cellularity of unspecified site",cci,cancer,2
+B3102,Malignant neoplasm of soft tissue of neck,cci,cancer,2
+B220.,Malignant neoplasm of trachea,cci,cancer,2
+B336z,Malignant neoplasm of skin of upper limb or shoulder NOS,cci,cancer,2
+B2132,Malignant neoplasm of cuneiform cartilage,cci,cancer,2
+B339.,Dermatofibrosarcoma protuberans,cci,cancer,2
+B1802,Malignant neoplasm of retrocaecal tissue,cci,cancer,2
+B6510,Chronic eosinophilic leukaemia,cci,cancer,2
+B441.,Malignant neoplasm of fallopian tube,cci,cancer,2
+B231.,Malignant neoplasm of visceral pleura,cci,cancer,2
+B0041,"Malignant neoplasm of lip unspecified, frenulum",cci,cancer,2
+B3089,Malignant neoplasm of second metatarsal bone,cci,cancer,2
+B337z,Malignant neoplasm of skin of lower limb or hip NOS,cci,cancer,2
+Byu51,"[X]Mesothelioma, unspecified",cci,cancer,2
+B240.,Malignant neoplasm of thymus,cci,cancer,2
+B62y5,Malignant lymphoma NOS of lymph node inguinal region and leg,cci,cancer,2
+B30z.,Malignant neoplasm of bone and articular cartilage NOS,cci,cancer,2
+B161.,Malignant neoplasm of extrahepatic bile ducts,cci,cancer,2
+B322z,Malignant melanoma of ear and external auricular canal NOS,cci,cancer,2
+B3111,"Malignant neoplasm of connective and soft tissue, upper arm",cci,cancer,2
+B204.,Malignant neoplasm of frontal sinus,cci,cancer,2
+B3252,Malignant melanoma of buttock,cci,cancer,2
+B24y.,"Malig neop of other site of heart, thymus and mediastinum",cci,cancer,2
+B303.,"Malignant neoplasm of ribs, sternum and clavicle",cci,cancer,2
+B225.,Malignant neoplasm of overlapping lesion of bronchus & lung,cci,cancer,2
+B3271,Malignant melanoma of thigh,cci,cancer,2
+B1z11,Fibrosarcoma of spleen,cci,cancer,2
+B6203,Nodular lymphoma of intra-abdominal lymph nodes,cci,cancer,2
+B602.,Burkitt's lymphoma,cci,cancer,2
+B224z,"Malignant neoplasm of lower lobe, bronchus or lung NOS",cci,cancer,2
+B6221,"Sezary's disease of lymph nodes of head, face and neck",cci,cancer,2
+B163.,"Malignant neoplasm, overlapping lesion of biliary tract",cci,cancer,2
+B1612,Malignant neoplasm of common bile duct,cci,cancer,2
+B515.,Malignant neoplasm of cerebral ventricles,cci,cancer,2
+B102.,Malignant neoplasm of abdominal oesophagus,cci,cancer,2
+B3122,Malig neop connective and soft tissue of popliteal space,cci,cancer,2
+B454.,Malignant neoplasm of vulva unspecified,cci,cancer,2
+B080.,Malignant neoplasm of postcricoid region,cci,cancer,2
+B03y.,Malignant neoplasm of other sites of gum,cci,cancer,2
+B0130,Malignant neoplasm of anterior 2/3 of tongue ventral surface,cci,cancer,2
+B3270,Malignant melanoma of hip,cci,cancer,2
+B064.,Malignant neoplasm of anterior epiglottis,cci,cancer,2
+B013.,Malignant neoplasm of ventral surface of tongue,cci,cancer,2
+ZV100,[V]Personal history of malignant neoplasm of stomach,cci,cancer,2
+B3000,Malignant neoplasm of ethmoid bone,cci,cancer,2
+B6z..,Malignant neoplasm lymphatic or haematopoietic tissue NOS,cci,cancer,2
+B51yz,Malignant neoplasm of other part of brain NOS,cci,cancer,2
+B624z,Leukaemic reticuloendotheliosis NOS,cci,cancer,2
+B412.,"Malignant neoplasm, overlapping lesion of cervix uteri",cci,cancer,2
+B2010,Malignant neoplasm of auditory (Eustachian) tube,cci,cancer,2
+B10z.,Malignant neoplasm of oesophagus NOS,cci,cancer,2
+B011z,Malignant neoplasm of dorsum of tongue NOS,cci,cancer,2
+B103.,Malignant neoplasm of upper third of oesophagus,cci,cancer,2
+B310.,"Malig neop of connective and soft tissue head, face and neck",cci,cancer,2
+B3341,Malignant neoplasm of skin of neck,cci,cancer,2
+B61z.,Hodgkin's disease NOS,cci,cancer,2
+B3331,Malignant neoplasm of skin of chin,cci,cancer,2
+B3100,Malignant neoplasm of soft tissue of head,cci,cancer,2
+B6128,Hodgkin's sarcoma of lymph nodes of multiple sites,cci,cancer,2
+B5232,Malignant neoplasm of spinal pia mater,cci,cancer,2
+B3007,Malignant neoplasm of sphenoid bone,cci,cancer,2
+B33y.,Malignant neoplasm of other specified skin sites,cci,cancer,2
+B653z,Myeloid sarcoma NOS,cci,cancer,2
+B3256,Malignant melanoma of umbilicus,cci,cancer,2
+B6018,Lymphosarcoma of lymph nodes of multiple sites,cci,cancer,2
+B111.,Malignant neoplasm of pylorus of stomach,cci,cancer,2
+B22z.,Lung cancer,cci,cancer,2
+B18y4,Malignant neoplasm of parietal peritoneum,cci,cancer,2
+B5212,Malignant neoplasm of cerebral pia mater,cci,cancer,2
+B1800,Malignant neoplasm of periadrenal tissue,cci,cancer,2
+B641.,Chronic lymphoid leukaemia,cci,cancer,2
+B072z,Malignant neoplasm of lateral wall of nasopharynx NOS,cci,cancer,2
+B....,Cancers,cci,cancer,2
+B34y0,Malignant neoplasm of ectopic site of female breast,cci,cancer,2
+B224.,"Malignant neoplasm of lower lobe, bronchus or lung",cci,cancer,2
+B3040,Malignant neoplasm of scapula,cci,cancer,2
+B3151,Malig neop of connective and soft tissue of inguinal region,cci,cancer,2
+B12..,Malignant neoplasm of small intestine and duodenum,cci,cancer,2
+B3112,Malignant neoplasm of connective and soft tissue of fore-arm,cci,cancer,2
+B6226,Sezary's disease of intrapelvic lymph nodes,cci,cancer,2
+B626z,Malignant mast cell tumour NOS,cci,cancer,2
+B6112,Hodgkin's granuloma of intrathoracic lymph nodes,cci,cancer,2
+B5503,Malignant neoplasm of jaw NOS,cci,cancer,2
+B6y0.,Myeloproliferative disease,cci,cancer,2
+B306.,"Malignant neoplasm of pelvic bones, sacrum and coccyx",cci,cancer,2
+B69..,Myelomonocytic leukaemia,cci,cancer,2
+B6131,"Hodgkin's, lymphocytic-histiocytic pred of head, face, neck",cci,cancer,2
+B6161,"Hodgkin's lymphocytic depletion of head, face and neck",cci,cancer,2
+B624.,Leukaemic reticuloendotheliosis,cci,cancer,2
+B410z,Malignant neoplasm of endocervix NOS,cci,cancer,2
+B524W,"Mal neoplasm/periph nerves nervous system,unspc",cci,cancer,2
+B30W.,Malignant neoplasm/overlap lesion/bone cartilage,cci,cancer,2
+B3273,Malignant melanoma of popliteal fossa area,cci,cancer,2
+B6206,Nodular lymphoma of intrapelvic lymph nodes,cci,cancer,2
+B3261,Malignant melanoma of upper arm,cci,cancer,2
+B68..,Leukaemia of unspecified cell type,cci,cancer,2
+B482.,Malignant neoplasm of body of penis,cci,cancer,2
+B3279,Malignant melanoma of great toe,cci,cancer,2
+B1510,Malignant neoplasm of interlobular bile ducts,cci,cancer,2
+B67y0,Lymphosarcoma cell leukaemia,cci,cancer,2
+B5001,Malignant neoplasm of iris,cci,cancer,2
+B327.,Malignant melanoma of lower limb and hip,cci,cancer,2
+B60..,Lymphosarcoma and reticulosarcoma,cci,cancer,2
+B24..,"Malignant neoplasm of thymus, heart and mediastinum",cci,cancer,2
+B6277,Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma,cci,cancer,2
+B45X.,Malignant neoplasm/overlapping lesion/feml genital organs,cci,cancer,2
+B6016,Lymphosarcoma of intrapelvic lymph nodes,cci,cancer,2
+B6015,Lymphosarcoma of lymph nodes of inguinal region and leg,cci,cancer,2
+B5103,Malignant neoplasm of globus pallidus,cci,cancer,2
+B21..,Malignant neoplasm of larynx,cci,cancer,2
+B4302,Malignant neoplasm of endometrium,cci,cancer,2
+B014.,Malignant neoplasm of anterior 2/3 of tongue unspecified,cci,cancer,2
+B3264,Malignant melanoma of finger,cci,cancer,2
+B62z7,Unspec malig neop lymphoid/histiocytic of spleen,cci,cancer,2
+B3374,Malignant neoplasm of skin of lower leg,cci,cancer,2
+B2001,Malignant neoplasm of nasal conchae,cci,cancer,2
+B201.,"Malig neop auditory tube, middle ear and mastoid air cells",cci,cancer,2
+B205.,Malignant neoplasm of sphenoidal sinus,cci,cancer,2
+B21y.,"Malignant neoplasm of larynx, other specified site",cci,cancer,2
+B2201,Malignant neoplasm of mucosa of trachea,cci,cancer,2
+B6121,"Hodgkin's sarcoma of lymph nodes of head, face and neck",cci,cancer,2
+B3352,Malignant neoplasm of skin of breast,cci,cancer,2
+B3251,Malignant melanoma of breast,cci,cancer,2
+B631.,Plasma cell leukaemia,cci,cancer,2
+B3051,Malignant neoplasm of carpal bone - lunate,cci,cancer,2
+B5002,Malignant neoplasm of crystalline lens,cci,cancer,2
+B67yz,Other and unspecified leukaemia NOS,cci,cancer,2
+ByuD2,[X]Other types of diffuse non-Hodgkin's lymphoma,cci,cancer,2
+B41..,Malignant neoplasm of cervix uteri,cci,cancer,2
+B160.,Carcinoma gallbladder,cci,cancer,2
+B3310,Malignant neoplasm of canthus,cci,cancer,2
+B3230,Malignant melanoma of external surface of cheek,cci,cancer,2
+B4...,Malignant neoplasm of genitourinary organ,cci,cancer,2
+B3021,Malignant neoplasm of thoracic vertebra,cci,cancer,2
+B30X.,"Malignant neoplasm/bones cartilage/limb,unspfd",cci,cancer,2
+B3220,Malignant melanoma of auricle (ear),cci,cancer,2
+B61..,Hodgkin's disease,cci,cancer,2
+B471.,Malignant neoplasm of descended testis,cci,cancer,2
+B5000,Malignant neoplasm of ciliary body,cci,cancer,2
+ByuDF,"[X]Non-Hodgkin's lymphoma, unspecified type",cci,cancer,2
+B62y.,Malignant lymphoma NOS,cci,cancer,2
+B5231,Malignant neoplasm of spinal arachnoid mater,cci,cancer,2
+B6263,Mast cell malignancy of intra-abdominal lymph nodes,cci,cancer,2
+B54X.,"Malignant neoplasm-pluriglandular involvement,unspecified",cci,cancer,2
+B54y.,Malignant neoplasm of other specified endocrine gland,cci,cancer,2
+B18..,Malignant neoplasm of retroperitoneum and peritoneum,cci,cancer,2
+B30..,Chondroma,cci,cancer,2
+B1502,Primary angiosarcoma of liver,cci,cancer,2
+B31..,Malignant neoplasm of connective and other soft tissue,cci,cancer,2
+B650.,Acute myeloid leukaemia,cci,cancer,2
+B661.,Chronic monocytic leukaemia,cci,cancer,2
+B3065,Malignant sacral teratoma,cci,cancer,2
+B200z,Malignant neoplasm of nasal cavities NOS,cci,cancer,2
+B6152,Hodgkin's mixed cellularity of intrathoracic lymph nodes,cci,cancer,2
+B18z.,Malignant neoplasm of retroperitoneum and peritoneum NOS,cci,cancer,2
+B6213,Mycosis fungoides of intra-abdominal lymph nodes,cci,cancer,2
+B52..,Malig neop of other and unspecified parts of nervous system,cci,cancer,2
+B55y0,Malignant neoplasm of back NOS,cci,cancer,2
+B304.,Malignant neoplasm of scapula and long bones of upper arm,cci,cancer,2
+B62z2,Unspec malig neop lymphoid/histiocytic of intrathoracic node,cci,cancer,2
+B55y1,Malignant neoplasm of trunk NOS,cci,cancer,2
+B1z..,Malig neop oth/ill-defined sites digestive tract/peritoneum,cci,cancer,2
+B5243,Malignant neoplasm of peripheral nerve of thorax,cci,cancer,2
+B1z1.,Malignant neoplasm of spleen NEC,cci,cancer,2
+B55y2,Malignant neoplasm of flank NOS,cci,cancer,2
+B55z.,Malignant neoplasm of other and ill defined site NOS,cci,cancer,2
+Byu50,[X]Mesothelioma of lung,cci,cancer,2
+B3031,Malignant neoplasm of sternum,cci,cancer,2
+B34..,Malignant neoplasm of female breast,cci,cancer,2
+B070.,Malignant neoplasm of roof of nasopharynx,cci,cancer,2
+B680.,Acute leukaemia NOS,cci,cancer,2
+B51z.,Malignant neoplasm of brain NOS,cci,cancer,2
+B232.,Mesothelioma of pleura,cci,cancer,2
+B302z,Malignant neoplasm of vertebral column NOS,cci,cancer,2
+B5100,Malignant neoplasm of basal ganglia,cci,cancer,2
+Byu72,[X]Malignant neoplasm/overlapping lesion/feml genital organs,cci,cancer,2
+B3081,Malignant neoplasm of talus,cci,cancer,2
+B20y.,"Malig neop other site nasal cavity, middle ear and sinuses",cci,cancer,2
+B662.,Subacute monocytic leukaemia,cci,cancer,2
+B62y3,Malignant lymphoma NOS of intra-abdominal lymph nodes,cci,cancer,2
+B3141,Malig neoplasm of connective and soft tissues of lumb spine,cci,cancer,2
+Byu58,"[X]Mal neoplasm/connective tissue of trunk,unspecified",cci,cancer,2
+B344.,Malignant neoplasm of upper-outer quadrant of female breast,cci,cancer,2
+B5246,"Malignant neoplasm,overlap lesion periph nerve & auton ns",cci,cancer,2
+B33..,Epithelioma,cci,cancer,2
+B5502,Malignant neoplasm of nose NOS,cci,cancer,2
+B3370,Malignant neoplasm of skin of hip,cci,cancer,2
+B133.,Malignant neoplasm of sigmoid colon,cci,cancer,2
+ZV102,[V]Personal history of malignant neoplasm of nose,cci,cancer,2
+Byu2.,[X]Malignant neoplasm of respiratory and intrathoracic orga,cci,cancer,2
+B350z,Malignant neoplasm of nipple or areola of male breast NOS,cci,cancer,2
+B2...,Carcinoma of respiratory tract and intrathoracic organs,cci,cancer,2
+B06z.,Malignant neoplasm of oropharynx NOS,cci,cancer,2
+B52y.,Malignant neoplasm of other specified part of nervous system,cci,cancer,2
+B41y0,Malignant neoplasm of cervical stump,cci,cancer,2
+B0641,Malignant neoplasm of glossoepiglottic fold,cci,cancer,2
+B222.,"Malignant neoplasm of upper lobe, bronchus or lung",cci,cancer,2
+B6107,Hodgkin's paragranuloma of spleen,cci,cancer,2
+B6302,Plasmacytoma NOS,cci,cancer,2
+B52z.,Malignant neoplasm of nervous system NOS,cci,cancer,2
+B0010,"Malignant neoplasm of lower lip, external",cci,cancer,2
+B1500,Primary carcinoma of liver,cci,cancer,2
+B222z,"Malignant neoplasm of upper lobe, bronchus or lung NOS",cci,cancer,2
+B5121,Malignant neoplasm of uncus,cci,cancer,2
+B6012,Lymphosarcoma of intrathoracic lymph nodes,cci,cancer,2
+B6026,Burkitt's lymphoma of intrapelvic lymph nodes,cci,cancer,2
+B0000,"Malignant neoplasm of upper lip, external",cci,cancer,2
+Byu40,[X]Malignant melanoma of other parts of face,cci,cancer,2
+B5240,"Malignant neoplasm of peripheral nerves of head, face & neck",cci,cancer,2
+B550.,"Malignant neoplasm of head, neck and face",cci,cancer,2
+B34y.,Malignant neoplasm of other site of female breast,cci,cancer,2
+B308C,Malignant neoplasm of fifth metatarsal bone,cci,cancer,2
+B040.,Malignant neoplasm of anterior portion of floor of mouth,cci,cancer,2
+B3030,Malignant neoplasm of rib,cci,cancer,2
+B065.,Malignant neoplasm of junctional region of epiglottis,cci,cancer,2
+B430z,Malignant neoplasm of corpus uteri NOS,cci,cancer,2
+B003.,"Malignant neoplasm of lower lip, inner aspect",cci,cancer,2
+B137.,Malignant neoplasm of splenic flexure of colon,cci,cancer,2
+B6257,Letterer-Siwe disease of spleen,cci,cancer,2
+B3006,Malignant neoplasm of parietal bone,cci,cancer,2
+B241.,Malignant neoplasm of heart,cci,cancer,2
+B62y1,"Malignant lymphoma NOS of lymph nodes of head, face and neck",cci,cancer,2
+B61z4,Hodgkin's disease NOS of lymph nodes of axilla and arm,cci,cancer,2
+B5101,Malignant neoplasm of cerebral cortex,cci,cancer,2
+B506.,Malignant neoplasm of choroid,cci,cancer,2
+ByuD7,[X]Other monocytic leukaemia,cci,cancer,2
+B540z,Malignant neoplasm of adrenal gland NOS,cci,cancer,2
+Byu22,"[X]Malignant neoplasm/upper resp tract, part unspecified",cci,cancer,2
+B4100,Malignant neoplasm of endocervical canal,cci,cancer,2
+B691.,Chronic myelomonocytic leukaemia,cci,cancer,2
+B3260,Malignant melanoma of shoulder,cci,cancer,2
+B49y.,Malignant neoplasm of other site of urinary bladder,cci,cancer,2
+B6303,Lambda light chain myeloma,cci,cancer,2
+B6120,Hodgkin's sarcoma of unspecified site,cci,cancer,2
+B3133,Malig neoplasm of connective and soft tissues of thor spine,cci,cancer,2
+B3087,Malignant neoplasm of navicular,cci,cancer,2
+B616.,"Hodgkin's disease, lymphocytic depletion",cci,cancer,2
+B430.,"Malignant neoplasm of corpus uteri, excluding isthmus",cci,cancer,2
+B483.,"Malignant neoplasm of penis, part unspecified",cci,cancer,2
+B2000,Malignant neoplasm of cartilage of nose,cci,cancer,2
+B307z,Malignant neoplasm of long bones of leg NOS,cci,cancer,2
+B17yz,Malignant neoplasm of specified site of pancreas NOS,cci,cancer,2
+B3231,Malignant melanoma of chin,cci,cancer,2
+B05..,Malignant neoplasm of other and unspecified parts of mouth,cci,cancer,2
+B513.,Malignant neoplasm of parietal lobe,cci,cancer,2
+By...,Neoplasms otherwise specified,cci,cancer,2
+B507.,Malignant neoplasm of lacrimal duct,cci,cancer,2
+B616z,"Hodgkin's disease, lymphocytic depletion NOS",cci,cancer,2
+B3113,Malignant neoplasm of connective and soft tissue of hand,cci,cancer,2
+B305z,Malignant neoplasm of hand bones NOS,cci,cancer,2
+Byu32,[X]Malignant neoplasm/overlap lesion/bone cartilage,cci,cancer,2
+B010.,Malignant neoplasm of base of tongue,cci,cancer,2
+B6022,Burkitt's lymphoma of intrathoracic lymph nodes,cci,cancer,2
+B0z..,"Malig neop other/ill-defined sites lip, oral cavity, pharynx",cci,cancer,2
+B134.,Carcinoma of caecum,cci,cancer,2
+B030.,Malignant neoplasm of upper gum,cci,cancer,2
+B6215,Mycosis fungoides of lymph nodes of inguinal region and leg,cci,cancer,2
+B071.,Malignant neoplasm of posterior wall of nasopharynx,cci,cancer,2
+B6252,Letterer-Siwe disease of intrathoracic lymph nodes,cci,cancer,2
+B6253,Letterer-Siwe disease of intra-abdominal lymph nodes,cci,cancer,2
+B625.,Letterer-Siwe disease,cci,cancer,2
+B113.,Malignant neoplasm of fundus of stomach,cci,cancer,2
+B501.,Malignant neoplasm of orbit,cci,cancer,2
+B2130,Malignant neoplasm of arytenoid cartilage,cci,cancer,2
+B62x1,Lymphoepithelioid lymphoma,cci,cancer,2
+B322.,Malignant melanoma of ear and external auricular canal,cci,cancer,2
+Byu0.,"[X]Malignant neoplasm of lip, oral cavity and pharynx",cci,cancer,2
+B316.,Malig neop of connective and soft tissue trunk unspecified,cci,cancer,2
+B06y.,"Malignant neoplasm of oropharynx, other specified sites",cci,cancer,2
+B5104,Malignant neoplasm of hypothalamus,cci,cancer,2
+ByuD9,[X]Other leukaemia of unspecified cell type,cci,cancer,2
+B63z.,Immunoproliferative neoplasm or myeloma NOS,cci,cancer,2
+B545z,Malignant neoplasm of aortic body or paraganglia NOS,cci,cancer,2
+B0730,Malignant neoplasm of floor of nasopharynx,cci,cancer,2
+B306z,"Malignant neoplasm of pelvis, sacrum or coccyx NOS",cci,cancer,2
+B18y7,Malignant neoplasm of mesentery,cci,cancer,2
+B326z,Malignant melanoma of upper limb or shoulder NOS,cci,cancer,2
+B6y1.,Myelosclerosis with myeloid metaplasia,cci,cancer,2
+B6116,Hodgkin's granuloma of intrapelvic lymph nodes,cci,cancer,2
+B41y1,Malignant neoplasm of squamocolumnar junction of cervix,cci,cancer,2
+B62x.,Malignant lymphoma otherwise specified,cci,cancer,2
+B4z..,Malignant neoplasm of genitourinary organ NOS,cci,cancer,2
+B3335,Malignant neoplasm of skin of temple,cci,cancer,2
+B0043,"Malignant neoplasm of lip, oral aspect",cci,cancer,2
+B6000,Reticulosarcoma of unspecified site,cci,cancer,2
+B651.,Chronic granulocytic leukaemia,cci,cancer,2
+B150z,Primary malignant neoplasm of liver NOS,cci,cancer,2
+B3263,Malignant melanoma of hand,cci,cancer,2
+ZV107,[V]Personal history of other haematopoietic neoplasm,cci,cancer,2
+B496.,Malignant neoplasm of ureteric orifice,cci,cancer,2
+B337.,Malignant neoplasm of skin of lower limb and hip,cci,cancer,2
+B43..,Malignant neoplasm of body of uterus,cci,cancer,2
+B6262,Mast cell malignancy of intrathoracic lymph nodes,cci,cancer,2
+B0zz.,"Malignant neoplasm of lip, oral cavity and pharynx NOS",cci,cancer,2
+B345.,Malignant neoplasm of lower-outer quadrant of female breast,cci,cancer,2
+ByuA1,"[X]Malignant neoplasm/central nervous system, unspecified",cci,cancer,2
+B2z..,Malig neop other/ill-defined sites resp/intrathoracic organs,cci,cancer,2
+B3376,Malignant neoplasm of skin of heel,cci,cancer,2
+B313z,Malig neop of connective and soft tissue of thorax NOS,cci,cancer,2
+B44z.,Malignant neoplasm of uterine adnexa NOS,cci,cancer,2
+Byu52,[X]Kaposi's sarcoma of multiple organs,cci,cancer,2
+B64y1,Prolymphocytic leukaemia,cci,cancer,2
+ByuDE,[X]Unspecified B-cell non-Hodgkin's lymphoma,cci,cancer,2
+B622.,Sezary's disease,cci,cancer,2
+B1801,Malignant neoplasm of perinephric tissue,cci,cancer,2
+B410.,Malignant neoplasm of endocervix,cci,cancer,2
+B3257,Malignant melanoma of back,cci,cancer,2
+B16y.,Malignant neoplasm other gallbladder/extrahepatic bile duct,cci,cancer,2
+B6155,Hodgkin's mixed cellularity of lymph nodes inguinal and leg,cci,cancer,2
+B2411,Malignant neoplasm of epicardium,cci,cancer,2
+B004z,"Malignant neoplasm of lip, inner aspect NOS",cci,cancer,2
+B02y.,Malignant neoplasm of other major salivary glands,cci,cancer,2
+B201z,"Malig neop auditory tube, middle ear, mastoid air cells NOS",cci,cancer,2
+B6162,Hodgkin's lymphocytic depletion of intrathoracic lymph nodes,cci,cancer,2
+B3351,"Malignant neoplasm of skin of chest, excluding breast",cci,cancer,2
+B005.,Malignant neoplasm of commissure of lip,cci,cancer,2
+B5172,Malignant neoplasm of midbrain,cci,cancer,2
+B0z1.,Malignant neoplasm of Waldeyer's ring,cci,cancer,2
+B6001,"Reticulosarcoma of lymph nodes of head, face and neck",cci,cancer,2
+B492.,Malignant neoplasm of lateral wall of urinary bladder,cci,cancer,2
+B161z,Malignant neoplasm of extrahepatic bile ducts NOS,cci,cancer,2
+B5...,Malignant neoplasm of other and unspecified sites,cci,cancer,2
+B61z0,"Hodgkin's disease NOS, unspecified site",cci,cancer,2
+B622z,Sezary's disease NOS,cci,cancer,2
+B3354,Malignant neoplasm of skin of umbilicus,cci,cancer,2
+B4A10,Malignant neoplasm of renal calyces,cci,cancer,2
+Byu24,[X]Malignant neoplasm/ill-defined sites within resp system,cci,cancer,2
+B411.,Malignant neoplasm of exocervix,cci,cancer,2
+ByuA.,"[X]Malignant neoplasm of eye, brain and other parts of cent",cci,cancer,2
+ByuDD,[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas,cci,cancer,2
+B3150,Malignant neoplasm of connective and soft tissue of buttock,cci,cancer,2
+B495.,Malignant neoplasm of bladder neck,cci,cancer,2
+B3401,Malignant neoplasm of areola of female breast,cci,cancer,2
+B5420,Malignant neoplasm of pituitary gland,cci,cancer,2
+B3330,"Malignant neoplasm of skin of cheek, external",cci,cancer,2
+B010z,Malignant neoplasm of fixed part of tongue NOS,cci,cancer,2
+B3241,Malignant melanoma of neck,cci,cancer,2
+B65y1,Acute promyelocytic leukaemia,cci,cancer,2
+B314z,Malig neop of connective and soft tissue of abdomen NOS,cci,cancer,2
+B500z,Malignant neoplasm of eyeball NOS,cci,cancer,2
+B3124,Malignant neoplasm of connective and soft tissue of foot,cci,cancer,2
+B3110,Malignant neoplasm of connective and soft tissue of shoulder,cci,cancer,2
+B340.,Malignant neoplasm of nipple and areola of female breast,cci,cancer,2
+B00zz,"Malignant neoplasm of lip, vermilion border NOS",cci,cancer,2
+B2410,Malignant neoplasm of endocardium,cci,cancer,2
+B2413,Malignant neoplasm of pericardium,cci,cancer,2
+B350.,Malignant neoplasm of nipple and areola of male breast,cci,cancer,2
+B690.,Acute myelomonocytic leukaemia,cci,cancer,2
+B181.,Mesothelioma of peritoneum,cci,cancer,2
+B508.,"Malignant neoplasm, overlapping lesion of eye and adnexa",cci,cancer,2
+B486.,Malignant neoplasm of scrotum,cci,cancer,2
+B62y6,Malignant lymphoma NOS of intrapelvic lymph nodes,cci,cancer,2
+B554.,Malignant neoplasm of upper limb NOS,cci,cancer,2
+B150.,Primary malignant neoplasm of liver,cci,cancer,2
+B524X,"Malignant neoplasm/peripheral nerves of trunk,unspecified",cci,cancer,2
+B443.,Malignant neoplasm of parametrium,cci,cancer,2
+B342.,Malignant neoplasm of upper-inner quadrant of female breast,cci,cancer,2
+B2131,Malignant neoplasm of cricoid cartilage,cci,cancer,2
+B6208,Nodular lymphoma of lymph nodes of multiple sites,cci,cancer,2
+B3373,Malignant neoplasm of skin of popliteal fossa area,cci,cancer,2
+B5512,Malignant neoplasm of intrathoracic site NOS,cci,cancer,2
+B3115,Malignant neoplasm of connective and soft tissue of thumb,cci,cancer,2
+B6133,"Hodgkin's, lymphocytic-histiocytic pred intra-abdominal node",cci,cancer,2
+Byu23,[X]Malignant neopl/overlapping les/resp organs,cci,cancer,2
+ByuE.,[X]Malignant neoplasms/independent (primary) multiple sites,cci,cancer,2
+B4101,Malignant neoplasm of endocervical gland,cci,cancer,2
+Byu6.,[X]Malignant neoplasm of breast,cci,cancer,2
+B660.,Acute monocytic leukaemia,cci,cancer,2
+B311z,Malig neop connective soft tissue upper limb/shoulder NOS,cci,cancer,2
+B6243,Leukaemic reticuloend of intra-abdominal lymph nodes,cci,cancer,2
+B305.,Malignant neoplasm of carpal bones,cci,cancer,2
+B6200,Nodular lymphoma of unspecified site,cci,cancer,2
+B6211,"Mycosis fungoides of the lymph nodes of head, face and neck",cci,cancer,2
+B6214,Mycosis fungoides of lymph nodes of axilla and upper limb,cci,cancer,2
+B00z1,"Malignant neoplasm of lip, unspecified, lipstick area",cci,cancer,2
+B6227,Sezary's disease of spleen,cci,cancer,2
+B230.,Malignant neoplasm of parietal pleura,cci,cancer,2
+B62zz,Lymphoid and histiocytic malignancy NOS,cci,cancer,2
+B2241,Malignant neoplasm of lower lobe of lung,cci,cancer,2
+B504.,Malignant neoplasm of cornea,cci,cancer,2
+Byu5.,[X]Malignant neoplasm of mesothelial and soft tissue,cci,cancer,2
+B6530,Chloroma,cci,cancer,2
+B3340,Malignant neoplasm of scalp,cci,cancer,2
+B66..,Monocytic leukaemia,cci,cancer,2
+B6225,Sezary's disease of lymph nodes of inguinal region and leg,cci,cancer,2
+B22y.,Malignant neoplasm of other sites of bronchus or lung,cci,cancer,2
+B540.,Phaeochromocytoma,cci,cancer,2
+B440.,Malignant neoplasm of ovary,cci,cancer,2
+B3071,Malignant neoplasm of fibula,cci,cancer,2
+B612.,Hodgkin's sarcoma,cci,cancer,2
+B613z,"Hodgkin's, lymphocytic-histiocytic predominance NOS",cci,cancer,2
+B55y.,Malignant neoplasm of other specified sites,cci,cancer,2
+B420.,Choriocarcinoma,cci,cancer,2
+B3312,Malignant neoplasm of lower eyelid,cci,cancer,2
+B62z6,Unspec malig neop lymphoid/histiocytic of intrapelvic nodes,cci,cancer,2
+B300C,Malignant neoplasm of vomer,cci,cancer,2
+B4A1.,Malignant neoplasm of renal pelvis,cci,cancer,2
+ByuDC,"[X]Diffuse non-Hodgkin's lymphoma, unspecified",cci,cancer,2
+B6256,Letterer-Siwe disease of intrapelvic lymph nodes,cci,cancer,2
+B110.,Malignant neoplasm of cardia of stomach,cci,cancer,2
+B553z,Malignant neoplasm of pelvis NOS,cci,cancer,2
+B2211,Malignant neoplasm of hilus of lung,cci,cancer,2
+B550z,"Malignant neoplasm of head, neck and face NOS",cci,cancer,2
+B517z,Malignant neoplasm of brain stem NOS,cci,cancer,2
+B33z.,Malignant neoplasm of skin NOS,cci,cancer,2
+ByuDA,"[X]Oth spcf mal neoplsm/lymphoid,haematopoietic tissue",cci,cancer,2
+B6...,Malignant neoplasm of lymphatic and haemopoietic tissue,cci,cancer,2
+B672.,Megakaryocytic leukaemia,cci,cancer,2
+B67..,Other specified leukaemia,cci,cancer,2
+B1420,Malignant neoplasm of cloacogenic zone,cci,cancer,2
+B5210,Malignant neoplasm of cerebral dura mater,cci,cancer,2
+Byu25,"[X]Malignant neoplasm of mediastinum, part unspecified",cci,cancer,2
+B3372,Malignant neoplasm of skin of knee,cci,cancer,2
+B6124,Hodgkin's sarcoma of lymph nodes of axilla and upper limb,cci,cancer,2
+B211.,Malignant neoplasm of supraglottis,cci,cancer,2
+B3375,Malignant neoplasm of skin of ankle,cci,cancer,2
+B3333,Malignant neoplasm of skin of forehead,cci,cancer,2
+B17z.,Malignant neoplasm of pancreas NOS,cci,cancer,2
+B5244,Malignant neoplasm of peripheral nerve of abdomen,cci,cancer,2
+B0110,Malignant neoplasm of anterior 2/3 of tongue dorsal surface,cci,cancer,2
+B5011,Malignant neoplasm of extraocular muscle of orbit,cci,cancer,2
+B073z,Malignant neoplasm of anterior wall of nasopharynx NOS,cci,cancer,2
+B06yz,Malignant neoplasm of other specified site of oropharynx NOS,cci,cancer,2
+B64y0,Aleukaemic lymphoid leukaemia,cci,cancer,2
+B0622,Malignant neoplasm of palatoglossal arch,cci,cancer,2
+B553.,Malignant neoplasm of pelvis,cci,cancer,2
+B3275,Malignant melanoma of ankle,cci,cancer,2
+B6220,Sezary's disease of unspecified site,cci,cancer,2
+B32y0,Overlapping malignant melanoma of skin,cci,cancer,2
+B47z.,Malignant neoplasm of testis NOS,cci,cancer,2
+B5171,Malignant neoplasm of medulla oblongata,cci,cancer,2
+B3377,Malignant neoplasm of skin of foot,cci,cancer,2
+B5003,Malignant neoplasm of sclera,cci,cancer,2
+B32z.,Malignant melanoma of skin NOS,cci,cancer,2
+B4A..,Malig neop of kidney and other unspecified urinary organs,cci,cancer,2
+B6156,Hodgkin's mixed cellularity of intrapelvic lymph nodes,cci,cancer,2
+B6231,"Malignant histiocytosis of lymph nodes head, face and neck",cci,cancer,2
+B514.,Malignant neoplasm of occipital lobe,cci,cancer,2
+B5151,Malignant neoplasm of floor of cerebral ventricle,cci,cancer,2
+B3152,Malignant neoplasm of connective and soft tissue of perineum,cci,cancer,2
+B3255,Malignant melanoma of perineum,cci,cancer,2
+B524.,Malig neopl peripheral nerves and autonomic nervous system,cci,cancer,2
+B315z,Malig neop of connective and soft tissue of pelvis NOS,cci,cancer,2
+B517.,Malignant neoplasm of brain stem,cci,cancer,2
+B3034,Malignant neoplasm of costo-vertebral joint,cci,cancer,2
+B5241,"Malignant neoplasm of peripheral nerve,upp limb,incl should",cci,cancer,2
+B6274,Diffuse non-Hodgkin's small cleaved cell (diffuse) lymphoma,cci,cancer,2
+B323.,Malignant melanoma of other and unspecified parts of face,cci,cancer,2
+B4500,Malignant neoplasm of Gartner's duct,cci,cancer,2
+B444.,Malignant neoplasm of round ligament,cci,cancer,2
+B3y..,"Malig neop of bone, connective tissue, skin and breast OS",cci,cancer,2
+B45y0,Malignant neoplasm of overlapping lesion of vulva,cci,cancer,2
+B175.,"Malignant neoplasm, overlapping lesion of pancreas",cci,cancer,2
+B174.,Malignant neoplasm of Islets of Langerhans,cci,cancer,2
+B4Az.,Malignant neoplasm of kidney or urinary organs NOS,cci,cancer,2
+B3350,Malignant neoplasm of skin of axillary fold,cci,cancer,2
+B056.,Malignant neoplasm of retromolar area,cci,cancer,2
+B452.,Malignant neoplasm of labia minora,cci,cancer,2
+B03..,Malignant neoplasm of gum,cci,cancer,2
+B18y6,Malignant neoplasm of the pouch of Douglas,cci,cancer,2
+B6276,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma,cci,cancer,2
+B3362,Malignant neoplasm of skin of fore-arm,cci,cancer,2
+B611z,Hodgkin's granuloma NOS,cci,cancer,2
+B62z.,Malignant neoplasms of lymphoid and histiocytic tissue NOS,cci,cancer,2
+B140.,Malignant neoplasm of rectosigmoid junction,cci,cancer,2
+B681.,Chronic leukaemia NOS,cci,cancer,2
+B341.,Malignant neoplasm of central part of female breast,cci,cancer,2
+B0zy.,"Malignant neoplasm of other sites lip, oral cavity, pharynx",cci,cancer,2
+B300z,Malignant neoplasm of bones of skull and face NOS,cci,cancer,2
+B431z,Malignant neoplasm of isthmus of uterine body NOS,cci,cancer,2
+B062z,Malignant neoplasm of tonsillar fossa NOS,cci,cancer,2
+B0040,"Malignant neoplasm of lip unspecified, buccal aspect",cci,cancer,2
+B4A2.,Malignant neoplasm of ureter,cci,cancer,2
+B310z,"Malig neop connective and soft tissue head, face, neck NOS",cci,cancer,2
+B0031,"Malignant neoplasm of lower lip, frenulum",cci,cancer,2
+B2231,Malignant neoplasm of middle lobe of lung,cci,cancer,2
+B182.,Overlapping malign lesion of retroperitoneum and peritoneum,cci,cancer,2
+B3056,Malignant neoplasm of carpal bone - capitate,cci,cancer,2
+B651z,Chronic myeloid leukaemia NOS,cci,cancer,2
+B0033,"Malignant neoplasm of lower lip, oral aspect",cci,cancer,2
+B0022,"Malignant neoplasm of upper lip, mucosa",cci,cancer,2
+B0600,Malignant neoplasm of faucial tonsil,cci,cancer,2
+B521.,Malignant neoplasm of cerebral meninges,cci,cancer,2
+B00z.,Malignant neoplasm of vermilion border of lip unspecified,cci,cancer,2
+B431.,Malignant neoplasm of isthmus of uterine body,cci,cancer,2
+ByuE0,[X]Malignant neoplasms/independent(primary)multiple sites,cci,cancer,2
+B4700,Malignant neoplasm of ectopic testis,cci,cancer,2
+B3043,Malignant neoplasm of radius,cci,cancer,2
+B11y0,Malignant neoplasm of anterior wall of stomach NEC,cci,cancer,2
+B6004,Reticulosarcoma of lymph nodes of axilla and upper limb,cci,cancer,2
+B117.,"Malignant neoplasm, overlapping lesion of stomach",cci,cancer,2
+B3058,Malignant neoplasm of first metacarpal bone,cci,cancer,2
+B6110,Hodgkin's granuloma of unspecified site,cci,cancer,2
+B212.,Malignant neoplasm of subglottis,cci,cancer,2
+B100.,Malignant neoplasm of cervical oesophagus,cci,cancer,2
+B62y4,Malignant lymphoma NOS of lymph nodes of axilla and arm,cci,cancer,2
+B4300,Malignant neoplasm of cornu of corpus uteri,cci,cancer,2
+B5071,Malignant neoplasm of nasolacrimal duct,cci,cancer,2
+B6125,Hodgkin's sarcoma of lymph nodes of inguinal region and leg,cci,cancer,2
+B61zz,Hodgkin's disease NOS,cci,cancer,2
+B3032,Malignant neoplasm of clavicle,cci,cancer,2
+B6017,Lymphosarcoma of spleen,cci,cancer,2
+B66z.,Monocytic leukaemia NOS,cci,cancer,2
+B180.,Malignant neoplasm of retroperitoneum,cci,cancer,2
+B60z.,Reticulosarcoma or lymphosarcoma NOS,cci,cancer,2
+B50z.,Malignant neoplasm of eye NOS,cci,cancer,2
+B6205,Nodular lymphoma of lymph nodes of inguinal region and leg,cci,cancer,2
+B600.,Reticulosarcoma,cci,cancer,2
+B516.,Malignant neoplasm of cerebellum,cci,cancer,2
+B523.,Malignant neoplasm of spinal meninges,cci,cancer,2
+B001z,"Malignant neoplasm of lower lip, vermilion border NOS",cci,cancer,2
+Byu11,[X]Other specified carcinomas of liver,cci,cancer,2
+B1...,Carcinoma of digestive organs and peritoneum,cci,cancer,2
+B52W.,"Malig neopl, overlap lesion brain & other part of CNS",cci,cancer,2
+B6168,Hodgkin's lymphocytic depletion lymph nodes multiple sites,cci,cancer,2
+B49y0,"Malignant neoplasm, overlapping lesion of bladder",cci,cancer,2
+B067.,Malignant neoplasm of posterior wall of oropharynx,cci,cancer,2
+B621z,Mycosis fungoides NOS,cci,cancer,2
+B6244,Leukaemic reticuloend of lymph nodes of axilla and arm,cci,cancer,2
+B4y..,Malignant neoplasm of genitourinary organ OS,cci,cancer,2
+B65z.,Myeloid leukaemia NOS,cci,cancer,2
+B1101,Malignant neoplasm of cardio-oesophageal junction of stomach,cci,cancer,2
+B302.,Malignant neoplasm of vertebral column,cci,cancer,2
+B0111,Malignant neoplasm of midline of tongue,cci,cancer,2
+B334z,Malignant neoplasm of scalp or skin of neck NOS,cci,cancer,2
+B011.,Malignant neoplasm of dorsal surface of tongue,cci,cancer,2
+B64y2,Adult T-cell leukaemia,cci,cancer,2
+ByuD3,[X]Other specified types of non-Hodgkin's lymphoma,cci,cancer,2
+B3378,Malignant neoplasm of skin of toe,cci,cancer,2
+B6108,Hodgkin's paragranuloma of lymph nodes of multiple sites,cci,cancer,2
+B23y.,Malignant neoplasm of other specified pleura,cci,cancer,2
+B346.,Malignant neoplasm of axillary tail of female breast,cci,cancer,2
+B17..,Malignant neoplasm of pancreas,cci,cancer,2
+B1z2.,"Malignant neoplasm, overlapping lesion of digestive system",cci,cancer,2
+B063.,Malignant neoplasm of vallecula,cci,cancer,2
+B6233,Malignant histiocytosis of intra-abdominal lymph nodes,cci,cancer,2
+B3131,Malignant neoplasm of diaphragm,cci,cancer,2
+B3035,Malignant neoplasm of xiphoid process,cci,cancer,2
+B64..,Lymphoid leukaemia,cci,cancer,2
+B1501,Hepatoblastoma of liver,cci,cancer,2
+B49z.,Malignant neoplasm of urinary bladder NOS,cci,cancer,2
+B48..,Malignant neoplasm of penis and other male genital organs,cci,cancer,2
+B682.,Subacute leukaemia NOS,cci,cancer,2
+B4501,Malignant neoplasm of vaginal vault,cci,cancer,2
+B6028,Burkitt's lymphoma of lymph nodes of multiple sites,cci,cancer,2
+B6204,Nodular lymphoma of lymph nodes of axilla and upper limb,cci,cancer,2
+B3022,Malignant neoplasm of lumbar vertebra,cci,cancer,2
+B62y0,Malignant lymphoma NOS of unspecified site,cci,cancer,2
+B347.,"Malignant neoplasm, overlapping lesion of breast",cci,cancer,2
+B6250,Letterer-Siwe disease of unspecified sites,cci,cancer,2
+B3233,Malignant melanoma of forehead,cci,cancer,2
+B0601,Malignant neoplasm of palatine tonsil,cci,cancer,2
+B2230,Malignant neoplasm of middle lobe bronchus,cci,cancer,2
+B4710,Seminoma of descended testis,cci,cancer,2
+B6158,Hodgkin's mixed cellularity of lymph nodes of multiple sites,cci,cancer,2
+B17y.,Malignant neoplasm of other specified sites of pancreas,cci,cancer,2
+B213.,Malignant neoplasm of laryngeal cartilage,cci,cancer,2
+B0623,Malignant neoplasm of palatopharyngeal arch,cci,cancer,2
+B68z.,Leukaemia NOS,cci,cancer,2
+B6104,Hodgkin's paragranuloma of lymph nodes of axilla and arm,cci,cancer,2
+B18y0,Malignant neoplasm of mesocolon,cci,cancer,2
+B61z3,Hodgkin's disease NOS of intra-abdominal lymph nodes,cci,cancer,2
+B0023,"Malignant neoplasm of upper lip, oral aspect",cci,cancer,2
+B1zy.,Malignant neoplasm other spec digestive tract and peritoneum,cci,cancer,2
+B442.,Malignant neoplasm of broad ligament,cci,cancer,2
+B042.,"Malignant neoplasm, overlapping lesion of floor of mouth",cci,cancer,2
+Byu1.,[X]Malignant neoplasm of digestive organs,cci,cancer,2
+B12z.,Malignant neoplasm of small intestine NOS,cci,cancer,2
+B21z.,Malignant neoplasm of larynx NOS,cci,cancer,2
+B5170,Malignant neoplasm of cerebral peduncle,cci,cancer,2
+B08..,Malignant neoplasm of hypopharynx,cci,cancer,2
+B1111,Malignant neoplasm of pyloric canal of stomach,cci,cancer,2
+B317.,"Malignant neoplasm, overlap lesion connective & soft tissue",cci,cancer,2
+B13z.,Malignant neoplasm of colon NOS,cci,cancer,2
+B10..,Malignant neoplasm of oesophagus,cci,cancer,2
+B301.,Malignant neoplasm of mandible,cci,cancer,2
+B3355,Malignant neoplasm of skin of groin,cci,cancer,2
+B3061,Malignant neoplasm of ischium,cci,cancer,2
+B335A,Malignant neoplasm of skin of scapular region,cci,cancer,2
+B3258,Malignant melanoma of chest wall,cci,cancer,2
+B3278,Malignant melanoma of toe,cci,cancer,2
+B6236,Malignant histiocytosis of intrapelvic lymph nodes,cci,cancer,2
+Byu43,"[X]Malignant neoplasm of skin, unspecified",cci,cancer,2
+B3042,Malignant neoplasm of humerus,cci,cancer,2
+B04z.,Malignant neoplasm of floor of mouth NOS,cci,cancer,2
+B5504,Malignant neoplasm of neck NOS,cci,cancer,2
+B5510,Malignant neoplasm of axilla NOS,cci,cancer,2
+B670.,Di Guglielmo's disease,cci,cancer,2
+B61z6,Hodgkin's disease NOS of intrapelvic lymph nodes,cci,cancer,2
+B652.,Subacute myeloid leukaemia,cci,cancer,2
+B63y.,Other immunoproliferative neoplasms,cci,cancer,2
+B6300,"Malignant plasma cell neoplasm, extramedullary plasmacytoma",cci,cancer,2
+B11z.,Malignant neoplasm of stomach NOS,cci,cancer,2
+B48z.,Malignant neoplasm of penis and other male genital organ NOS,cci,cancer,2
+B3121,Malig neop of connective and soft tissue thigh and upper leg,cci,cancer,2
+B6261,"Mast cell malignancy of lymph nodes of head, face and neck",cci,cancer,2
+B305D,Malignant neoplasm of phalanges of hand,cci,cancer,2
+B223z,"Malignant neoplasm of middle lobe, bronchus or lung NOS",cci,cancer,2
+B6237,Malignant histiocytosis of spleen,cci,cancer,2
+B0...,"Carcinoma of lip, oral cavity and pharynx",cci,cancer,2
+B2220,Malignant neoplasm of upper lobe bronchus,cci,cancer,2
+B327z,Malignant melanoma of lower limb or hip NOS,cci,cancer,2
+B55yz,Malignant neoplasm of specified site NOS,cci,cancer,2
+B0131,Malignant neoplasm of frenulum linguae,cci,cancer,2
+Byu73,"[X]Malignant neoplasm of female genital organ, unspecified",cci,cancer,2
+B023.,"Malignant neoplasm, overlapping lesion of major saliv gland",cci,cancer,2
+B3105,Malignant neoplasm soft tissues of cervical spine,cci,cancer,2
+Byu56,"[X]Mal neoplasm/periph nerves nervous system,unspc",cci,cancer,2
+ByuD0,[X]Other Hodgkin's disease,cci,cancer,2
+B552.,Malignant neoplasm of abdomen,cci,cancer,2
+B520z,Malignant neoplasm of cranial nerves NOS,cci,cancer,2
+B082.,"Malignant neoplasm aryepiglottic fold, hypopharyngeal aspect",cci,cancer,2
+B3120,Malignant neoplasm of connective and soft tissue of hip,cci,cancer,2
+B5010,Malignant neoplasm of connective tissue of orbit,cci,cancer,2
+B2012,Malignant neoplasm of tympanic antrum,cci,cancer,2
+B2414,Mesothelioma of pericardium,cci,cancer,2
+ByuC0,[X]Malignant neoplasm of other specified sites,cci,cancer,2
+B67z.,Other specified leukaemia NOS,cci,cancer,2
+B18y.,Malignant neoplasm of specified parts of peritoneum,cci,cancer,2
+B620z,Nodular lymphoma NOS,cci,cancer,2
+B3272,Malignant melanoma of knee,cci,cancer,2
+B53..,Malignant neoplasm of thyroid gland,cci,cancer,2
+B5452,Malignant neoplasm of coccygeal body,cci,cancer,2
+B65yz,Other myeloid leukaemia NOS,cci,cancer,2
+B4310,Malignant neoplasm of lower uterine segment,cci,cancer,2
+B3379,Malignant neoplasm of skin of great toe,cci,cancer,2
+B3086,Malignant neoplasm of cuboid,cci,cancer,2
+Byu21,"[X]Malignant neoplasm/overlap lesion/heart,mediastinm",cci,cancer,2
+B62x3,Malignant reticuloendotheliosis,cci,cancer,2
+B0001,"Malignant neoplasm of upper lip, lipstick area",cci,cancer,2
+B6117,Hodgkin's granuloma of spleen,cci,cancer,2
+B061.,Malignant neoplasm of tonsillar fossa,cci,cancer,2
+Byu8.,[X]Malignant neoplasm of male genital organs,cci,cancer,2
+B3357,Malignant neoplasm of skin of back,cci,cancer,2
+Byu90,"[X]Malignant neoplasm of urinary organ, unspecified",cci,cancer,2
+B65y0,Aleukaemic myeloid leukaemia,cci,cancer,2
+B01z.,Malignant neoplasm of tongue NOS,cci,cancer,2
+B33z0,Kaposi's sarcoma of skin,cci,cancer,2
+B41y.,Malignant neoplasm of other site of cervix,cci,cancer,2
+B43z.,Malignant neoplasm of body of uterus NOS,cci,cancer,2
+B5173,Malignant neoplasm of pons,cci,cancer,2
+B2011,Malignant neoplasm of tympanic cavity,cci,cancer,2
+B20..,"Malig neop nasal cavities, middle ear and accessory sinuses",cci,cancer,2
+B143.,Malignant neoplasm of anus unspecified,cci,cancer,2
+B623z,Malignant histiocytosis NOS,cci,cancer,2
+B14..,"Malignant neoplasm of rectum, rectosigmoid junction and anus",cci,cancer,2
+B5201,Malignant neoplasm of optic nerve,cci,cancer,2
+B485.,Malignant neoplasm of spermatic cord,cci,cancer,2
+B5105,Malignant neoplasm of thalamus,cci,cancer,2
+B5400,Malignant neoplasm of adrenal cortex,cci,cancer,2
+B3140,Malig neop of connective and soft tissue of abdominal wall,cci,cancer,2
+B308D,Malignant neoplasm of phalanges of foot,cci,cancer,2
+B48y2,"Malignant neoplasm, overlapping lesion male genital orgs",cci,cancer,2
+B050.,Malignant neoplasm of buccal mucosa,cci,cancer,2
+B003z,"Malignant neoplasm of lower lip, inner aspect NOS",cci,cancer,2
+B6123,Hodgkin's sarcoma of intra-abdominal lymph nodes,cci,cancer,2
+B450z,Malignant neoplasm of vagina NOS,cci,cancer,2
+B62z0,Unspec malig neop lymphoid/histiocytic of unspecified site,cci,cancer,2
+B020.,Malignant neoplasm of parotid gland,cci,cancer,2
+B67y.,Other and unspecified leukaemia,cci,cancer,2
+B000z,"Malignant neoplasm of upper lip, vermilion border NOS",cci,cancer,2
+B6228,Sezary's disease of lymph nodes of multiple sites,cci,cancer,2
+B01y.,Malignant neoplasm of other sites of tongue,cci,cancer,2
+B64y.,Other lymphoid leukaemia,cci,cancer,2
+B0550,Malignant neoplasm of junction of hard and soft palate,cci,cancer,2
+B051.,Malignant neoplasm of vestibule of mouth,cci,cancer,2
+B6141,"Hodgkin's nodular sclerosis of head, face and neck",cci,cancer,2
+B0042,"Malignant neoplasm of lip unspecified, mucosa",cci,cancer,2
+B05z.,Malignant neoplasm of mouth NOS,cci,cancer,2
+B497.,Malignant neoplasm of urachus,cci,cancer,2
+B073.,Malignant neoplasm of anterior wall of nasopharynx,cci,cancer,2
+B24X.,"Malignant neoplasm of mediastinum, part unspecified",cci,cancer,2
+B45z.,Malignant neoplasm of female genital organ NOS,cci,cancer,2
+B2210,Malignant neoplasm of carina of bronchus,cci,cancer,2
+B138.,"Malignant neoplasm, overlapping lesion of colon",cci,cancer,2
+B451.,Malignant neoplasm of labia majora,cci,cancer,2
+B5120,Malignant neoplasm of hippocampus,cci,cancer,2
+B6201,"Nodular lymphoma of lymph nodes of head, face and neck",cci,cancer,2
+B3103,Malignant neoplasm of cartilage of ear,cci,cancer,2
+B0020,"Malignant neoplasm of upper lip, buccal aspect",cci,cancer,2
+B002z,"Malignant neoplasm of upper lip, inner aspect NOS",cci,cancer,2
+B1610,Malignant neoplasm of cystic duct,cci,cancer,2
+B062.,Malignant neoplasm of tonsillar pillar,cci,cancer,2
+B24z.,"Malignant neoplasm of heart, thymus and mediastinum NOS",cci,cancer,2
+B3070,Malignant neoplasm of femur,cci,cancer,2
+B3082,Malignant neoplasm of calcaneum,cci,cancer,2
+B308A,Malignant neoplasm of third metatarsal bone,cci,cancer,2
+B022.,Malignant neoplasm of sublingual gland,cci,cancer,2
+B32..,Malignant melanoma of skin,cci,cancer,2
+B6272,Follicular non-Hodgkin's large cell lymphoma,cci,cancer,2
+B6006,Reticulosarcoma of intrapelvic lymph nodes,cci,cancer,2
+B335z,"Malignant neoplasm of skin of trunk, excluding scrotum, NOS",cci,cancer,2
+B1110,Malignant neoplasm of prepylorus of stomach,cci,cancer,2
+B35z0,Malignant neoplasm of ectopic site of male breast,cci,cancer,2
+B055z,Malignant neoplasm of palate NOS,cci,cancer,2
+B11y1,Malignant neoplasm of posterior wall of stomach NEC,cci,cancer,2
+B3002,Malignant neoplasm of malar bone,cci,cancer,2
+B50..,Malignant neoplasm of eye,cci,cancer,2
+B123.,Malignant neoplasm of Meckel's diverticulum,cci,cancer,2
+B50y.,Malignant neoplasm of other specified site of eye,cci,cancer,2
+B071z,Malignant neoplasm of posterior wall of nasopharynx NOS,cci,cancer,2
+B6255,Letterer-Siwe disease of lymph nodes inguinal region and leg,cci,cancer,2
+B51y2,"Malignant neoplasm, overlapping lesion of brain",cci,cancer,2
+B054.,Malignant neoplasm of uvula,cci,cancer,2
+B120.,Malignant neoplasm of duodenum,cci,cancer,2
+B5530,Malignant neoplasm of inguinal region NOS,cci,cancer,2
+ZV10.,[V]Personal history of malignant neoplasm,cci,cancer,2
+B23z.,Malignant neoplasm of pleura NOS,cci,cancer,2
+B6023,Burkitt's lymphoma of intra-abdominal lymph nodes,cci,cancer,2
+B54..,Malig neop of other endocrine glands and related structures,cci,cancer,2
+B22..,"Malignant neoplasm of trachea, bronchus and lung",cci,cancer,2
+B61z5,Hodgkin's disease NOS of lymph nodes inguinal region and leg,cci,cancer,2
+B51..,Malignant neoplasm of brain,cci,cancer,2
+B6002,Reticulosarcoma of intrathoracic lymph nodes,cci,cancer,2
+B35..,Malignant neoplasm of male breast,cci,cancer,2
+B6020,Burkitt's lymphoma of unspecified site,cci,cancer,2
+Byu81,[X]Malignant neoplasm/overlapping lesion/male genital organs,cci,cancer,2
+B0710,Malignant neoplasm of adenoid,cci,cancer,2
+Byu41,"[X]Malignant melanoma of skin, unspecified",cci,cancer,2
+B621.,Mycosis fungoides,cci,cancer,2
+B62z1,Unspec malig neop lymphoid/histiocytic lymph node head/neck,cci,cancer,2
+B25..,"Malig neo, overlapping lesion of heart, mediastinum & pleura",cci,cancer,2
+B6230,Malignant histiocytosis of unspecified site,cci,cancer,2
+B6y..,Malignant neoplasm lymphatic or haematopoietic tissue OS,cci,cancer,2
+B6273,Diffuse non-Hodgkin's small cell (diffuse) lymphoma,cci,cancer,2
+B3080,Malignant neoplasm of patella,cci,cancer,2
+B6101,"Hodgkin's paragranuloma of lymph nodes of head, face, neck",cci,cancer,2
+B51y0,Malignant neoplasm of corpus callosum,cci,cancer,2
+B5230,Malignant neoplasm of spinal dura mater,cci,cancer,2
+B3101,Malignant neoplasm of soft tissue of face,cci,cancer,2
+B0511,Malignant neoplasm of lower buccal sulcus,cci,cancer,2
+B3274,Malignant melanoma of lower leg,cci,cancer,2
+B555.,Malignant neoplasm of lower limb NOS,cci,cancer,2
+B35zz,Malignant neoplasm of male breast NOS,cci,cancer,2
+B3265,Malignant melanoma of thumb,cci,cancer,2
+B1zz.,Malignant neoplasm of digestive tract and peritoneum NOS,cci,cancer,2
+B332.,Malignant neoplasm skin of ear and external auricular canal,cci,cancer,2
+B3359,Malignant neoplasm of perianal skin,cci,cancer,2
+Byu13,[X]Malignant neoplsm/ill-defin sites within digestive system,cci,cancer,2
+B013z,Malignant neoplasm of ventral tongue surface NOS,cci,cancer,2
+B6014,Lymphosarcoma of lymph nodes of axilla and upper limb,cci,cancer,2
+B3235,Malignant melanoma of temple,cci,cancer,2
+B226.,Mesothelioma,cci,cancer,2
+B26..,"Malignant neoplasm, overlap lesion of resp & intrathor orgs",cci,cancer,2
+B220z,Malignant neoplasm of trachea NOS,cci,cancer,2
+B62z5,Unspec malig neop lymphoid/histiocytic nodes inguinal/leg,cci,cancer,2
+B6164,Hodgkin's lymphocytic depletion lymph nodes axilla and arm,cci,cancer,2
+B611.,Hodgkin's granuloma,cci,cancer,2
+B16..,Malignant neoplasm gallbladder and extrahepatic bile ducts,cci,cancer,2
+B5531,Malignant neoplasm of presacral region,cci,cancer,2
+B332z,Malig neop skin of ear and external auricular canal NOS,cci,cancer,2
+B3332,Malignant neoplasm of skin of eyebrow,cci,cancer,2
+B2z0.,"Malig neop of upper respiratory tract, part unspecified",cci,cancer,2
+B501z,Malignant neoplasm of orbit NOS,cci,cancer,2
+B3005,Malignant neoplasm of orbital bone,cci,cancer,2
+B521z,Malignant neoplasm of cerebral meninges NOS,cci,cancer,2
+B6242,Leukaemic reticuloendotheliosis of intrathoracic lymph nodes,cci,cancer,2
+B315.,Malignant neoplasm of connective and soft tissue of pelvis,cci,cancer,2
+B6153,Hodgkin's mixed cellularity of intra-abdominal lymph nodes,cci,cancer,2
+B2003,Malignant neoplasm of vestibule of nose,cci,cancer,2
+B060.,Malignant neoplasm of tonsil,cci,cancer,2
+B136.,Malignant neoplasm of ascending colon,cci,cancer,2
+B221.,Malignant neoplasm of main bronchus,cci,cancer,2
+B6154,Hodgkin's mixed cellularity of lymph nodes of axilla and arm,cci,cancer,2
+B00..,Malignant neoplasm of lip,cci,cancer,2
+B0030,"Malignant neoplasm of lower lip, buccal aspect",cci,cancer,2
+B671.,Heilmeyer - Schoner disease,cci,cancer,2
+B303z,"Malignant neoplasm of rib, sternum and clavicle NOS",cci,cancer,2
+B131.,Malignant neoplasm of transverse colon,cci,cancer,2
+Byu57,"[X]Malignant neoplasm of peritoneum, unspecified",cci,cancer,2
+B0100,Malignant neoplasm of base of tongue dorsal surface,cci,cancer,2
+B3054,Malignant neoplasm of carpal bone - trapezium,cci,cancer,2
+Byu3.,[X]Malignant neoplasm of bone and articular cartilage,cci,cancer,2
+B060z,Malignant neoplasm tonsil NOS,cci,cancer,2
+B3365,Malignant neoplasm of skin of thumb,cci,cancer,2
+B300.,Malignant neoplasm of bones of skull and face,cci,cancer,2
+B6254,Letterer-Siwe disease of lymph nodes of axilla and arm,cci,cancer,2
+B6248,Leukaemic reticuloend of lymph nodes of multiple sites,cci,cancer,2
+B6268,Mast cell malignancy of lymph nodes of multiple sites,cci,cancer,2
+Byu31,"[X]Malignant neoplasm/bones cartilage/limb,unspfd",cci,cancer,2
+B006.,Malignant neoplasm of overlapping lesion of lip,cci,cancer,2
+B62x5,Malignant immunoproliferative small intestinal disease,cci,cancer,2
+B470z,Malignant neoplasm of undescended testis NOS,cci,cancer,2
+ByuD6,[X]Other myeloid leukaemia,cci,cancer,2
+B6167,"Hodgkin's disease, lymphocytic depletion of spleen",cci,cancer,2
+B3062,Malignant neoplasm of pubis,cci,cancer,2
+B6138,"Hodgkin's, lymphocytic-histiocytic pred of multiple sites",cci,cancer,2
+B5202,Malignant neoplasm of acoustic nerve,cci,cancer,2
+B6218,Mycosis fungoides of lymph nodes of multiple sites,cci,cancer,2
+B62z8,Unspec malig neop lymphoid/histiocytic of multiple sites,cci,cancer,2
+B6223,Sezary's disease of intra-abdominal lymph nodes,cci,cancer,2
+B18yz,Malignant neoplasm of specified parts of peritoneum NOS,cci,cancer,2
+B626.,Malignant mast cell tumours,cci,cancer,2
+B3240,Malignant melanoma of scalp,cci,cancer,2
+B6210,Mycosis fungoides of unspecified site,cci,cancer,2
+B121.,Malignant neoplasm of jejunum,cci,cancer,2
+B1z10,Angiosarcoma of spleen,cci,cancer,2
+B480.,Malignant neoplasm of prepuce (foreskin),cci,cancer,2
+B3321,Malignant neoplasm of skin of external auditory meatus,cci,cancer,2
+B601.,Lymphosarcoma,cci,cancer,2
+B65..,Myeloid leukaemia,cci,cancer,2
+B170.,Malignant neoplasm of head of pancreas,cci,cancer,2
+B3250,Malignant melanoma of axilla,cci,cancer,2
+B02..,Malignant neoplasm of major salivary glands,cci,cancer,2
+B0513,Malignant neoplasm of lower labial sulcus,cci,cancer,2
+B307.,Malignant neoplasm of long bones of leg,cci,cancer,2
+ZV106,[V]Personal history of leukaemia,cci,cancer,2
+B124.,"Malignant neoplasm, overlapping lesion of small intestine",cci,cancer,2
+B6118,Hodgkin's granuloma of lymph nodes of multiple sites,cci,cancer,2
+B6148,Hodgkin's nodular sclerosis of lymph nodes of multiple sites,cci,cancer,2
+B62z4,Unspec malig neop lymphoid/histiocytic lymph node axilla/arm,cci,cancer,2
+B45y.,Malignant neoplasm of other specified female genital organ,cci,cancer,2
+B007.,"Malignant neoplasm of lip, unspecified",cci,cancer,2
+B512z,Malignant neoplasm of temporal lobe NOS,cci,cancer,2
+B3104,Malignant neoplasm of tarsus of eyelid,cci,cancer,2
+B6238,Malignant histiocytosis of lymph nodes of multiple sites,cci,cancer,2
+Byu71,[X]Malignant neoplasm/other specified female genital organs,cci,cancer,2
+B0512,Malignant neoplasm of upper labial sulcus,cci,cancer,2
+B4301,Malignant neoplasm of fundus of corpus uteri,cci,cancer,2
+B6105,Hodgkin's paragranuloma lymph nodes inguinal region and leg,cci,cancer,2
+B223.,"Malignant neoplasm of middle lobe, bronchus or lung",cci,cancer,2
+B5451,Malignant neoplasm of aortic body,cci,cancer,2
+B08z.,Malignant neoplasm of hypopharynx NOS,cci,cancer,2
+B152.,Malignant neoplasm of liver unspecified,cci,cancer,2
+B3234,Malignant melanoma of external surface of nose,cci,cancer,2
+B615z,"Hodgkin's disease, mixed cellularity NOS",cci,cancer,2
+B6132,"Hodgkin's, lymphocytic-histiocytic pred intrathoracic nodes",cci,cancer,2
+B3221,Malignant melanoma of external auditory meatus,cci,cancer,2
+B321.,Malignant melanoma of eyelid including canthus,cci,cancer,2
+B6512,Chronic neutrophilic leukaemia,cci,cancer,2
+Byu..,[X]Additional neoplasm classification terms,cci,cancer,2
+Byu20,"[X]Malignant neoplasm of bronchus or lung, unspecified",cci,cancer,2
+B6260,Mast cell malignancy of unspecified site,cci,cancer,2
+B215.,Malignant neoplasm of epiglottis NOS,cci,cancer,2
+B0z0.,Malignant neoplasm of pharynx unspecified,cci,cancer,2
+ByuD8,[X]Other specified leukaemias,cci,cancer,2
+B6241,"Leukaemic reticuloend of lymph nodes of head, face and neck",cci,cancer,2
+B541.,Malignant neoplasm of parathyroid gland,cci,cancer,2
+B545.,Malignant neoplasm of aortic body and other paraganglia,cci,cancer,2
+B4702,Seminoma of undescended testis,cci,cancer,2
+B6266,Mast cell malignancy of intrapelvic lymph nodes,cci,cancer,2
+ByuA0,[X]Malignant neoplasm/other and unspecified cranial nerves,cci,cancer,2
+B6z0.,Kaposi's sarcoma of lymph nodes,cci,cancer,2
+B674.,Acute panmyelosis,cci,cancer,2
+B6144,Hodgkin's nodular sclerosis of lymph nodes of axilla and arm,cci,cancer,2
+B312z,Malig neop connective and soft tissue hip and leg NOS,cci,cancer,2
+B06y0,Malignant neoplasm of branchial cleft,cci,cancer,2
+B6024,Burkitt's lymphoma of lymph nodes of axilla and upper limb,cci,cancer,2
+B494.,Malignant neoplasm of posterior wall of urinary bladder,cci,cancer,2
+B3356,Malignant neoplasm of skin of perineum,cci,cancer,2
+B45..,Malig neop of other and unspecified female genital organs,cci,cancer,2
+B3363,Malignant neoplasm of skin of hand,cci,cancer,2
+B4703,Teratoma of undescended testis,cci,cancer,2
+B62y7,Malignant lymphoma NOS of spleen,cci,cancer,2
+B5102,Malignant neoplasm of corpus striatum,cci,cancer,2
+B615.,"Hodgkin's disease, mixed cellularity",cci,cancer,2
+Byu55,[X]Mal neoplasm/overlap les/periph nerv nerv systm,cci,cancer,2
+B48y.,Malignant neoplasm of other male genital organ,cci,cancer,2
+B0510,Malignant neoplasm of upper buccal sulcus,cci,cancer,2
+B0620,Malignant neoplasm of faucial pillar,cci,cancer,2
+B503.,Malignant neoplasm of conjunctiva,cci,cancer,2
+ByuD4,[X]Other malignant immunoproliferative diseases,cci,cancer,2
+B610.,Hodgkin's paragranuloma,cci,cancer,2
+Byu59,"[X]Malignant neoplasm/connective  soft tissue,unspecified",cci,cancer,2
+B2200,Malignant neoplasm of cartilage of trachea,cci,cancer,2
+B3053,Malignant neoplasm of carpal bone - pisiform,cci,cancer,2
+B54z.,Malig neop of endocrine gland or related structure NOS,cci,cancer,2
+B13y.,Malignant neoplasm of other specified sites of colon,cci,cancer,2
+B450.,Malignant neoplasm of vagina,cci,cancer,2
+B40..,"Malignant neoplasm of uterus, part unspecified",cci,cancer,2
+B0011,"Malignant neoplasm of lower lip, lipstick area",cci,cancer,2
+B51y.,Malignant neoplasm of other parts of brain,cci,cancer,2
+B5450,Malignant neoplasm of glomus jugulare,cci,cancer,2
+B3123,Malig neop of connective and soft tissue of lower leg,cci,cancer,2
+B12y.,Malignant neoplasm of other specified site small intestine,cci,cancer,2
+B602z,Burkitt's lymphoma NOS,cci,cancer,2
+B5200,Malignant neoplasm of olfactory bulb,cci,cancer,2
+B13..,Malignant neoplasm of colon,cci,cancer,2
+B542.,Malignant neoplasm pituitary gland and craniopharyngeal duct,cci,cancer,2
+B3353,Malignant neoplasm of skin of abdominal wall,cci,cancer,2
+B52X.,"Malignant neoplasm of meninges, unspecified",cci,cancer,2
+B333.,Malignant neoplasm skin of other and unspecified parts face,cci,cancer,2
+B3063,Malignant neoplasm of sacral vertebra,cci,cancer,2
+B481.,Malignant neoplasm of glans penis,cci,cancer,2
+B61z8,Hodgkin's disease NOS of lymph nodes of multiple sites,cci,cancer,2
+B62y2,Malignant lymphoma NOS of intrathoracic lymph nodes,cci,cancer,2
+B507z,Malignant neoplasm of lacrimal duct NOS,cci,cancer,2
+B612z,Hodgkin's sarcoma NOS,cci,cancer,2
+B18y5,Malignant neoplasm of pelvic peritoneum,cci,cancer,2
+B6027,Burkitt's lymphoma of spleen,cci,cancer,2
+B614z,"Hodgkin's disease, nodular sclerosis NOS",cci,cancer,2
+B0731,Malignant neoplasm of nasopharyngeal soft palate surface,cci,cancer,2
+B6165,Hodgkin's lymphocytic depletion lymph nodes inguinal and leg,cci,cancer,2
+B334.,Malignant neoplasm of scalp and skin of neck,cci,cancer,2
+B6207,Nodular lymphoma of spleen,cci,cancer,2
+B61z7,Hodgkin's disease NOS of spleen,cci,cancer,2
+B64yz,Other lymphoid leukaemia NOS,cci,cancer,2
+B6127,Hodgkin's sarcoma of spleen,cci,cancer,2
+B551z,Malignant neoplasm of thorax NOS,cci,cancer,2
+B6103,Hodgkin's paragranuloma of intra-abdominal lymph nodes,cci,cancer,2
+B180z,Malignant neoplasm of retroperitoneum NOS,cci,cancer,2
+B3041,Malignant neoplasm of acromion,cci,cancer,2
+B627W,Unspecified B-cell non-Hodgkin's lymphoma,cci,cancer,2
+B081.,Malignant neoplasm of pyriform sinus,cci,cancer,2
+B512.,Malignant neoplasm of temporal lobe,cci,cancer,2
+B064z,Malignant neoplasm of anterior epiglottis NOS,cci,cancer,2
+B2133,Malignant neoplasm of thyroid cartilage,cci,cancer,2
+B6271,Follicular non-Hodg mixed sml cleavd & lge cell lymphoma,cci,cancer,2
+B084.,"Malignant neoplasm, overlapping lesion of hypopharynx",cci,cancer,2
+B491.,Malignant neoplasm of dome of urinary bladder,cci,cancer,2
+B522.,Malignant neoplasm of spinal cord,cci,cancer,2
+B3126,Malig neop of connective and soft tissue of great toe,cci,cancer,2
+B3088,Malignant neoplasm of first metatarsal bone,cci,cancer,2
+B308z,Malignant neoplasm of short bones of leg NOS,cci,cancer,2
+B309.,"Malignant neoplasm, overlap les bone and artic cart of limbs",cci,cancer,2
+B3130,Malignant neoplasm of connective and soft tissue of axilla,cci,cancer,2
+B18y3,Malignant neoplasm of omentum,cci,cancer,2
+B62xX,Oth and unspecif peripheral & cutaneous T-cell lymphomas,cci,cancer,2
+B3033,Malignant neoplasm of costal cartilage,cci,cancer,2
+B4510,Malignant neoplasm of greater vestibular (Bartholin's) gland,cci,cancer,2
+B6202,Nodular lymphoma of intrathoracic lymph nodes,cci,cancer,2
+B6270,Follicular non-Hodgkin's small cleaved cell lymphoma,cci,cancer,2
+B331.,Malignant neoplasm of eyelid including canthus,cci,cancer,2
+B3277,Malignant melanoma of foot,cci,cancer,2
+B304z,Malig neop of scapula and long bones of upper arm NOS,cci,cancer,2
+Byu82,"[X]Malignant neoplasm of male genital organ, unspecified",cci,cancer,2
+B610z,Hodgkin's paragranuloma NOS,cci,cancer,2
+B0551,Malignant neoplasm of roof of mouth,cci,cancer,2
+B600z,Reticulosarcoma NOS,cci,cancer,2
+B3364,Malignant neoplasm of skin of finger,cci,cancer,2
+Byu70,"[X]Malignant neoplasm of uterine adnexa, unspecified",cci,cancer,2
+B105.,Malignant neoplasm of lower third of oesophagus,cci,cancer,2
+B470.,Malignant neoplasm of undescended testis,cci,cancer,2
+B6166,Hodgkin's lymphocytic depletion of intrapelvic lymph nodes,cci,cancer,2
+B66y.,Other monocytic leukaemia,cci,cancer,2
+B11yz,Malignant neoplasm of other specified site of stomach NOS,cci,cancer,2
+B23..,Malignant neoplasm of pleura,cci,cancer,2
+B6025,Burkitt's lymphoma of lymph nodes of inguinal region and leg,cci,cancer,2
+B0602,Malignant neoplasm of overlapping lesion of tonsil,cci,cancer,2
+B4Ay.,Malignant neoplasm of other urinary organs,cci,cancer,2
+B6143,Hodgkin's nodular sclerosis of intra-abdominal lymph nodes,cci,cancer,2
+B004.,"Malignant neoplasm of lip unspecified, inner aspect",cci,cancer,2
+B511.,Malignant neoplasm of frontal lobe,cci,cancer,2
+B3360,Malignant neoplasm of skin of shoulder,cci,cancer,2
+B61z1,"Hodgkin's disease NOS of lymph nodes of head, face and neck",cci,cancer,2
+B221z,Malignant neoplasm of main bronchus NOS,cci,cancer,2
+B43y.,Malignant neoplasm of other site of uterine body,cci,cancer,2
+B305C,Malignant neoplasm of fifth metacarpal bone,cci,cancer,2
+B614.,"Hodgkin's disease, nodular sclerosis",cci,cancer,2
+B172.,Malignant neoplasm of tail of pancreas,cci,cancer,2
+B59zX,"Kaposi's sarcoma, unspecified",cci,cancer,2
+B1503,Hepatocellular carcinoma,cci,cancer,2
+B6111,"Hodgkin's granuloma of lymph nodes of head, face and neck",cci,cancer,2
+B6216,Mycosis fungoides of intrapelvic lymph nodes,cci,cancer,2
+B015.,"Malignant neoplasm of tongue, junctional zone",cci,cancer,2
+B213z,Malignant neoplasm of laryngeal cartilage NOS,cci,cancer,2
+B04..,Malignant neoplasm of floor of mouth,cci,cancer,2
+B3311,Malignant neoplasm of upper eyelid,cci,cancer,2
+B30z0,Osteosarcoma,cci,cancer,2
+B6245,Leukaemic reticuloend of lymph nodes inguinal region and leg,cci,cancer,2
+B012.,"Malignant neoplasm of tongue, tip and lateral border",cci,cancer,2
+B305A,Malignant neoplasm of third metacarpal bone,cci,cancer,2
+ByuA2,"[X]Malignant neoplasm of meninges, unspecified",cci,cancer,2
+B640.,Acute lymphoid leukaemia,cci,cancer,2
+B62z3,Unspec malig neop lymphoid/histiocytic intra-abdominal nodes,cci,cancer,2
+B6140,"Hodgkin's disease, nodular sclerosis of unspecified site",cci,cancer,2
+B48yz,Malignant neoplasm of other male genital organ NOS,cci,cancer,2
+B510z,Malignant neoplasm of cerebrum NOS,cci,cancer,2
+B053.,Malignant neoplasm of soft palate,cci,cancer,2
+B311.,Malig neop connective and soft tissue upper limb/shoulder,cci,cancer,2
+B083.,Malignant neoplasm of posterior pharynx,cci,cancer,2
+B5501,Malignant neoplasm of cheek NOS,cci,cancer,2
+B135.,Malignant neoplasm of appendix,cci,cancer,2
+B487.,"Malignant neoplasm, overlapping lesion of penis",cci,cancer,2
+B151z,Malignant neoplasm of intrahepatic bile ducts NOS,cci,cancer,2
+B65y.,Other myeloid leukaemia,cci,cancer,2
+B1513,Malignant neoplasm of intrahepatic canaliculi,cci,cancer,2
+B01..,Malignant neoplasm of tongue,cci,cancer,2
+B074.,"Malignant neoplasm, overlapping lesion of nasopharynx",cci,cancer,2
+B110z,Malignant neoplasm of cardia of stomach NOS,cci,cancer,2
+B3262,Malignant melanoma of fore-arm,cci,cancer,2
+B3083,Malignant neoplasm of medial cuneiform,cci,cancer,2
+B122.,Malignant neoplasm of ileum,cci,cancer,2
+B0640,"Malignant neoplasm of epiglottis, free border",cci,cancer,2
+B017.,Malignant overlapping lesion of tongue,cci,cancer,2
+B2zz.,Malignant neoplasm of respiratory tract NOS,cci,cancer,2
+ZV103,[V]Personal history of malignant neoplasm of breast,cci,cancer,2
+B3004,Malignant neoplasm of occipital bone,cci,cancer,2
+B32y.,Malignant melanoma of other specified skin site,cci,cancer,2
+B44y.,Malignant neoplasm of other site of uterine adnexa,cci,cancer,2
+B10y.,Malignant neoplasm of other specified part of oesophagus,cci,cancer,2
+B46..,Malignant neoplasm of prostate,cci,cancer,2
+B00z0,"Malignant neoplasm of lip, unspecified, external",cci,cancer,2
+B210.,Malignant neoplasm of glottis,cci,cancer,2
+B162.,Malignant neoplasm of ampulla of Vater,cci,cancer,2
+B206.,"Malignant neoplasm, overlapping lesion of accessory sinuses",cci,cancer,2
+B1100,Malignant neoplasm of cardiac orifice of stomach,cci,cancer,2
+B11y.,Malignant neoplasm of other specified site of stomach,cci,cancer,2
+B3064,Malignant neoplasm of coccygeal vertebra,cci,cancer,2
+B325z,"Malignant melanoma of trunk, excluding scrotum, NOS",cci,cancer,2
+B3001,Malignant neoplasm of frontal bone,cci,cancer,2
+B3003,Malignant neoplasm of nasal bone,cci,cancer,2
+B142.,Anal carcinoma,cci,cancer,2
+B3055,Malignant neoplasm of carpal bone - trapezoid,cci,cancer,2
+B3084,Malignant neoplasm of intermediate cuneiform,cci,cancer,2
+B551.,Malignant neoplasm of thorax,cci,cancer,2
+B500.,"Malig neop eyeball excl conjunctiva, cornea, retina, choroid",cci,cancer,2
+B314.,Malignant neoplasm of connective and soft tissue of abdomen,cci,cancer,2
+B3358,Malignant neoplasm of skin of buttock,cci,cancer,2
+B642.,Subacute lymphoid leukaemia,cci,cancer,2
+B3125,Malignant neoplasm of connective and soft tissue of toe,cci,cancer,2
+B3059,Malignant neoplasm of second metacarpal bone,cci,cancer,2
+B3254,Malignant melanoma of perianal skin,cci,cancer,2
+B484.,Malignant neoplasm of epididymis,cci,cancer,2
+B48y1,Malignant neoplasm of tunica vaginalis,cci,cancer,2
+B60y.,Other specified reticulosarcoma or lymphosarcoma,cci,cancer,2
+B6247,Leukaemic reticuloendotheliosis of spleen,cci,cancer,2
+B300A,Malignant neoplasm of maxilla,cci,cancer,2
+Byu42,[X]Oth malignant neoplasm/skin of oth parts of face,cci,cancer,2
+B3361,Malignant neoplasm of skin of upper arm,cci,cancer,2
+B47..,Malignant neoplasm of testis,cci,cancer,2
+B6114,Hodgkin's granuloma of lymph nodes of axilla and upper limb,cci,cancer,2
+B4A4.,Malignant neoplasm of paraurethral glands,cci,cancer,2
+B515z,Malignant neoplasm of cerebral ventricle NOS,cci,cancer,2
+B3322,Malignant neoplasm of pinna NEC,cci,cancer,2
+B5401,Malignant neoplasm of adrenal medulla,cci,cancer,2
+B3009,Malignant neoplasm of zygomatic bone,cci,cancer,2
+B325.,Malignant melanoma of trunk (excluding scrotum),cci,cancer,2
+B1z0.,"Malignant neoplasm of intestinal tract, part unspecified",cci,cancer,2
+B1613,Malignant neoplasm of sphincter of Oddi,cci,cancer,2
+B0021,"Malignant neoplasm of upper lip, frenulum",cci,cancer,2
+B6217,Mycosis fungoides of spleen,cci,cancer,2
+B542z,Malig neop pituitary gland or craniopharyngeal duct NOS,cci,cancer,2
+Bz...,Neoplasms NOS,cci,cancer,2
+B1511,Malignant neoplasm of interlobular biliary canals,cci,cancer,2
+B6013,Lymphosarcoma of intra-abdominal lymph nodes,cci,cancer,2
+B112.,Malignant neoplasm of pyloric antrum of stomach,cci,cancer,2
+B5070,Malignant neoplasm of lacrimal sac,cci,cancer,2
+B6235,Malignant histiocytosis of lymph nodes inguinal and leg,cci,cancer,2
+B2zy.,Malignant neoplasm of other site of respiratory tract,cci,cancer,2
+B055.,Malignant neoplasm of palate unspecified,cci,cancer,2
+B6301,Solitary myeloma,cci,cancer,2
+B016.,Malignant neoplasm of lingual tonsil,cci,cancer,2
+B002.,"Malignant neoplasm of upper lip, inner aspect",cci,cancer,2
+B6130,"Hodgkin's, lymphocytic-histiocytic predominance unspec site",cci,cancer,2
+B3501,Malignant neoplasm of areola of male breast,cci,cancer,2
+B6222,Sezary's disease of intrathoracic lymph nodes,cci,cancer,2
+B115.,Malignant neoplasm of lesser curve of stomach unspecified,cci,cancer,2
+B505.,Malignant neoplasm of retina,cci,cancer,2
+B130.,Malignant neoplasm of hepatic flexure of colon,cci,cancer,2
+B692.,Subacute myelomonocytic leukaemia,cci,cancer,2
+B6011,"Lymphosarcoma of lymph nodes of head, face and neck",cci,cancer,2
+B493.,Malignant neoplasm of anterior wall of urinary bladder,cci,cancer,2
+B62yz,Malignant lymphoma NOS,cci,cancer,2
+B243.,Malignant neoplasm of posterior mediastinum,cci,cancer,2
+B6258,Letterer-Siwe disease of lymph nodes of multiple sites,cci,cancer,2
+B33X.,Malignant neoplasm overlapping lesion of skin,cci,cancer,2
+B6137,"Hodgkin's, lymphocytic-histiocytic predominance of spleen",cci,cancer,2
+B6234,Malignant histiocytosis of lymph nodes of axilla and arm,cci,cancer,2
+B6122,Hodgkin's sarcoma of intrathoracic lymph nodes,cci,cancer,2
+Byu7.,[X]Malignant neoplasm of female genital organs,cci,cancer,2
+B1z1z,Malignant neoplasm of spleen NOS,cci,cancer,2
+B673.,Mast cell leukaemia,cci,cancer,2
+B4A00,Hypernephroma,cci,cancer,2
+ByuD1,[X]Other types of follicular non-Hodgkin's lymphoma,cci,cancer,2
+B453.,Malignant neoplasm of clitoris,cci,cancer,2
+B6232,Malignant histiocytosis of intrathoracic lymph nodes,cci,cancer,2
+B15z.,Malignant neoplasm of liver and intrahepatic bile ducts NOS,cci,cancer,2
+B627.,Non - Hodgkin's lymphoma,cci,cancer,2
+B07y.,Malignant neoplasm of other specified site of nasopharynx,cci,cancer,2
+B6005,Reticulosarcoma of lymph nodes of inguinal region and leg,cci,cancer,2
+B4701,Malignant neoplasm of retained testis,cci,cancer,2
+B6115,Hodgkin's granuloma lymph nodes of inguinal region and leg,cci,cancer,2
+B520.,Malignant neoplasm of cranial nerves,cci,cancer,2
+B14z.,"Malignant neoplasm rectum,rectosigmoid junction and anus NOS",cci,cancer,2
+B1514,Malignant neoplasm of intrahepatic gall duct,cci,cancer,2
+B16z.,Malignant neoplasm gallbladder/extrahepatic bile ducts NOS,cci,cancer,2
+B2412,Malignant neoplasm of myocardium,cci,cancer,2
+ByuA3,"[X]Malig neopl, overlap lesion brain & other part of CNS",cci,cancer,2
+B057.,Overlapping lesion of other and unspecified parts of mouth,cci,cancer,2
+B3020,Malignant neoplasm of cervical vertebra,cci,cancer,2
+B5242,"Malignant neoplasm of peripheral nerve of low limb, incl hip",cci,cancer,2
+B051z,Malignant neoplasm of vestibule of mouth NOS,cci,cancer,2
+B1611,Malignant neoplasm of hepatic duct,cci,cancer,2
+B66yz,Other monocytic leukaemia NOS,cci,cancer,2
+B3253,Malignant melanoma of groin,cci,cancer,2
+B336.,Malignant neoplasm of skin of upper limb and shoulder,cci,cancer,2
+ByuD5,[X]Other lymphoid leukaemia,cci,cancer,2
+B116.,Malignant neoplasm of greater curve of stomach unspecified,cci,cancer,2
+B41yz,Malignant neoplasm of other site of cervix NOS,cci,cancer,2
+B0032,"Malignant neoplasm of lower lip, mucosa",cci,cancer,2
+B4A11,Malignant neoplasm of ureteropelvic junction,cci,cancer,2
+B510.,Malignant neoplasm cerebrum (excluding lobes and ventricles),cci,cancer,2
+B151.,Malignant neoplasm of intrahepatic bile ducts,cci,cancer,2
+B200.,Malignant neoplasm of nasal cavities,cci,cancer,2
+B104.,Malignant neoplasm of middle third of oesophagus,cci,cancer,2
+B111z,Malignant neoplasm of pylorus of stomach NOS,cci,cancer,2
+B5532,Malignant neoplasm of sacrococcygeal region,cci,cancer,2
+B241z,Malignant neoplasm of heart NOS,cci,cancer,2
+B34z.,Malignant neoplasm of female breast NOS,cci,cancer,2
+B5421,Malignant neoplasm of craniopharyngeal duct,cci,cancer,2
+Byu30,[X]Mal neoplasm/overlap lesion/bone cartilage/limb,cci,cancer,2
+B6224,Sezary's disease of lymph nodes of axilla and upper limb,cci,cancer,2
+B625z,Letterer-Siwe disease NOS,cci,cancer,2
+B3z..,"Malig neop of bone, connective tissue, skin and breast NOS",cci,cancer,2
+B5150,Malignant neoplasm of choroid plexus,cci,cancer,2
+B653.,Myeloid sarcoma,cci,cancer,2
+B62x6,True histiocytic lymphoma,cci,cancer,2
+B6163,Hodgkin's lymphocytic depletion intra-abdominal lymph nodes,cci,cancer,2
+B6008,Reticulosarcoma of lymph nodes of multiple sites,cci,cancer,2
+B4A0.,Malignant neoplasm of kidney parenchyma,cci,cancer,2
+B07..,Malignant neoplasm of nasopharynx,cci,cancer,2
+B6010,Lymphosarcoma of unspecified site,cci,cancer,2
+B6157,"Hodgkin's disease, mixed cellularity of spleen",cci,cancer,2
+B324z,Malignant melanoma of scalp and neck NOS,cci,cancer,2
+B601z,Lymphosarcoma NOS,cci,cancer,2
+B6531,Granulocytic sarcoma,cci,cancer,2
+Byu53,"[X]Kaposi's sarcoma, unspecified",cci,cancer,2
+B05z0,Kaposi's sarcoma of palate,cci,cancer,2
+B61z2,Hodgkin's disease NOS of intrathoracic lymph nodes,cci,cancer,2
+B3072,Malignant neoplasm of tibia,cci,cancer,2
+B627X,"Diffuse non-Hodgkin's lymphoma, unspecified",cci,cancer,2
+B6212,Mycosis fungoides of intrathoracic lymph nodes,cci,cancer,2
+B3008,Malignant neoplasm of temporal bone,cci,cancer,2
+B214.,"Malignant neoplasm, overlapping lesion of larynx",cci,cancer,2
+B2002,Malignant neoplasm of septum of nose,cci,cancer,2
+B3060,Malignant neoplasm of ilium,cci,cancer,2
+B48y0,Malignant neoplasm of seminal vesicle,cci,cancer,2
+B06..,Malignant neoplasm of oropharynx,cci,cancer,2
+B55..,Malignant neoplasm of other and ill-defined sites,cci,cancer,2
+B3500,Malignant neoplasm of nipple of male breast,cci,cancer,2
+B31y.,Malig neop connective and soft tissue other specified site,cci,cancer,2
+Byu80,[X]Malignant neoplasm/other specified male genital organs,cci,cancer,2
+B6135,"Hodgkin's, lymphocytic-histiocytic pred inguinal and leg",cci,cancer,2
+B312.,Malig neop of connective and soft tissue of hip and leg,cci,cancer,2
+B6136,"Hodgkin's, lymphocytic-histiocytic pred intrapelvic nodes",cci,cancer,2
+B5500,Malignant neoplasm of head NOS,cci,cancer,2
+B0711,Malignant neoplasm of pharyngeal tonsil,cci,cancer,2
+B05y.,Malignant neoplasm of other specified mouth parts,cci,cancer,2
+B44..,Malignant neoplasm of ovary and other uterine adnexa,cci,cancer,2
+B0z2.,Malignant neoplasm of laryngopharynx,cci,cancer,2
+B432.,Malignant neoplasm of overlapping lesion of corpus uteri,cci,cancer,2
+B20z.,Malignant neoplasm of accessory sinus NOS,cci,cancer,2
+ZV10z,[V]Personal history of unspecified malignant neoplasm,cci,cancer,2
+B14y.,"Malig neop other site rectum, rectosigmoid junction and anus",cci,cancer,2
+B171.,Malignant neoplasm of body of pancreas,cci,cancer,2
+B6246,Leukaemic reticuloendotheliosis of intrapelvic lymph nodes,cci,cancer,2
+B6267,Mast cell malignancy of spleen,cci,cancer,2
+B64z.,Lymphoid leukaemia NOS,cci,cancer,2
+B2013,Malignant neoplasm of mastoid air cells,cci,cancer,2
+B6142,Hodgkin's nodular sclerosis of intrathoracic lymph nodes,cci,cancer,2
+B543.,Malignant neoplasm of pineal gland,cci,cancer,2
+B1512,Malignant neoplasm of intrahepatic biliary passages,cci,cancer,2
+B5511,Malignant neoplasm of chest wall NOS,cci,cancer,2
+B5245,Malignant neoplasm of peripheral nerve of pelvis,cci,cancer,2
+B623.,Malignant histiocytosis,cci,cancer,2
+B6100,Hodgkin's paragranuloma of unspecified site,cci,cancer,2
+B6147,"Hodgkin's disease, nodular sclerosis of spleen",cci,cancer,2
+B5505,Malignant neoplasm of supraclavicular fossa NOS,cci,cancer,2
+B6240,Leukaemic reticuloendotheliosis of unspecified sites,cci,cancer,2
+B320.,Malignant melanoma of lip,cci,cancer,2
+B08y.,Malignant neoplasm of other specified hypopharyngeal site,cci,cancer,2
+B62y8,Malignant lymphoma NOS of lymph nodes of multiple sites,cci,cancer,2
+B3400,Malignant neoplasm of nipple of female breast,cci,cancer,2
+B6251,"Letterer-Siwe disease of lymph nodes of head, face and neck",cci,cancer,2
+B3232,Malignant melanoma of eyebrow,cci,cancer,2
+B3276,Malignant melanoma of heel,cci,cancer,2
+B525.,Malignant neoplasm of cauda equina,cci,cancer,2
+B18y2,Malignant neoplasm of mesorectum,cci,cancer,2
+B4Ay0,Malignant neoplasm of overlapping lesion of urinary organs,cci,cancer,2
+B2240,Malignant neoplasm of lower lobe bronchus,cci,cancer,2
+B31z.,"Malignant neoplasm of connective and soft tissue, site NOS",cci,cancer,2
+B3114,Malignant neoplasm of connective and soft tissue of finger,cci,cancer,2
+B323z,Malignant melanoma of face NOS,cci,cancer,2
+B3334,Malignant neoplasm of skin of nose (external),cci,cancer,2
+B0732,Malignant neoplasm posterior margin nasal septum and choanae,cci,cancer,2
+B3132,Malignant neoplasm of great vessels,cci,cancer,2
+B052.,Malignant neoplasm of hard palate,cci,cancer,2
+B3052,Malignant neoplasm of carpal bone - triquetrum,cci,cancer,2
+B343.,Malignant neoplasm of lower-inner quadrant of female breast,cci,cancer,2
+B6021,"Burkitt's lymphoma of lymph nodes of head, face and neck",cci,cancer,2
+B5211,Malignant neoplasm of cerebral arachnoid mater,cci,cancer,2
+B35z.,Malignant neoplasm of other site of male breast,cci,cancer,2
+B6278,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse),cci,cancer,2
+B6113,Hodgkin's granuloma of intra-abdominal lymph nodes,cci,cancer,2
+B021.,Malignant neoplasm of submandibular gland,cci,cancer,2
+B031.,Malignant neoplasm of lower gum,cci,cancer,2
+B324.,Malignant melanoma of scalp and neck,cci,cancer,2
+B451z,Malignant neoplasm of labia majora NOS,cci,cancer,2
+B34yz,Malignant neoplasm of other site of female breast NOS,cci,cancer,2
+B15..,Malignant neoplasm of liver and intrahepatic bile ducts,cci,cancer,2
+B3085,Malignant neoplasm of lateral cuneiform,cci,cancer,2
+B202.,Malignant neoplasm of maxillary sinus,cci,cancer,2
+B6134,"Hodgkin's, lymphocytic-histiocytic pred axilla and arm",cci,cancer,2
+B6146,Hodgkin's nodular sclerosis of intrapelvic lymph nodes,cci,cancer,2
+G6z..,Cerebrovascular disease NOS,cci,cerebrovascular disease,1
+G62z.,Intracranial haemorrhage NOS,cci,cerebrovascular disease,1
+G613.,Cerebellar haemorrhage,cci,cerebrovascular disease,1
+G6...,Cerebrovascular disease,cci,cerebrovascular disease,1
+G67..,Other cerebrovascular disease,cci,cerebrovascular disease,1
+G61X1,"Right sided intracerebral haemorrhage, unspecified",cci,cerebrovascular disease,1
+G63z.,Precerebral artery occlusion NOS,cci,cerebrovascular disease,1
+G60X.,"Subarachnoid haemorrh from intracranial artery, unspecif",cci,cerebrovascular disease,1
+G606.,Subarachnoid haemorrhage from vertebral artery,cci,cerebrovascular disease,1
+S628.,Traumatic subdural haemorrhage,cci,cerebrovascular disease,1
+G65z.,Transient cerebral ischaemia NOS,cci,cerebrovascular disease,1
+G63..,Stenosis of precerebral arteries,cci,cerebrovascular disease,1
+70043,Evacuation of intracerebral haematoma NEC,cci,cerebrovascular disease,1
+G67y.,Other cerebrovascular disease OS,cci,cerebrovascular disease,1
+Gyu66,[X]Occlusion and stenosis of other cerebral arteries,cci,cerebrovascular disease,1
+G68W.,Sequelae/other  unspecified cerebrovascular diseases,cci,cerebrovascular disease,1
+G65zz,Transient cerebral ischaemia NOS,cci,cerebrovascular disease,1
+G61z.,Intracerebral haemorrhage NOS,cci,cerebrovascular disease,1
+G671.,Generalised ischaemic cerebrovascular disease NOS,cci,cerebrovascular disease,1
+G65y.,Other transient cerebral ischaemia,cci,cerebrovascular disease,1
+F11x2,Cerebral degeneration due to cerebrovascular disease,cci,cerebrovascular disease,1
+G6774,Occlusion of multiple and bilat cerebral arteries,cci,cerebrovascular disease,1
+G60..,Subarachnoid haemorrhage,cci,cerebrovascular disease,1
+Gyu6.,[X]Cerebrovascular diseases,cci,cerebrovascular disease,1
+G61..,CVA - cerebrovascular accid due to intracerebral haemorrhage,cci,cerebrovascular disease,1
+G63y.,Other precerebral artery occlusion,cci,cerebrovascular disease,1
+G623.,Subdural haemorrhage NOS,cci,cerebrovascular disease,1
+S621.,Open traumatic subarachnoid haemorrhage,cci,cerebrovascular disease,1
+G6y..,Other specified cerebrovascular disease,cci,cerebrovascular disease,1
+G65..,Transient cerebral ischaemia,cci,cerebrovascular disease,1
+Gyu67,[X]Other specified cerebrovascular diseases,cci,cerebrovascular disease,1
+G618.,"Intracerebral haemorrhage, multiple localized",cci,cerebrovascular disease,1
+Gyu65,[X]Occlusion and stenosis of other precerebral arteries,cci,cerebrovascular disease,1
+Gyu6D,[X]Sequelae/other  unspecified cerebrovascular diseases,cci,cerebrovascular disease,1
+G603.,Subarachnoid haemorrhage from anterior communicating artery,cci,cerebrovascular disease,1
+G604.,Subarachnoid haemorrhage from posterior communicating artery,cci,cerebrovascular disease,1
+G681.,Sequelae of intracerebral haemorrhage,cci,cerebrovascular disease,1
+Gyu62,[X]Other intracerebral haemorrhage,cci,cerebrovascular disease,1
+G602.,Subarachnoid haemorrhage from middle cerebral artery,cci,cerebrovascular disease,1
+G67z.,Other cerebrovascular disease NOS,cci,cerebrovascular disease,1
+G61X0,"Left sided intracerebral haemorrhage, unspecified",cci,cerebrovascular disease,1
+G61X.,"Intracerebral haemorrhage in hemisphere, unspecified",cci,cerebrovascular disease,1
+G671z,Generalised ischaemic cerebrovascular disease NOS,cci,cerebrovascular disease,1
+G6410,Cerebral infarction due to embolism of cerebral arteries,cci,cerebrovascular disease,1
+Gyu6F,"[X]Intracerebral haemorrhage in hemisphere, unspecified",cci,cerebrovascular disease,1
+G617.,"Intracerebral haemorrhage, intraventricular",cci,cerebrovascular disease,1
+G680.,Sequelae of subarachnoid haemorrhage,cci,cerebrovascular disease,1
+S627.,Traumatic subarachnoid haemorrhage,cci,cerebrovascular disease,1
+G60z.,Subarachnoid haemorrhage NOS,cci,cerebrovascular disease,1
+S62..,Subarachnoid haemorrhage following injury,cci,cerebrovascular disease,1
+G633.,Multiple and bilateral precerebral arterial occlusion,cci,cerebrovascular disease,1
+G600.,Ruptured berry aneurysm,cci,cerebrovascular disease,1
+G601.,Subarachnoid haemorrhage from carotid siphon and bifurcation,cci,cerebrovascular disease,1
+G605.,Subarachnoid haemorrhage from basilar artery,cci,cerebrovascular disease,1
+G68..,Late effects of cerebrovascular disease,cci,cerebrovascular disease,1
+Gyu61,[X]Other subarachnoid haemorrhage,cci,cerebrovascular disease,1
+S620.,Closed traumatic subarachnoid haemorrhage,cci,cerebrovascular disease,1
+Gyu60,[X]Subarachnoid haemorrhage from other intracranial arteries,cci,cerebrovascular disease,1
+G66..,CVA unspecified,cci,cerebrovascular disease,1
+G660.,Middle cerebral artery syndrome,cci,cerebrovascular disease,1
+662M.,Stroke monitoring,cci,cerebrovascular disease,1
+G669.,"Cerebral palsy, not congenital or infantile, acute",cci,cerebrovascular disease,1
+G661.,Anterior cerebral artery syndrome,cci,cerebrovascular disease,1
+G667.,Left sided CVA,cci,cerebrovascular disease,1
+G666.,Pure sensory lacunar syndrome,cci,cerebrovascular disease,1
+G663.,Brain stem stroke syndrome,cci,cerebrovascular disease,1
+G664.,Cerebellar stroke syndrome,cci,cerebrovascular disease,1
+G665.,Pure motor lacunar syndrome,cci,cerebrovascular disease,1
+G668.,Right sided CVA,cci,cerebrovascular disease,1
+14A7.,H/O: CVA/stroke,cci,cerebrovascular disease,1
+G662.,Posterior cerebral artery syndrome,cci,cerebrovascular disease,1
+G64..,Stroke due to cerebral arterial occlusion,cci,cerebrovascular disease,1
+Hyu43,[X]Hypersensitivity pneumonitis due to other organic dusts,cci,chronic pulmonary disease,1
+H35y5,Pituitary snuff-takers' disease,cci,chronic pulmonary disease,1
+H442.,Flax-dressers' disease,cci,chronic pulmonary disease,1
+H33z0,Severe asthma attack,cci,chronic pulmonary disease,1
+H35zz,Allergic alveolitis and pneumonitis NOS,cci,chronic pulmonary disease,1
+H321.,Panlobular emphysema,cci,chronic pulmonary disease,1
+H35y6,Sequoiosis (red-cedar asthma),cci,chronic pulmonary disease,1
+663V1,Mild asthma,cci,chronic pulmonary disease,1
+H354.,Malt workers' lung,cci,chronic pulmonary disease,1
+H3520,Budgerigar-fanciers' lung,cci,chronic pulmonary disease,1
+H32y.,Other emphysema,cci,chronic pulmonary disease,1
+H420.,Talc pneumoconiosis,cci,chronic pulmonary disease,1
+H33..,Asthma,cci,chronic pulmonary disease,1
+H352.,Bird-fancier's lung,cci,chronic pulmonary disease,1
+H310.,Simple chronic bronchitis,cci,chronic pulmonary disease,1
+H351.,Bagassosis,cci,chronic pulmonary disease,1
+H330.,Pollen asthma,cci,chronic pulmonary disease,1
+H30..,Chest infection - unspecified bronchitis,cci,chronic pulmonary disease,1
+H312.,Obstructive chronic bronchitis,cci,chronic pulmonary disease,1
+663V3,Severe asthma,cci,chronic pulmonary disease,1
+H341.,Post-infective bronchiectasis,cci,chronic pulmonary disease,1
+663v.,Asthma causes daytime symptoms most days,cci,chronic pulmonary disease,1
+H31yz,Other chronic bronchitis NOS,cci,chronic pulmonary disease,1
+663V0,Occasional asthma,cci,chronic pulmonary disease,1
+H35y7,Wood asthma,cci,chronic pulmonary disease,1
+663V2,Moderate asthma,cci,chronic pulmonary disease,1
+H34z.,Bronchiectasis NOS,cci,chronic pulmonary disease,1
+663s.,Asthma never causes daytime symptoms,cci,chronic pulmonary disease,1
+H332.,Mixed asthma,cci,chronic pulmonary disease,1
+663N1,Asthma disturbs sleep weekly,cci,chronic pulmonary disease,1
+H355.,Mushroom workers' lung,cci,chronic pulmonary disease,1
+H310z,Simple chronic bronchitis NOS,cci,chronic pulmonary disease,1
+H33zz,Exercise induced asthma,cci,chronic pulmonary disease,1
+H41z.,Asbestosis NOS,cci,chronic pulmonary disease,1
+663N0,Asthma causing night waking,cci,chronic pulmonary disease,1
+663e.,Asthma restricts exercise,cci,chronic pulmonary disease,1
+H42z.,Silica pneumoconiosis NOS,cci,chronic pulmonary disease,1
+H4642,Chronic pulmonary fibrosis due to chemical fumes,cci,chronic pulmonary disease,1
+663h.,Asthma - currently dormant,cci,chronic pulmonary disease,1
+663t.,Asthma causes daytime symptoms 1 to 2 times per month,cci,chronic pulmonary disease,1
+H35..,Extrinsic allergic alveolitis,cci,chronic pulmonary disease,1
+9OJA.,Asthma monitored,cci,chronic pulmonary disease,1
+H3z..,Chronic obstructive pulmonary disease NOS,cci,chronic pulmonary disease,1
+H33z.,Asthma unspecified,cci,chronic pulmonary disease,1
+H32y1,Atrophic (senile) emphysema,cci,chronic pulmonary disease,1
+H320.,Chronic bullous emphysema,cci,chronic pulmonary disease,1
+H322.,Centrilobular emphysema,cci,chronic pulmonary disease,1
+H35z.,Allergic alveolitis and pneumonitis NOS,cci,chronic pulmonary disease,1
+H353.,Suberosis ( cork-handlers' lung ),cci,chronic pulmonary disease,1
+66YP.,Asthma night-time symptoms,cci,chronic pulmonary disease,1
+H32yz,Other emphysema NOS,cci,chronic pulmonary disease,1
+663f.,Asthma never restricts exercise,cci,chronic pulmonary disease,1
+H42..,Silica and silicate pneumoconiosis,cci,chronic pulmonary disease,1
+H460.,Bronchitis and pneumonitis due to chemical fumes,cci,chronic pulmonary disease,1
+H312z,Obstructive chronic bronchitis NOS,cci,chronic pulmonary disease,1
+H32y2,MacLeod's unilateral emphysema,cci,chronic pulmonary disease,1
+173c.,Occupational asthma,cci,chronic pulmonary disease,1
+H31y.,Other chronic bronchitis,cci,chronic pulmonary disease,1
+H43z.,Pneumoconiosis due to inorganic dust NOS,cci,chronic pulmonary disease,1
+H3301,Extrinsic asthma with asthma attack,cci,chronic pulmonary disease,1
+H4z..,Lung disease due to external agents NOS,cci,chronic pulmonary disease,1
+H41..,Asbestosis,cci,chronic pulmonary disease,1
+9OJ1.,Attends asthma monitoring,cci,chronic pulmonary disease,1
+H3521,Pigeon-fanciers' lung,cci,chronic pulmonary disease,1
+H331.,Intrinsic asthma,cci,chronic pulmonary disease,1
+H31..,Chronic bronchitis,cci,chronic pulmonary disease,1
+H350.,Farmers' lung,cci,chronic pulmonary disease,1
+H334.,Brittle asthma,cci,chronic pulmonary disease,1
+H582.,Compensatory emphysema,cci,chronic pulmonary disease,1
+H57yz,Lung disease with diseases EC NOS,cci,chronic pulmonary disease,1
+H311.,Mucopurulent chronic bronchitis,cci,chronic pulmonary disease,1
+H31y1,Chronic tracheobronchitis,cci,chronic pulmonary disease,1
+H3202,Giant bullous emphysema,cci,chronic pulmonary disease,1
+663N.,Asthma disturbing sleep,cci,chronic pulmonary disease,1
+H3101,Smokers' cough,cci,chronic pulmonary disease,1
+H4y10,Chronic pulmonary fibrosis following radiation,cci,chronic pulmonary disease,1
+1O2..,Asthma confirmed,cci,chronic pulmonary disease,1
+H4640,Chronic emphysema due to chemical fumes,cci,chronic pulmonary disease,1
+H3310,Intrinsic asthma without status asthmaticus,cci,chronic pulmonary disease,1
+H33z2,Late-onset asthma,cci,chronic pulmonary disease,1
+H340.,Recurrent bronchiectasis,cci,chronic pulmonary disease,1
+H410.,Pleural plaque disease due to asbestosis,cci,chronic pulmonary disease,1
+H333.,Acute exacerbation of asthma,cci,chronic pulmonary disease,1
+8H2P.,"Emergency admission, asthma",cci,chronic pulmonary disease,1
+H40..,Coal workers' pneumoconiosis,cci,chronic pulmonary disease,1
+14B4.,H/O: asthma,cci,chronic pulmonary disease,1
+H320z,Chronic bullous emphysema NOS,cci,chronic pulmonary disease,1
+H3100,Chronic catarrhal bronchitis,cci,chronic pulmonary disease,1
+H313.,Mixed simple and mucopurulent chronic bronchitis,cci,chronic pulmonary disease,1
+H31z.,Chronic bronchitis NOS,cci,chronic pulmonary disease,1
+H331z,Intrinsic asthma NOS,cci,chronic pulmonary disease,1
+H434.,Siderosis,cci,chronic pulmonary disease,1
+H34..,Bronchiectasis,cci,chronic pulmonary disease,1
+H3121,Emphysematous bronchitis,cci,chronic pulmonary disease,1
+H352z,Bird-fancier's lung NOS,cci,chronic pulmonary disease,1
+H3311,Intrinsic asthma with status asthmaticus,cci,chronic pulmonary disease,1
+H35yz,Other allergic alveolitis NOS,cci,chronic pulmonary disease,1
+H435.,Stannosis,cci,chronic pulmonary disease,1
+H33z1,Asthma attack NOS,cci,chronic pulmonary disease,1
+H35y3,Furriers' lung,cci,chronic pulmonary disease,1
+663r.,Asthma causes night symptoms 1 to 2 times per month,cci,chronic pulmonary disease,1
+H32z.,Emphysema NOS,cci,chronic pulmonary disease,1
+H330z,Extrinsic asthma NOS,cci,chronic pulmonary disease,1
+H32y0,Acute vesicular emphysema,cci,chronic pulmonary disease,1
+663q.,Asthma daytime symptoms,cci,chronic pulmonary disease,1
+H4641,Obliterative bronchiolitis due to chemical fumes,cci,chronic pulmonary disease,1
+Hyu40,[X]Pneumoconiosis due to other dust containing silica,cci,chronic pulmonary disease,1
+H3300,Hay fever with asthma,cci,chronic pulmonary disease,1
+H43..,Pneumoconiosis due to other inorganic dust,cci,chronic pulmonary disease,1
+H423.,Massive silicotic fibrosis,cci,chronic pulmonary disease,1
+H460z,Bronchitis and pneumonitis due to chemical fumes NOS,cci,chronic pulmonary disease,1
+H35z1,Hypersensitivity pneumonitis NOS,cci,chronic pulmonary disease,1
+663u.,Asthma causes daytime symptoms 1 to 2 times per week,cci,chronic pulmonary disease,1
+663P.,Asthma limiting activities,cci,chronic pulmonary disease,1
+H57y.,Lung disease with diseases EC,cci,chronic pulmonary disease,1
+H3110,Purulent chronic bronchitis,cci,chronic pulmonary disease,1
+H581.,Interstitial emphysema,cci,chronic pulmonary disease,1
+H45..,Pneumoconiosis NOS,cci,chronic pulmonary disease,1
+H311z,Mucopurulent chronic bronchitis NOS,cci,chronic pulmonary disease,1
+SK07.,Subcutaneous emphysema,cci,chronic pulmonary disease,1
+Hyu41,[X]Pneumoconiosis due to other specified inorganic dusts,cci,chronic pulmonary disease,1
+H300.,Tracheobronchitis NOS,cci,chronic pulmonary disease,1
+H440.,Byssinosis,cci,chronic pulmonary disease,1
+H356.,Maple bark strippers' lung,cci,chronic pulmonary disease,1
+H30z.,Bronchitis NOS,cci,chronic pulmonary disease,1
+66YC.,Absent from work or school due to asthma,cci,chronic pulmonary disease,1
+H432.,Berylliosis,cci,chronic pulmonary disease,1
+H32..,Emphysema,cci,chronic pulmonary disease,1
+H3120,Chronic asthmatic bronchitis,cci,chronic pulmonary disease,1
+663W.,Asthma prophylactic medication used,cci,chronic pulmonary disease,1
+H3200,Segmental bullous emphysema,cci,chronic pulmonary disease,1
+H441.,Cannabinosis,cci,chronic pulmonary disease,1
+H3111,Fetid chronic bronchitis,cci,chronic pulmonary disease,1
+H430.,Aluminosis of lung,cci,chronic pulmonary disease,1
+H431.,Bauxite fibrosis of lung,cci,chronic pulmonary disease,1
+Hyu30,[X]Other emphysema,cci,chronic pulmonary disease,1
+H47y0,Detergent asthma,cci,chronic pulmonary disease,1
+H35y.,Other allergic alveolitis,cci,chronic pulmonary disease,1
+173A.,Exercise induced asthma,cci,chronic pulmonary disease,1
+G58z.,Cardiac failure NOS,cci,congestive heart disease,1
+G5802,Decompensated cardiac failure,cci,congestive heart disease,1
+G232.,Hypertensive heart&renal dis wth (congestive) heart failure,cci,congestive heart disease,1
+662W.,Heart failure annual review,cci,congestive heart disease,1
+G5540,Congestive cardiomyopathy,cci,congestive heart disease,1
+G5803,Compensated cardiac failure,cci,congestive heart disease,1
+G580.,Right heart failure,cci,congestive heart disease,1
+8B29.,Cardiac failure therapy,cci,congestive heart disease,1
+G582.,Acute heart failure,cci,congestive heart disease,1
+14AM.,H/O: Heart failure in last year,cci,congestive heart disease,1
+G5810,Acute left ventricular failure,cci,congestive heart disease,1
+SP111,Heart failure as a complication of care,cci,congestive heart disease,1
+G5801,Chronic congestive heart failure,cci,congestive heart disease,1
+8CL3.,Heart failure care plan discussed with patient,cci,congestive heart disease,1
+G581.,Left ventricular failure,cci,congestive heart disease,1
+G58..,Heart failure,cci,congestive heart disease,1
+14A6.,H/O: heart failure,cci,congestive heart disease,1
+1O1..,Heart failure confirmed,cci,congestive heart disease,1
+G5800,Acute congestive heart failure,cci,congestive heart disease,1
+8H2S.,Admit heart failure emergency,cci,congestive heart disease,1
+E001z,Presenile dementia NOS,cci,dementia,1
+E0042,Arteriosclerotic dementia with paranoia,cci,dementia,1
+Eu00z,[X]Alzheimer's dementia unspec,cci,dementia,1
+E0010,Uncomplicated presenile dementia,cci,dementia,1
+Eu01z,"[X]Vascular dementia, unspecified",cci,dementia,1
+Eu025,[X]Lewy body dementia,cci,dementia,1
+Eu001,"[X]Senile dementia,Alzheimer's type",cci,dementia,1
+E004.,Multi infarct dementia,cci,dementia,1
+Eu02z,[X] Senile dementia NOS,cci,dementia,1
+E041.,Dementia in conditions EC,cci,dementia,1
+Eu011,[X]Predominantly cortical dementia,cci,dementia,1
+Eu00.,[X]Dementia in Alzheimer's disease,cci,dementia,1
+Eu000,"[X]Presenile dementia,Alzheimer's type",cci,dementia,1
+Eu02.,[X]Dementia in other diseases classified elsewhere,cci,dementia,1
+Eu010,[X]Vascular dementia of acute onset,cci,dementia,1
+E000.,Uncomplicated senile dementia,cci,dementia,1
+E004z,Arteriosclerotic dementia NOS,cci,dementia,1
+Eu02y,[X]Dementia in other specified diseases classif elsewhere,cci,dementia,1
+E001.,Presenile dementia,cci,dementia,1
+Eu01y,[X]Other vascular dementia,cci,dementia,1
+Eu01.,[X]Arteriosclerotic dementia,cci,dementia,1
+E0040,Uncomplicated arteriosclerotic dementia,cci,dementia,1
+E00..,Senile/presenile dementia,cci,dementia,1
+Eu002,"[X]Dementia in Alzheimer's dis, atypical or mixed type",cci,dementia,1
+E0043,Arteriosclerotic dementia with depression,cci,dementia,1
+E0041,Arteriosclerotic dementia with delirium,cci,dementia,1
+Eu012,[X]Subcortical vascular dementia,cci,dementia,1
+Eu013,[X]Mixed cortical and subcortical vascular dementia,cci,dementia,1
+66AJ.,Unstable diabetes,cci,diabetes,1
+C1086,Insulin dependent diabetes mellitus with gangrene,cci,diabetes,1
+C1011,"Diabetes mellitus, adult onset, with ketoacidosis",cci,diabetes,1
+C10M.,Lipoatrophic diabetes mellitus,cci,diabetes,1
+C1030,"Diabetes mellitus, juvenile type, with ketoacidotic coma",cci,diabetes,1
+C1095,Non-insulin dependent diabetes mellitus with gangrene,cci,diabetes,1
+C1099,Non-insulin-dependent diabetes mellitus without complication,cci,diabetes,1
+C1094,Type 2 diabetes mellitus with ulcer,cci,diabetes,1
+C10FG,Type 2 diabetes mellitus with arthropathy,cci,diabetes,1
+C109.,NIDDM - Non-insulin dependent diabetes mellitus,cci,diabetes,1
+C109G,Type II diabetes mellitus with arthropathy,cci,diabetes,1
+C10z.,Diabetes mellitus with unspecified complication,cci,diabetes,1
+C10EM,Type I diabetes mellitus with ketoacidosis,cci,diabetes,1
+C1072,"Diabetes mellitus, adult with gangrene",cci,diabetes,1
+C10FJ,Insulin treated Type 2 diabetes mellitus,cci,diabetes,1
+C1089,Type I diabetes mellitus maturity onset,cci,diabetes,1
+C102z,Diabetes mellitus NOS with hyperosmolar coma,cci,diabetes,1
+G73y0,Diabetic peripheral angiopathy,cci,diabetes,1
+C109J,Insulin treated Type II diabetes mellitus,cci,diabetes,1
+C109F,Type 2 diabetes mellitus with peripheral angiopathy,cci,diabetes,1
+C1093,Non-insulin-dependent diabetes mellitus with multiple comps,cci,diabetes,1
+C1084,Unstable insulin dependent diabetes mellitus,cci,diabetes,1
+C10F9,Type 2 diabetes mellitus without complication,cci,diabetes,1
+C10y.,Diabetes mellitus with other specified manifestation,cci,diabetes,1
+C10F.,Type II diabetes mellitus,cci,diabetes,1
+C10FL,Type 2 diabetes mellitus with persistent proteinuria,cci,diabetes,1
+66A5.,Diabetic on insulin,cci,diabetes,1
+L1806,"Pre-existing diabetes mellitus, non-insulin-dependent",cci,diabetes,1
+C10FN,Type 2 diabetes mellitus with ketoacidosis,cci,diabetes,1
+C10E4,Unstable type 1 diabetes mellitus,cci,diabetes,1
+C10zy,Other specified diabetes mellitus with unspecified comps,cci,diabetes,1
+C10D.,Diabetes mellitus autosomal dominant type 2,cci,diabetes,1
+C107z,Diabetes mellitus NOS with peripheral circulatory disorder,cci,diabetes,1
+C10EN,Type 1 diabetes mellitus with ketoacidotic coma,cci,diabetes,1
+C1010,"Diabetes mellitus, juvenile type, with ketoacidosis",cci,diabetes,1
+C1000,Insulin dependent diabetes mellitus,cci,diabetes,1
+C103.,Diabetes mellitus with ketoacidotic coma,cci,diabetes,1
+C107.,Diabetes mellitus with gangrene,cci,diabetes,1
+C10E5,Type 1 diabetes mellitus with ulcer,cci,diabetes,1
+C10yy,Other specified diabetes mellitus with other spec comps,cci,diabetes,1
+C1097,Type II diabetes mellitus - poor control,cci,diabetes,1
+C10A0,Malnutrition-related diabetes mellitus with coma,cci,diabetes,1
+8A13.,Diabetic stabilisation,cci,diabetes,1
+C108.,Insulin dependent diabetes mellitus,cci,diabetes,1
+C10EG,Type 1 diabetes mellitus with peripheral angiopathy,cci,diabetes,1
+C108E,Type 1 diabetes mellitus with hypoglycaemic coma,cci,diabetes,1
+C1071,"Diabetes mellitus, adult,  peripheral circulatory disorder",cci,diabetes,1
+C10A1,Malnutrition-related diabetes mellitus with ketoacidosis,cci,diabetes,1
+C1020,"Diabetes mellitus, juvenile type, with hyperosmolar coma",cci,diabetes,1
+C10F5,Type 2 diabetes mellitus with gangrene,cci,diabetes,1
+C1021,"Diabetes mellitus, adult onset, with hyperosmolar coma",cci,diabetes,1
+C109K,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,cci,diabetes,1
+66AJz,Diabetic - poor control NOS,cci,diabetes,1
+C1085,Insulin dependent diabetes mellitus with ulcer,cci,diabetes,1
+C10E8,Type 1 diabetes mellitus - poor control,cci,diabetes,1
+C1088,Type 1 diabetes mellitus - poor control,cci,diabetes,1
+C1074,NIDDM with peripheral circulatory disorder,cci,diabetes,1
+C10G.,Secondary pancreatic diabetes mellitus,cci,diabetes,1
+66AV.,Diabetic on insulin and oral treatment,cci,diabetes,1
+L1805,"Pre-existing diabetes mellitus, insulin-dependent",cci,diabetes,1
+C10FP,Type 2 diabetes mellitus with ketoacidotic coma,cci,diabetes,1
+C100.,Diabetes mellitus with no mention of complication,cci,diabetes,1
+C10E6,Type 1 diabetes mellitus with gangrene,cci,diabetes,1
+C109D,Type 2 diabetes mellitus with hypoglycaemic coma,cci,diabetes,1
+C10FF,Type 2 diabetes mellitus with peripheral angiopathy,cci,diabetes,1
+C10zz,Diabetes mellitus NOS with unspecified complication,cci,diabetes,1
+C10EE,Type 1 diabetes mellitus with hypoglycaemic coma,cci,diabetes,1
+66AS.,Diabetic annual review,cci,diabetes,1
+C1070,"Diabetes mellitus, juvenile  circulatory disorder",cci,diabetes,1
+C10E9,Type 1 diabetes mellitus maturity onset,cci,diabetes,1
+C101y,Other specified diabetes mellitus with ketoacidosis,cci,diabetes,1
+Cyu2.,[X]Diabetes mellitus,cci,diabetes,1
+C10..,Diabetes mellitus,cci,diabetes,1
+C10EA,Type 1 diabetes mellitus without complication,cci,diabetes,1
+C100z,Diabetes mellitus NOS with no mention of complication,cci,diabetes,1
+C103z,Diabetes mellitus NOS with ketoacidotic coma,cci,diabetes,1
+C108G,Insulin dependent diab mell with peripheral angiopathy,cci,diabetes,1
+C101.,Diabetes mellitus with ketoacidosis,cci,diabetes,1
+C10F7,Type 2 diabetes mellitus - poor control,cci,diabetes,1
+66AK.,Diabetic - cooperative patient,cci,diabetes,1
+C10B0,Steroid induced diabetes mellitus without complication,cci,diabetes,1
+C1001,Maturity onset diabetes,cci,diabetes,1
+C10E.,Type 1 diabetes mellitus,cci,diabetes,1
+8H2J.,Admit diabetic emergency,cci,diabetes,1
+C10F4,Type 2 diabetes mellitus with ulcer,cci,diabetes,1
+C10z1,"Diabetes mellitus, adult onset,  unspecified complication",cci,diabetes,1
+L180X,"Pre-existing diabetes mellitus, unspecified",cci,diabetes,1
+8BL2.,Patient on maximal tolerated therapy for diabetes,cci,diabetes,1
+C10yz,Diabetes mellitus NOS with other specified manifestation,cci,diabetes,1
+C102.,Diabetes mellitus with hyperosmolar coma,cci,diabetes,1
+C10A.,Malnutrition-related diabetes mellitus,cci,diabetes,1
+C101z,Diabetes mellitus NOS with ketoacidosis,cci,diabetes,1
+C10FD,Type 2 diabetes mellitus with hypoglycaemic coma,cci,diabetes,1
+C10EK,Type 1 diabetes mellitus with persistent proteinuria,cci,diabetes,1
+C10H.,Diabetes mellitus induced by non-steroid drugs,cci,diabetes,1
+C1073,IDDM with peripheral circulatory disorder,cci,diabetes,1
+C10EL,Type 1 diabetes mellitus with persistent microalbuminuria,cci,diabetes,1
+C10FM,Type 2 diabetes mellitus with persistent microalbuminuria,cci,diabetes,1
+Cyu20,[X]Other specified diabetes mellitus,cci,diabetes,1
+C103y,Other specified diabetes mellitus with coma,cci,diabetes,1
+C10y1,"Diabetes mellitus, adult,  other specified manifestation",cci,diabetes,1
+C10N.,Secondary diabetes mellitus,cci,diabetes,1
+66AI.,Diabetic - good control,cci,diabetes,1
+F4640,Diabetic cataract,cci,diabetes with complications,2
+C1092,Type 2 diabetes mellitus with neurological complications,cci,diabetes with complications,2
+C1040,"Diabetes mellitus, juvenile type, with renal manifestation",cci,diabetes with complications,2
+C1091,Type II diabetes mellitus with ophthalmic complications,cci,diabetes with complications,2
+2BBP.,O/E - right eye background diabetic retinopathy,cci,diabetes with complications,2
+C108C,Type I diabetes mellitus with polyneuropathy,cci,diabetes with complications,2
+C108H,Insulin dependent diabetes mellitus with arthropathy,cci,diabetes with complications,2
+C109C,Non-insulin dependent diabetes mellitus with nephropathy,cci,diabetes with complications,2
+C108B,Insulin dependent diabetes mellitus with mononeuropathy,cci,diabetes with complications,2
+C1061,"Diabetes mellitus, adult onset,  neurological manifestation",cci,diabetes with complications,2
+C1080,Insulin-dependent diabetes mellitus with renal complications,cci,diabetes with complications,2
+C109H,Non-insulin dependent d m with neuropathic arthropathy,cci,diabetes with complications,2
+C1082,Insulin-dependent diabetes mellitus with neurological comps,cci,diabetes with complications,2
+C10F1,Type 2 diabetes mellitus with ophthalmic complications,cci,diabetes with complications,2
+2BBQ.,O/E - left eye background diabetic retinopathy,cci,diabetes with complications,2
+C1090,Type II diabetes mellitus with renal complications,cci,diabetes with complications,2
+F4202,Preproliferative diabetic retinopathy,cci,diabetes with complications,2
+C1050,"Diabetes mellitus, juvenile type,  ophthalmic manifestation",cci,diabetes with complications,2
+C10FR,Type 2 diabetes mellitus with gastroparesis,cci,diabetes with complications,2
+C10FE,Type 2 diabetes mellitus with diabetic cataract,cci,diabetes with complications,2
+C1087,Type 1 diabetes mellitus with retinopathy,cci,diabetes with complications,2
+C106.,Diabetes mellitus with polyneuropathy,cci,diabetes with complications,2
+F420.,Diabetic retinopathy,cci,diabetes with complications,2
+C1096,Type 2 diabetes mellitus with retinopathy,cci,diabetes with complications,2
+C109B,Non-insulin dependent diabetes mellitus with polyneuropathy,cci,diabetes with complications,2
+F4206,Non proliferative diabetic retinopathy,cci,diabetes with complications,2
+C105y,Other specified diabetes mellitus with ophthalmic complicatn,cci,diabetes with complications,2
+C109E,Type II diabetes mellitus with diabetic cataract,cci,diabetes with complications,2
+C10FB,Type 2 diabetes mellitus with polyneuropathy,cci,diabetes with complications,2
+C10FA,Type 2 diabetes mellitus with mononeuropathy,cci,diabetes with complications,2
+C10F6,Type II diabetes mellitus with retinopathy,cci,diabetes with complications,2
+C10E2,Type 1 diabetes mellitus with neurological complications,cci,diabetes with complications,2
+F3813,Myasthenic syndrome due to diabetic amyotrophy,cci,diabetes with complications,2
+C106z,Diabetes mellitus NOS with neurological manifestation,cci,diabetes with complications,2
+C104y,Other specified diabetes mellitus with renal complications,cci,diabetes with complications,2
+2BBV.,O/E - left eye proliferative diabetic retinopathy,cci,diabetes with complications,2
+F4204,Diabetic maculopathy,cci,diabetes with complications,2
+K01x1,Kimmelstiel - Wilson disease,cci,diabetes with complications,2
+C108D,Insulin dependent diabetes mellitus with nephropathy,cci,diabetes with complications,2
+C1081,Insulin-dependent diabetes mellitus with ophthalmic comps,cci,diabetes with complications,2
+F3y0.,Diabetic mononeuropathy,cci,diabetes with complications,2
+F372.,Diabetic neuropathy,cci,diabetes with complications,2
+F4203,Advanced diabetic maculopathy,cci,diabetes with complications,2
+C10F0,Type II diabetes mellitus with renal complications,cci,diabetes with complications,2
+C10FC,Type 2 diabetes mellitus with nephropathy,cci,diabetes with complications,2
+C10EF,Type 1 diabetes mellitus with diabetic cataract,cci,diabetes with complications,2
+C10F2,Type 2 diabetes mellitus with neurological complications,cci,diabetes with complications,2
+C10EB,Type 1 diabetes mellitus with mononeuropathy,cci,diabetes with complications,2
+F4208,High risk non proliferative diabetic retinopathy,cci,diabetes with complications,2
+C10EC,Type 1 diabetes mellitus with polyneuropathy,cci,diabetes with complications,2
+F374z,Polyneuropathy in disease NOS,cci,diabetes with complications,2
+2BBL.,O/E - diabetic maculopathy present both eyes,cci,diabetes with complications,2
+F4207,High risk proliferative diabetic retinopathy,cci,diabetes with complications,2
+2BBS.,O/E - left eye preproliferative diabetic retinopathy,cci,diabetes with complications,2
+C10E0,Type 1 diabetes mellitus with renal complications,cci,diabetes with complications,2
+2BBk.,O/E - right eye stable treated prolif diabetic retinopathy,cci,diabetes with complications,2
+F420z,Diabetic retinopathy NOS,cci,diabetes with complications,2
+C105z,Diabetes mellitus NOS with ophthalmic manifestation,cci,diabetes with complications,2
+C1051,"Diabetes mellitus, adult onset,  ophthalmic manifestation",cci,diabetes with complications,2
+C10ED,Type 1 diabetes mellitus with nephropathy,cci,diabetes with complications,2
+C108F,Type I diabetes mellitus with diabetic cataract,cci,diabetes with complications,2
+C109A,Type II diabetes mellitus with mononeuropathy,cci,diabetes with complications,2
+C10EQ,Type 1 diabetes mellitus with gastroparesis,cci,diabetes with complications,2
+C104.,Diabetic nephropathy,cci,diabetes with complications,2
+2BBR.,O/E - right eye preproliferative diabetic retinopathy,cci,diabetes with complications,2
+C108J,Type 1 diabetes mellitus with neuropathic arthropathy,cci,diabetes with complications,2
+C106y,Other specified diabetes mellitus with neurological comps,cci,diabetes with complications,2
+C10FH,Type 2 diabetes mellitus with neuropathic arthropathy,cci,diabetes with complications,2
+C105.,Diabetes mellitus with ophthalmic manifestation,cci,diabetes with complications,2
+F4201,Proliferative diabetic retinopathy,cci,diabetes with complications,2
+C104z,Diabetes mellitis with nephropathy NOS,cci,diabetes with complications,2
+C10E1,Type 1 diabetes mellitus with ophthalmic complications,cci,diabetes with complications,2
+F2410,Flaccid paraplegia,cci,hemiplegia,2
+F222.,Left hemiplegia,cci,hemiplegia,2
+F22z.,Hemiplegia NOS,cci,hemiplegia,2
+F2300,Congenital paraplegia,cci,hemiplegia,2
+F221.,Spastic hemiplegia,cci,hemiplegia,2
+F223.,Right hemiplegia,cci,hemiplegia,2
+F230.,Paraplegia - congenital,cci,hemiplegia,2
+F2411,Spastic paraplegia,cci,hemiplegia,2
+F241.,Paraplegia,cci,hemiplegia,2
+F141.,Hereditary spastic paraplegia,cci,hemiplegia,2
+F220.,Flaccid hemiplegia,cci,hemiplegia,2
+F22..,Hemiplegia,cci,hemiplegia,2
+B5614,Secondary and unspec malig neop post mediastinal lymph nodes,cci,metastatic tumour,6
+B58y9,Secondary malignant neoplasm of tongue,cci,metastatic tumour,6
+B5y..,Malignant neoplasm of other and unspecified site OS,cci,metastatic tumour,6
+B5623,Secondary and unspec malig neop common iliac lymph nodes,cci,metastatic tumour,6
+B5633,Secondary and unspec malig neop pectoral lymph nodes,cci,metastatic tumour,6
+B575.,Secondary malignant neoplasm of large intestine and rectum,cci,metastatic tumour,6
+B5751,Secondary malignant neoplasm of rectum,cci,metastatic tumour,6
+B58y3,Secondary malignant neoplasm of vagina,cci,metastatic tumour,6
+B5z..,Malignant neoplasm of other and unspecified site NOS,cci,metastatic tumour,6
+B58y4,Secondary cancer of the vulva,cci,metastatic tumour,6
+B5642,Secondary and unspec malig neop popliteal lymph nodes,cci,metastatic tumour,6
+B58y6,Secondary malignant neoplasm of testis,cci,metastatic tumour,6
+B586.,Secondary malignant neoplasm of ovary,cci,metastatic tumour,6
+B573.,Secondary malignant neoplasm of other respiratory organs,cci,metastatic tumour,6
+B593.,Primary malignant neoplasm of unknown site,cci,metastatic tumour,6
+B58..,Secondary malignant neoplasm of other specified sites,cci,metastatic tumour,6
+B5812,Secondary malignant neoplasm of urethra,cci,metastatic tumour,6
+B5631,Secondary and unspec malig neop supratrochlear lymph nodes,cci,metastatic tumour,6
+B56..,Lymph node metastases,cci,metastatic tumour,6
+B5742,Secondary malignant neoplasm of ileum,cci,metastatic tumour,6
+ByuC.,"[X]Malignant neoplasm of ill-defined, secondary and unspeci",cci,metastatic tumour,6
+B58y8,Secondary malignant neoplasm of epididymis and vas deferens,cci,metastatic tumour,6
+B5613,Secondary and unspec malig neop ant mediastinal lymph nodes,cci,metastatic tumour,6
+B58yz,Secondary malignant neoplasm of other specified site NOS,cci,metastatic tumour,6
+B574z,Secondary malig neop of small intestine or duodenum NOS,cci,metastatic tumour,6
+B5605,Secondary and unspec malig neop submandibular lymph nodes,cci,metastatic tumour,6
+B562.,Secondary and unspec malig neop intra-abdominal lymph nodes,cci,metastatic tumour,6
+B5620,Secondary and unspec malig neop coeliac lymph nodes,cci,metastatic tumour,6
+B576z,Secondary malig neop of retroperitoneum or peritoneum NOS,cci,metastatic tumour,6
+B5618,Secondary and unspec malig neop bronchopulmonary lymph nodes,cci,metastatic tumour,6
+B5607,Secondary and unspec malig neop submental lymph nodes,cci,metastatic tumour,6
+B5621,Secondary and unspec malig neop superficial mesenteric LN,cci,metastatic tumour,6
+B5740,Secondary malignant neoplasm of duodenum,cci,metastatic tumour,6
+B5640,Secondary and unspec malig neop superficial inguinal LN,cci,metastatic tumour,6
+B5821,Secondary malignant neoplasm of skin of face,cci,metastatic tumour,6
+B577.,Liver metastases,cci,metastatic tumour,6
+B5641,Secondary and unspec malig neop deep inguinal lymph nodes,cci,metastatic tumour,6
+B5741,Secondary malignant neoplasm of jejunum,cci,metastatic tumour,6
+B56y.,Secondary and unspec malig neop lymph nodes multiple sites,cci,metastatic tumour,6
+B590.,Carcinomatosis,cci,metastatic tumour,6
+B5820,Secondary malignant neoplasm of skin of head,cci,metastatic tumour,6
+B583z,Secondary malignant neoplasm of brain or spinal cord NOS,cci,metastatic tumour,6
+B576.,Secondary malig neop of retroperitoneum and peritoneum,cci,metastatic tumour,6
+B153.,Secondary malignant neoplasm of liver,cci,metastatic tumour,6
+B565.,Secondary and unspec malig neop intrapelvic lymph nodes,cci,metastatic tumour,6
+B563z,Secondary and unspec malig neop axilla and upper limb LN NOS,cci,metastatic tumour,6
+B58y.,Secondary malignant neoplasm of other specified sites,cci,metastatic tumour,6
+B572.,Secondary malignant neoplasm of pleura,cci,metastatic tumour,6
+B57..,Secondary carcinoma of respiratory and/or digestive systems,cci,metastatic tumour,6
+B5601,Secondary and unspec malignant neoplasm mastoid lymph nodes,cci,metastatic tumour,6
+B5823,Secondary malignant neoplasm of skin of trunk,cci,metastatic tumour,6
+B5612,Secondary and unspec malig neop diaphragmatic lymph nodes,cci,metastatic tumour,6
+B592.,Malignant neoplasms of independent (primary) multiple sites,cci,metastatic tumour,6
+B5825,Secondary malignant neoplasm of skin of hip and leg,cci,metastatic tumour,6
+B5811,Secondary malignant neoplasm of bladder,cci,metastatic tumour,6
+B5602,Secondary and unspec malig neop superficial cervical LN,cci,metastatic tumour,6
+B5831,Secondary malignant neoplasm of spinal cord,cci,metastatic tumour,6
+B59z.,Malignant neoplasm of unspecified site NOS,cci,metastatic tumour,6
+B5616,Secondary and unspec malig neop superfic tracheobronchial LN,cci,metastatic tumour,6
+B564.,Secondary and unspec malig neop inguinal and lower limb LN,cci,metastatic tumour,6
+B5760,Secondary malignant neoplasm of retroperitoneum,cci,metastatic tumour,6
+B5600,Secondary and unspec malig neop of superficial parotid LN,cci,metastatic tumour,6
+B5617,Secondary and unspec malig neop inferior tracheobronchial LN,cci,metastatic tumour,6
+B563.,Secondary and unspec malig neop axilla and upper limb LN,cci,metastatic tumour,6
+B592X,Kaposi's sarcoma of multiple organs,cci,metastatic tumour,6
+B58y5,Secondary malignant neoplasm of prostate,cci,metastatic tumour,6
+B58y2,Secondary malignant neoplasm of cervix uteri,cci,metastatic tumour,6
+B57z.,Secondary malig neop of respiratory or digestive system NOS,cci,metastatic tumour,6
+B5824,Secondary malignant neoplasm of skin of shoulder and arm,cci,metastatic tumour,6
+B587.,Secondary malignant neoplasm of adrenal gland,cci,metastatic tumour,6
+B5822,Secondary malignant neoplasm of skin of neck,cci,metastatic tumour,6
+B581.,Secondary malignant neoplasm of other urinary organs,cci,metastatic tumour,6
+B58y0,Secondary malignant neoplasm of breast,cci,metastatic tumour,6
+B58y7,Secondary malignant neoplasm of penis,cci,metastatic tumour,6
+B5652,Secondary and unspec malig neop circumflex iliac LN,cci,metastatic tumour,6
+B5750,Secondary malignant neoplasm of colon,cci,metastatic tumour,6
+B5610,Secondary and unspec malig neop internal mammary lymph nodes,cci,metastatic tumour,6
+B5830,Secondary malignant neoplasm of brain,cci,metastatic tumour,6
+B58y1,Secondary malignant neoplasm of uterus,cci,metastatic tumour,6
+B5653,Secondary and unspec malig neop sacral lymph nodes,cci,metastatic tumour,6
+B582z,Secondary malignant neoplasm of skin NOS,cci,metastatic tumour,6
+B5651,Secondary and unspec malig neop inferior epigastric LN,cci,metastatic tumour,6
+B5826,Secondary malignant neoplasm of skin of breast,cci,metastatic tumour,6
+B5850,Pathological fracture due to metastatic bone disease,cci,metastatic tumour,6
+ByuC1,[X]Malignant neoplasm/overlap lesion/otherdefined sites,cci,metastatic tumour,6
+B5606,Secondary and unspec malig neop of facial lymph nodes,cci,metastatic tumour,6
+B5609,Secondary and unspec malig neop deep cervical LN,cci,metastatic tumour,6
+ByuC7,[X]Secondary malignant neoplasm of other specified sites,cci,metastatic tumour,6
+B562z,Secondary and unspec malig neop intra-abdominal LN NOS,cci,metastatic tumour,6
+B571.,Secondary malignant neoplasm of mediastinum,cci,metastatic tumour,6
+B5608,Secondary and unspec malig neop anterior cervical LN,cci,metastatic tumour,6
+B580.,Secondary malignant neoplasm of kidney,cci,metastatic tumour,6
+B5630,Secondary and unspec malig neop axillary lymph nodes,cci,metastatic tumour,6
+B560.,Secondary and unspec malig neop lymph nodes head/face/neck,cci,metastatic tumour,6
+ByuC8,[X]Malignant neoplasm without specification of site,cci,metastatic tumour,6
+B560z,Secondary unspec malig neop lymph nodes head/face/neck NOS,cci,metastatic tumour,6
+B575z,Secondary malig neop of large intestine or rectum NOS,cci,metastatic tumour,6
+B5832,Cerebral metastasis,cci,metastatic tumour,6
+ByuC5,[X]2ndry malignant neoplasm/bladder urinary organs,cci,metastatic tumour,6
+B570.,Secondary malignant neoplasm of lung,cci,metastatic tumour,6
+B58z.,Secondary malignant neoplasm of other specified site NOS,cci,metastatic tumour,6
+B56z.,Secondary and unspec malig neop lymph nodes NOS,cci,metastatic tumour,6
+B5650,Secondary and unspec malig neop internal iliac lymph nodes,cci,metastatic tumour,6
+B591.,Other malignant neoplasm NOS,cci,metastatic tumour,6
+ByuC4,[X]Secondary malignant neoplasm/oth digestive organs,cci,metastatic tumour,6
+B5632,Secondary and unspec malig neop infraclavicular lymph nodes,cci,metastatic tumour,6
+B564z,Secondary and unspec malig neop of inguinal and leg LN NOS,cci,metastatic tumour,6
+ByuC3,[X]Secondary malignant neoplasm/oth respiratory organs,cci,metastatic tumour,6
+B582.,Secondary malignant neoplasm of skin,cci,metastatic tumour,6
+B581z,Secondary malignant neoplasm of other urinary organ NOS,cci,metastatic tumour,6
+B5611,Secondary and unspec malig neop intercostal lymph nodes,cci,metastatic tumour,6
+B5810,Secondary malignant neoplasm of ureter,cci,metastatic tumour,6
+B585.,Secondary malignant neoplasm of bone and bone marrow,cci,metastatic tumour,6
+B565z,Secondary and unspec malig neop intrapelvic LN NOS,cci,metastatic tumour,6
+B5624,Secondary and unspec malig neop external iliac lymph nodes,cci,metastatic tumour,6
+B583.,Secondary malignant neoplasm of brain and spinal cord,cci,metastatic tumour,6
+B561.,Secondary and unspec malig neop intrathoracic lymph nodes,cci,metastatic tumour,6
+B5762,Malignant ascites,cci,metastatic tumour,6
+B574.,Secondary malignant neoplasm of small intestine and duodenum,cci,metastatic tumour,6
+B594.,Secondary malignant neoplasm of unknown site,cci,metastatic tumour,6
+B584.,Secondary malignant neoplasm of other part of nervous system,cci,metastatic tumour,6
+B5622,Secondary and unspec malig neop inferior mesenteric LN,cci,metastatic tumour,6
+ByuC2,[X]2ndry malignant neoplasm lymph nodes/multi regions,cci,metastatic tumour,6
+B57y.,Secondary malignant neoplasm of other digestive organ,cci,metastatic tumour,6
+B59..,Malignant neoplasm of unspecified site,cci,metastatic tumour,6
+B5619,Secondary and unspec malig neop pulmonary lymph nodes,cci,metastatic tumour,6
+B561z,Secondary and unspec malig neop intrathoracic LN NOS,cci,metastatic tumour,6
+B5615,Secondary and unspec malig neop paratracheal lymph nodes,cci,metastatic tumour,6
+B5654,Secondary and unspec malig neop obturator lymph nodes,cci,metastatic tumour,6
+ByuC6,[X]2ndry malignant neoplasm/oth parts/nervous system,cci,metastatic tumour,6
+B5604,Secondary and unspec malig neop deep parotid lymph nodes,cci,metastatic tumour,6
+B5761,Secondary malignant neoplasm of peritoneum,cci,metastatic tumour,6
+B5603,Secondary and unspec malignant neoplasm occipital lymph node,cci,metastatic tumour,6
+J6161,Secondary biliary cirrhosis,cci,mild liver disease,1
+J6154,Fatty portal cirrhosis,cci,mild liver disease,1
+J616z,Biliary cirrhosis NOS,cci,mild liver disease,1
+J614.,Chronic hepatitis,cci,mild liver disease,1
+J614y,Chronic hepatitis unspecified,cci,mild liver disease,1
+J6151,Multilobular portal cirrhosis,cci,mild liver disease,1
+J6356,Toxic liver disease with fibrosis and cirrhosis of liver,cci,mild liver disease,1
+C3500,Pigmentary cirrhosis of liver,cci,mild liver disease,1
+J615z,"Laennec's cirrhosis, non-alcoholic",cci,mild liver disease,1
+J6170,Chronic alcoholic hepatitis,cci,mild liver disease,1
+J6141,Chronic active hepatitis,cci,mild liver disease,1
+J6150,Unilobular portal cirrhosis,cci,mild liver disease,1
+J615y,Portal cirrhosis unspecified,cci,mild liver disease,1
+J612.,Alcoholic cirrhosis of liver,cci,mild liver disease,1
+J615A,Pipe-stem portal cirrhosis,cci,mild liver disease,1
+J615.,Portal cirrhosis,cci,mild liver disease,1
+J6153,Diffuse nodular cirrhosis,cci,mild liver disease,1
+J615C,Xanthomatous portal cirrhosis,cci,mild liver disease,1
+J6143,Recurrent hepatitis,cci,mild liver disease,1
+Jyu71,[X]Other and unspecified cirrhosis of liver,cci,mild liver disease,1
+J61..,Cirrhosis and chronic liver disease,cci,mild liver disease,1
+J615F,Syphilitic portal cirrhosis,cci,mild liver disease,1
+C3104,Glycogenosis with hepatic cirrhosis,cci,mild liver disease,1
+J6160,Primary biliary cirrhosis,cci,mild liver disease,1
+J616.,Biliary cirrhosis,cci,mild liver disease,1
+J633.,Hepatitis unspecified,cci,mild liver disease,1
+J6157,Cardiac portal cirrhosis,cci,mild liver disease,1
+J6140,Chronic persistent hepatitis,cci,mild liver disease,1
+J6002,Acute yellow atrophy,cci,mild liver disease,1
+J615B,Toxic portal cirrhosis,cci,mild liver disease,1
+J61y3,Portal fibrosis without cirrhosis,cci,mild liver disease,1
+J6142,Chronic aggressive hepatitis,cci,mild liver disease,1
+J6012,Subacute yellow atrophy,cci,mild liver disease,1
+J614z,Chronic hepatitis NOS,cci,mild liver disease,1
+G8523,Oesophageal varices in alcoholic cirrhosis of the liver,cci,moderate liver disease,3
+J62z.,Liver abscess and chronic liver disease causing sequelae NOS,cci,moderate liver disease,3
+G851.,Oesophageal varices without bleeding,cci,moderate liver disease,3
+Gyu94,[X]Oesophageal varices in diseases classified elsewhere,cci,moderate liver disease,3
+J62y.,Other sequelae of chronic liver disease,cci,moderate liver disease,3
+G8520,Oesophageal varices with bleeding in diseases EC,cci,moderate liver disease,3
+J624.,Hepatorenal syndrome,cci,moderate liver disease,3
+G850.,Oesophageal varices with bleeding,cci,moderate liver disease,3
+G852.,Oesophageal varices in diseases EC,cci,moderate liver disease,3
+J622.,Hepatic coma,cci,moderate liver disease,3
+G858.,Oesophageal varices NOS,cci,moderate liver disease,3
+G85..,Oesophageal varices,cci,moderate liver disease,3
+J623.,Portal hypertension,cci,moderate liver disease,3
+G8522,Oesophageal varices in cirrhosis of the liver,cci,moderate liver disease,3
+A704z,Other specified viral hepatitis with hepatic coma NOS,cci,moderate liver disease,3
+760F3,Rigid oesophagoscopic injection sclerotherapy oesoph varices,cci,moderate liver disease,3
+G8521,Oesophageal varices without bleeding in diseases EC,cci,moderate liver disease,3
+G852z,Oesophageal varices in diseases EC NOS,cci,moderate liver disease,3
+G301.,Other specified anterior myocardial infarction,cci,myocardial infarction,1
+G30z.,Acute myocardial infarction NOS,cci,myocardial infarction,1
+G30..,Heart attack,cci,myocardial infarction,1
+G305.,Lateral myocardial infarction NOS,cci,myocardial infarction,1
+G307.,Acute subendocardial infarction,cci,myocardial infarction,1
+14AH.,H/O: Myocardial infarction in last year,cci,myocardial infarction,1
+G30y.,Other acute myocardial infarction,cci,myocardial infarction,1
+G303.,Acute inferoposterior infarction,cci,myocardial infarction,1
+G300.,Acute anterolateral infarction,cci,myocardial infarction,1
+G32..,Personal history of myocardial infarction,cci,myocardial infarction,1
+G30X0,Acute ST segment elevation myocardial infarction,cci,myocardial infarction,1
+G3071,Acute non-ST segment elevation myocardial infarction,cci,myocardial infarction,1
+G3070,Acute non-Q wave infarction,cci,myocardial infarction,1
+G3011,Acute anteroseptal infarction,cci,myocardial infarction,1
+G30yz,Other acute myocardial infarction NOS,cci,myocardial infarction,1
+G302.,Acute inferolateral infarction,cci,myocardial infarction,1
+J120y,Acute duodenal ulcer unspecified,cci,peptic ulcer disease,1
+761D6,Endoscopic injection haemostasis of gastric ulcer,cci,peptic ulcer disease,1
+J14y4,Unspecified gastrojejunal ulcer with obstruction,cci,peptic ulcer disease,1
+J13..,Peptic ulcer - (PU) site unspecified,cci,peptic ulcer disease,1
+J1020,Peptic ulcer of oesophagus,cci,peptic ulcer disease,1
+J12yz,Unspecified duodenal ulcer NOS,cci,peptic ulcer disease,1
+J11..,Pyloric ulcer,cci,peptic ulcer disease,1
+J1412,Chronic gastrojejunal ulcer with perforation,cci,peptic ulcer disease,1
+J110.,Acute gastric ulcer,cci,peptic ulcer disease,1
+J12y.,Unspecified duodenal ulcer,cci,peptic ulcer disease,1
+J121y,Chronic duodenal ulcer unspecified,cci,peptic ulcer disease,1
+J1101,Bleeding acute gastric ulcer,cci,peptic ulcer disease,1
+J11yy,Unspec gastric ulcer; unspec haemorrhage and/or perforation,cci,peptic ulcer disease,1
+J111y,Chronic gastric ulcer unspecified,cci,peptic ulcer disease,1
+J1111,Chronic gastric ulcer with haemorrhage,cci,peptic ulcer disease,1
+J14..,Stomal ulcer,cci,peptic ulcer disease,1
+J131y,Chronic peptic ulcer unspecified,cci,peptic ulcer disease,1
+J110y,Acute gastric ulcer unspecified,cci,peptic ulcer disease,1
+J13z.,Peptic ulcer NOS,cci,peptic ulcer disease,1
+J1103,Acute gastric ulcer with haemorrhage and perforation,cci,peptic ulcer disease,1
+761Jz,Operation on gastric ulcer NOS,cci,peptic ulcer disease,1
+J14y1,Unspecified gastrojejunal ulcer with haemorrhage,cci,peptic ulcer disease,1
+J1214,Chronic duodenal ulcer with obstruction,cci,peptic ulcer disease,1
+J130z,Acute peptic ulcer NOS,cci,peptic ulcer disease,1
+J12y4,Unspecified duodenal ulcer with obstruction,cci,peptic ulcer disease,1
+J11y1,Unspecified gastric ulcer with haemorrhage,cci,peptic ulcer disease,1
+J1404,Acute gastrojejunal ulcer with obstruction,cci,peptic ulcer disease,1
+J12y0,Unspecified duodenal ulcer without mention of complication,cci,peptic ulcer disease,1
+J122.,Duodenal ulcer disease,cci,peptic ulcer disease,1
+J1210,Chronic duodenal ulcer without mention of complication,cci,peptic ulcer disease,1
+J14y2,Unspecified gastrojejunal ulcer with perforation,cci,peptic ulcer disease,1
+J141y,Chronic gastrojejunal ulcer unspecified,cci,peptic ulcer disease,1
+J1413,Chronic gastrojejunal ulcer with haemorrhage and perforation,cci,peptic ulcer disease,1
+J11y4,Unspecified gastric ulcer with obstruction,cci,peptic ulcer disease,1
+J13y.,Unspecified peptic ulcer,cci,peptic ulcer disease,1
+J131.,Chronic peptic ulcer,cci,peptic ulcer disease,1
+J120z,Acute duodenal ulcer NOS,cci,peptic ulcer disease,1
+J1400,Acute gastrojejunal ulcer without mention of complication,cci,peptic ulcer disease,1
+J1102,Acute gastric ulcer with perforation,cci,peptic ulcer disease,1
+J1114,Chronic gastric ulcer with obstruction,cci,peptic ulcer disease,1
+J121.,Chronic duodenal ulcer,cci,peptic ulcer disease,1
+J14yy,Unspec gastrojejunal ulcer; unspec haemorrhage/perforation,cci,peptic ulcer disease,1
+J130.,Acute peptic ulcer,cci,peptic ulcer disease,1
+J11y2,Unspecified gastric ulcer with perforation,cci,peptic ulcer disease,1
+J1203,Acute duodenal ulcer with haemorrhage and perforation,cci,peptic ulcer disease,1
+J1201,Acute duodenal ulcer with haemorrhage,cci,peptic ulcer disease,1
+J13y3,Unspecified peptic ulcer with haemorrhage and perforation,cci,peptic ulcer disease,1
+J14y3,Unspec gastrojejunal ulcer with haemorrhage and perforation,cci,peptic ulcer disease,1
+J1313,Chronic peptic ulcer with haemorrhage and perforation,cci,peptic ulcer disease,1
+761J0,Closure of perforated gastric ulcer,cci,peptic ulcer disease,1
+J1202,Acute duodenal ulcer with perforation,cci,peptic ulcer disease,1
+J1302,Acute peptic ulcer with perforation,cci,peptic ulcer disease,1
+761J1,Suture of ulcer of stomach NEC,cci,peptic ulcer disease,1
+J1401,Acute gastrojejunal ulcer with haemorrhage,cci,peptic ulcer disease,1
+J12y2,Unspecified duodenal ulcer with perforation,cci,peptic ulcer disease,1
+J111z,Chronic gastric ulcer NOS,cci,peptic ulcer disease,1
+J11yz,Unspecified gastric ulcer NOS,cci,peptic ulcer disease,1
+J14z.,Gastrojejunal ulcer NOS,cci,peptic ulcer disease,1
+J14y0,Unspecified gastrojejunal ulcer without mention complication,cci,peptic ulcer disease,1
+J11z.,Gastric ulcer NOS,cci,peptic ulcer disease,1
+J14y.,Unspecified gastrojejunal ulcer,cci,peptic ulcer disease,1
+J141z,Chronic gastrojejunal ulcer NOS,cci,peptic ulcer disease,1
+J13yy,Unspec peptic ulcer; unspec haemorrhage and/or perforation,cci,peptic ulcer disease,1
+76121,Balfour excision of gastric ulcer,cci,peptic ulcer disease,1
+J12yy,Unspec duodenal ulcer; unspec haemorrhage and/or perforation,cci,peptic ulcer disease,1
+J1110,Chronic gastric ulcer without mention of complication,cci,peptic ulcer disease,1
+J1100,Acute gastric ulcer without mention of complication,cci,peptic ulcer disease,1
+J1300,Acute peptic ulcer without mention of complication,cci,peptic ulcer disease,1
+J1113,Chronic gastric ulcer with haemorrhage and perforation,cci,peptic ulcer disease,1
+J1403,Acute gastrojejunal ulcer with haemorrhage and perforation,cci,peptic ulcer disease,1
+J13y0,Unspecified peptic ulcer without mention of complication,cci,peptic ulcer disease,1
+J11y.,Unspecified gastric ulcer,cci,peptic ulcer disease,1
+J120.,Acute duodenal ulcer,cci,peptic ulcer disease,1
+J1304,Acute peptic ulcer with obstruction,cci,peptic ulcer disease,1
+J1414,Chronic gastrojejunal ulcer with obstruction,cci,peptic ulcer disease,1
+J13y1,Unspecified peptic ulcer with haemorrhage,cci,peptic ulcer disease,1
+J1200,Acute duodenal ulcer without mention of complication,cci,peptic ulcer disease,1
+J1213,Chronic duodenal ulcer with haemorrhage and perforation,cci,peptic ulcer disease,1
+76270,Closure of perforated duodenal ulcer,cci,peptic ulcer disease,1
+J131z,Chronic peptic ulcer NOS,cci,peptic ulcer disease,1
+J130y,Acute peptic ulcer unspecified,cci,peptic ulcer disease,1
+J112.,Anti-platelet induced gastric ulcer,cci,peptic ulcer disease,1
+J110z,Acute gastric ulcer NOS,cci,peptic ulcer disease,1
+J111.,Chronic gastric ulcer,cci,peptic ulcer disease,1
+J1104,Acute gastric ulcer with obstruction,cci,peptic ulcer disease,1
+J121z,Chronic duodenal ulcer NOS,cci,peptic ulcer disease,1
+J1310,Chronic peptic ulcer without mention of complication,cci,peptic ulcer disease,1
+J12..,Duodenal ulcer - (DU),cci,peptic ulcer disease,1
+J141.,Chronic gastrojejunal ulcer,cci,peptic ulcer disease,1
+J11y0,Unspecified gastric ulcer without mention of complication,cci,peptic ulcer disease,1
+J1112,Chronic gastric ulcer with perforation,cci,peptic ulcer disease,1
+J123.,Duodenal erosion,cci,peptic ulcer disease,1
+J13y4,Unspecified peptic ulcer with obstruction,cci,peptic ulcer disease,1
+J1314,Chronic peptic ulcer with obstruction,cci,peptic ulcer disease,1
+J14yz,Unspecified gastrojejunal ulcer NOS,cci,peptic ulcer disease,1
+ZV127,[V]Personal history of peptic ulcer,cci,peptic ulcer disease,1
+J1301,Acute peptic ulcer with haemorrhage,cci,peptic ulcer disease,1
+76125,Resection of gastric ulcer by cautery,cci,peptic ulcer disease,1
+J1204,Acute duodenal ulcer with obstruction,cci,peptic ulcer disease,1
+ZV12C,[V] Personal history of gastric ulcer,cci,peptic ulcer disease,1
+J12y3,Unspecified duodenal ulcer with haemorrhage and perforation,cci,peptic ulcer disease,1
+J13yz,Unspecified peptic ulcer NOS,cci,peptic ulcer disease,1
+761J.,Stomach ulcer operations,cci,peptic ulcer disease,1
+J12z.,Duodenal ulcer NOS,cci,peptic ulcer disease,1
+J1402,Acute gastrojejunal ulcer with perforation,cci,peptic ulcer disease,1
+J1311,Chronic peptic ulcer with haemorrhage,cci,peptic ulcer disease,1
+J1410,Chronic gastrojejunal ulcer without mention of complication,cci,peptic ulcer disease,1
+J1312,Chronic peptic ulcer with perforation,cci,peptic ulcer disease,1
+J124.,Recurrent duodenal ulcer,cci,peptic ulcer disease,1
+J1303,Acute peptic ulcer with haemorrhage and perforation,cci,peptic ulcer disease,1
+J11y3,Unspecified gastric ulcer with haemorrhage and perforation,cci,peptic ulcer disease,1
+J1411,Chronic gastrojejunal ulcer with haemorrhage,cci,peptic ulcer disease,1
+J1211,Bleeding chronic duodenal ulcer,cci,peptic ulcer disease,1
+761Jy,Other specified operation on gastric ulcer,cci,peptic ulcer disease,1
+J140z,Acute gastrojejunal ulcer NOS,cci,peptic ulcer disease,1
+J140y,Acute gastrojejunal ulcer unspecified,cci,peptic ulcer disease,1
+J13y2,Unspecified peptic ulcer with perforation,cci,peptic ulcer disease,1
+J140.,Acute gastrojejunal ulcer,cci,peptic ulcer disease,1
+G7140,Juxtarenal aortic aneurysm,cci,peripheral vascular disease,1
+7A134,Tube graft abdominal Aortic aneurysm (emergency),cci,peripheral vascular disease,1
+R054.,[D]Gangrene,cci,peripheral vascular disease,1
+G715.,Ruptured aortic aneurysm NOS,cci,peripheral vascular disease,1
+14AE.,H/O: aortic aneurysm,cci,peripheral vascular disease,1
+G73..,Other peripheral vascular disease,cci,peripheral vascular disease,1
+Gyu71,"[X]Aortic aneurysm of unspecified site, ruptured",cci,peripheral vascular disease,1
+G710.,Dissecting aortic aneurysm,cci,peripheral vascular disease,1
+G73y.,Other specified peripheral vascular disease,cci,peripheral vascular disease,1
+G7311,Presenile gangrene,cci,peripheral vascular disease,1
+G7130,Ruptured suprarenal aortic aneurysm,cci,peripheral vascular disease,1
+G7150,"Thoracoabdominal aortic aneurysm, ruptured",cci,peripheral vascular disease,1
+R0542,[D]Gangrene of toe in diabetic,cci,peripheral vascular disease,1
+G7320,Gangrene of toe,cci,peripheral vascular disease,1
+G732.,Peripheral gangrene,cci,peripheral vascular disease,1
+G7160,"Thoracoabdominal aortic aneurysm, without mention of rupture",cci,peripheral vascular disease,1
+G7324,Gangrene of hand,cci,peripheral vascular disease,1
+7A13.,Emergency repair of aortic aneurysm,cci,peripheral vascular disease,1
+7A113,Y graft abdominal Aortic aneurysm,cci,peripheral vascular disease,1
+G73yz,Other specified peripheral vascular disease NOS,cci,peripheral vascular disease,1
+C107.,Diabetes with gangrene,cci,peripheral vascular disease,1
+R0543,[D]Widespread diabetic foot gangrene,cci,peripheral vascular disease,1
+2I16.,O/E - gangrene,cci,peripheral vascular disease,1
+G7141,Inflammatory abdominal aortic aneurysm,cci,peripheral vascular disease,1
+G7321,Gangrene of foot,cci,peripheral vascular disease,1
+G7322,Gangrene of finger,cci,peripheral vascular disease,1
+R054z,[D]Gangrene NOS,cci,peripheral vascular disease,1
+G73z0,Intermittent claudication,cci,peripheral vascular disease,1
+G716.,Aortic aneurysm without mention of rupture NOS,cci,peripheral vascular disease,1
+7A112,Y graft of abdominal Aortic aneurysm (emergency),cci,peripheral vascular disease,1
+G712.,Thoracic aortic aneurysm without mention of rupture,cci,peripheral vascular disease,1
+G711.,Thoracic aortic aneurysm which has ruptured,cci,peripheral vascular disease,1
+G73z.,Peripheral vascular disease NOS,cci,peripheral vascular disease,1
+G73zz,Peripheral vascular disease NOS,cci,peripheral vascular disease,1
+G71z.,Aortic aneurysm NOS,cci,peripheral vascular disease,1
+G713.,Abdominal aortic aneurysm which has ruptured,cci,peripheral vascular disease,1
+7A14.,Aortic aneurysm repair,cci,peripheral vascular disease,1
+14NB.,H/O: Peripheral vascular disease procedure,cci,peripheral vascular disease,1
+G71..,Aortic aneurysm,cci,peripheral vascular disease,1
+Gyu72,"[X]Aortic aneurysm of unspecified site, nonruptured",cci,peripheral vascular disease,1
+G7323,Gangrene of thumb,cci,peripheral vascular disease,1
+R0540,"[D]Gangrene, spreading cutaneous",cci,peripheral vascular disease,1
+G714.,AAA - Abdominal aortic aneurysm without mention of rupture,cci,peripheral vascular disease,1
+Gyu74,[X]Other specified peripheral vascular diseases,cci,peripheral vascular disease,1
+G718.,Leaking abdominal aortic aneurysm,cci,peripheral vascular disease,1
+7A144,Tube graft of Abdominal aortic aneurysm,cci,peripheral vascular disease,1
+K0800,Phosphate-losing tubular disorders,cci,renal disease,2
+K032z,Nephritis unsp glomerulonephritis lesion NOS,cci,renal disease,2
+K0801,Renal dwarfism,cci,renal disease,2
+K04z.,Acute renal failure NOS,cci,renal disease,2
+K1011,Acute pyelonephritis with medullary necrosis,cci,renal disease,2
+K02z.,Chronic glomerulonephritis NOS,cci,renal disease,2
+K060.,Impaired renal function,cci,renal disease,2
+K021.,Chronic membranous glomerulonephritis,cci,renal disease,2
+K023.,Chronic rapidly progressive glomerulonephritis,cci,renal disease,2
+K032y,Nephritis unsp membranoprolif glomerulonephritis lesion,cci,renal disease,2
+1Z11.,Chronic kidney disease stage 2,cci,renal disease,2
+K041.,Acute renal cortical necrosis,cci,renal disease,2
+K0...,"Nephritis, nephrosis and nephrotic syndrome",cci,renal disease,2
+K02..,Nephropathy - chronic,cci,renal disease,2
+K08yz,Other impaired renal function disorder NOS,cci,renal disease,2
+K081.,Nephrogenic diabetes insipidus,cci,renal disease,2
+K080.,Renal osteodystrophy,cci,renal disease,2
+K0A34,Chron neph syn difuse endocap prolifrativ glomerulonephritis,cci,renal disease,2
+K06..,Renal failure unspecified,cci,renal disease,2
+K0A32,Chron nephritic syndrom difuse membranous glomerulonephritis,cci,renal disease,2
+K034.,Renal cortical necrosis unspecified,cci,renal disease,2
+K02y2,Chronic focal glomerulonephritis,cci,renal disease,2
+K03..,Nephritis and nephropathy unspecified,cci,renal disease,2
+K05..,Chronic renal failure,cci,renal disease,2
+K0A55,[X]Heredtry nephrpthy NEC difus mesangiocapilry glomneph,cci,renal disease,2
+K1010,Acute pyelonephritis without medullary necrosis,cci,renal disease,2
+K0803,Renal rickets,cci,renal disease,2
+1Z13.,Chronic kidney disease stage 4,cci,renal disease,2
+K032.,Membranoproliferative nephritis unspecified,cci,renal disease,2
+K012.,Nephrotic syndrome glomerulonephritis,cci,renal disease,2
+K0A33,Chron neph syn difus mesangial prolifrtiv glomerulonephritis,cci,renal disease,2
+1Z14.,Chronic kidney disease stage 5,cci,renal disease,2
+Kyu2.,[X]Renal failure,cci,renal disease,2
+K08z.,Impaired renal function disorder NOS,cci,renal disease,2
+K050.,End stage renal failure,cci,renal disease,2
+K1000,Chronic pyelonephritis without medullary necrosis,cci,renal disease,2
+K04y.,Other acute renal failure,cci,renal disease,2
+14D1.,H/O: nephritis,cci,renal disease,2
+1Z10.,Chronic kidney disease stage 1,cci,renal disease,2
+K0320,Focal membranoproliferative glomerulonephritis,cci,renal disease,2
+K042.,Acute renal medullary necrosis,cci,renal disease,2
+K022.,Chronic membranoproliferative glomerulonephritis,cci,renal disease,2
+K0802,Renal infantilism,cci,renal disease,2
+K001.,Acute nephritis with lesions of necrotising glomerulitis,cci,renal disease,2
+1Z12.,Chronic kidney disease stage 3,cci,renal disease,2
+K02yz,Other chronic glomerulonephritis NOS,cci,renal disease,2
+K02y3,Chronic diffuse glomerulonephritis,cci,renal disease,2
+K080z,Renal osteodystrophy NOS,cci,renal disease,2
+K019.,"Nephrotic syn,diffuse mesangiocapillary glomerulonephritis",cci,renal disease,2
+K035.,Renal medullary necrosis unspecified,cci,renal disease,2
+K0A37,Chronic nephritic syn diffuse crescentic glomerulonephritis,cci,renal disease,2
+K08y0,Hypokalaemic nephropathy,cci,renal disease,2
+Kyu21,[X]Other chronic renal failure,cci,renal disease,2
+K0A35,Chronic neph syn difus mesangiocapillary glomerulonephritis,cci,renal disease,2
+K02y0,Chronic glomerulonephritis  diseases EC,cci,renal disease,2
+K1001,Chronic pyelonephritis with medullary necrosis,cci,renal disease,2
+Kyu20,[X]Other acute renal failure,cci,renal disease,2
+N041.,Felty's syndrome,cci,rheumatological disease,1
+Nyu10,[X]Rheumatoid arthritis organs or systems,cci,rheumatological disease,1
+N0012,Systemic sclerosis induced by drugs and chemicals,cci,rheumatological disease,1
+N04y0,Caplan's syndrome,cci,rheumatological disease,1
+N0010,Progressive systemic sclerosis,cci,rheumatological disease,1
+N001.,Systemic sclerosis,cci,rheumatological disease,1
+N040B,Rheumatoid arthritis of hip,cci,rheumatological disease,1
+N0003,Systemic lupus erythematosus with organ or sys involv,cci,rheumatological disease,1
+N047.,Seropositive errosive rheumatoid arthritis,cci,rheumatological disease,1
+N000.,Systemic lupus erythematosus,cci,rheumatological disease,1
+N040J,Rheumatoid arthritis of other tarsal joint,cci,rheumatological disease,1
+N04X.,"Seropositive rheumatoid arthritis, unspecified",cci,rheumatological disease,1
+Nyu1G,"[X]Seropositive rheumatoid arthritis, unspecified",cci,rheumatological disease,1
+N040A,Rheumatoid arthritis of DIP joint of finger,cci,rheumatological disease,1
+N0403,Rheumatoid arthritis of sternoclavicular joint,cci,rheumatological disease,1
+N2400,Rheumatism unspecified,cci,rheumatological disease,1
+N2402,Muscular rheumatism,cci,rheumatological disease,1
+N200.,Giant cell arteritis with polymyalgia rheumatica,cci,rheumatological disease,1
+N20..,Polymyalgia rheumatica,cci,rheumatological disease,1
+N0409,Rheumatoid arthritis of PIP joint of finger,cci,rheumatological disease,1
+N0001,Libman-Sacks disease,cci,rheumatological disease,1
+2A42.,SYSTEMIC LUPUS ERYTHEMATOSUS WITH RENAL,cci,rheumatological disease,1
+N0004,Systemic lupus erythematosus with pericarditis,cci,rheumatological disease,1
+N040M,Rheumatoid arthritis of IP joint of toe,cci,rheumatological disease,1
+N0408,Rheumatoid arthritis of MCP joint,cci,rheumatological disease,1
+N2y..,Other specified nonarticular rheumatism,cci,rheumatological disease,1
+H572.,Lung disease with systemic sclerosis,cci,rheumatological disease,1
+N04..,Rheumatoid arthritis and other inflammatory polyarthropathy,cci,rheumatological disease,1
+N040P,Seronegative rheumatoid arthritis,cci,rheumatological disease,1
+G5yA.,Rheumatoid carditis,cci,rheumatological disease,1
+H57y4,Lung disease with systemic lupus erythematosus,cci,rheumatological disease,1
+K01x4,Lupus nephritis,cci,rheumatological disease,1
+N0000,Disseminated lupus erythematosus,cci,rheumatological disease,1
+N040T,Flare of rheumatoid arthritis,cci,rheumatological disease,1
+N040.,Rheumatoid arthritis,cci,rheumatological disease,1
+N04y1,Sero negative polyarthritis,cci,rheumatological disease,1
+Nyu45,[X]Other forms of systemic sclerosis,cci,rheumatological disease,1
+N240z,Rheumatism or fibrositis NOS,cci,rheumatological disease,1
+N040L,Rheumatoid arthritis of lesser MTP joint,cci,rheumatological disease,1
+N2314,Polymyositis ossificans,cci,rheumatological disease,1
+Nyu12,[X]Other specified rheumatoid arthritis,cci,rheumatological disease,1
+F3966,Myopathy due to scleroderma,cci,rheumatological disease,1
+F3964,Myopathy due to rheumatoid arthritis,cci,rheumatological disease,1
+N0421,Rheumatoid lung disease,cci,rheumatological disease,1
+N040G,Rheumatoid arthritis of subtalar joint,cci,rheumatological disease,1
+N0402,Rheumatoid arthritis of shoulder,cci,rheumatological disease,1
+N040H,Rheumatoid arthritis of talonavicular joint,cci,rheumatological disease,1
+N040D,Rheumatoid arthritis of knee,cci,rheumatological disease,1
+N040F,Rheumatoid arthritis of ankle,cci,rheumatological disease,1
+N060.,Endemic polyarthritis,cci,rheumatological disease,1
+Nyu43,[X]Other forms of systemic lupus erythematosus,cci,rheumatological disease,1
+Nyu11,[X]Other seropositive rheumatoid arthritis,cci,rheumatological disease,1
+N004.,Polymyositis,cci,rheumatological disease,1
+H57y1,Lung disease with polymyositis,cci,rheumatological disease,1
+N040E,Rheumatoid arthritis of tibio-fibular joint,cci,rheumatological disease,1
+N0406,Rheumatoid arthritis of distal radio-ulnar joint,cci,rheumatological disease,1
+N240.,Rheumatism and fibrositis unspecified,cci,rheumatological disease,1
+N040C,Rheumatoid arthritis of sacro-iliac joint,cci,rheumatological disease,1
+F3961,Myopathy due to disseminated lupus erythematosus,cci,rheumatological disease,1
+N040K,Rheumatoid arthritis of 1st MTP joint,cci,rheumatological disease,1
+N2z..,Nonarticular rheumatism NOS,cci,rheumatological disease,1
+N0405,Rheumatoid arthritis of elbow,cci,rheumatological disease,1
+N0002,Drug-induced systemic lupus erythematosus,cci,rheumatological disease,1
+H570.,Rheumatoid lung,cci,rheumatological disease,1
+N000z,Systemic lupus erythematosus NOS,cci,rheumatological disease,1
+N0407,Rheumatoid arthritis of wrist,cci,rheumatological disease,1
+N2407,Hand rheumatism,cci,rheumatological disease,1
+N0404,Rheumatoid arthritis of acromioclavicular joint,cci,rheumatological disease,1
+F3712,Polyneuropathy in rheumatoid arthritis,cci,rheumatological disease,1
+AyuC9,HIV disease resulting in unspecified malignant neoplasm,cci,AIDS,6
+AyuCA,HIV disease resulting in multiple diseases CE,cci,AIDS,6
+AyuC5,HIV disease resulting/unspcf infectious disease,cci,AIDS,6
+A7894,[X]HIV disease resulting in multiple infections,cci,AIDS,6
+X70O1,HIV disease resulting in wasting syndrome,cci,AIDS,6
+XE0RX,Acquired immune deficiency syndrome,cci,AIDS,6
+X70M6,Acquired immune deficiency syndrome,cci,AIDS,6
+AyuCB,"HIV disease result/haematological abnorms,NEC",cci,AIDS,6
+AyuC7,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc tissu",cci,AIDS,6
+B0011,"Malignant neoplasm of lower lip, vermilion border",cci,cancer,2
+XaBLw,Follicular lymphoma NOS,cci,cancer,2
+Xa99n,Diffuse non-Hodgkin's centroblastic lymphoma,cci,cancer,2
+XaELL,Teratoma of descended testis,cci,cancer,2
+XE1vf,Malignant neoplasm of short bones of leg,cci,cancer,2
+Xa0So,Acute myelofibrosis,cci,cancer,2
+Xa0Ti,T-zone lymphoma,cci,cancer,2
+XE1vW,Rectal carcinoma,cci,cancer,2
+X78OK,Rectal carcinoma,cci,cancer,2
+Xa0Th,Peripheral T-cell lymphoma,cci,cancer,2
+B507.,Malignant neoplasm of lacrimal gland,cci,cancer,2
+B623.,Malignant reticulosis,cci,cancer,2
+XE1vR,Malignant neoplasm of stomach,cci,cancer,2
+X3023,Malignant neoplasm of stomach,cci,cancer,2
+XE1vp,Reticulosarcoma - follicular or nodular,cci,cancer,2
+XE2vO,"Carcinoma of bone, connective tissue, skin and breast",cci,cancer,2
+X78ei,"Carcinoma of bone, connective tissue, skin and breast",cci,cancer,2
+X78eh,"Carcinoma of bone, connective tissue, skin and breast",cci,cancer,2
+Xa0D9,Dermatofibrosarcoma protuberans,cci,cancer,2
+XE2vN,Malignant neoplasm of common bile duct,cci,cancer,2
+X78ga,Malignant neoplasm of common bile duct,cci,cancer,2
+XE1vj,Malignant neoplasm of vulva unspecified,cci,cancer,2
+XM1P4,Malignant neoplasm of vulva unspecified,cci,cancer,2
+XE1vQ,Malignant neoplasm of oesophagus NOS,cci,cancer,2
+B10..,Malignant neoplasm of oesophagus NOS,cci,cancer,2
+XE1vc,Lung cancer,cci,cancer,2
+Xa0KG,Lung cancer,cci,cancer,2
+Bz...,Cancers,cci,cancer,2
+XE1vN,Cancers,cci,cancer,2
+X78ef,Cancers,cci,cancer,2
+Xa0SP,Myeloproliferative disease,cci,cancer,2
+Byu56,"Mal neoplasm/periph nerves nervous system,unspc",cci,cancer,2
+Byu32,Malignant neoplasm/overlap lesion/bone cartilage,cci,cancer,2
+Byu72,Malignant neoplasm/overlapping lesion/feml genital organs,cci,cancer,2
+XaBB3,Plasma cell leukaemia,cci,cancer,2
+XE1vi,Malignant neoplasm of cervix uteri,cci,cancer,2
+XE1vY,Carcinoma gallbladder,cci,cancer,2
+X78gY,Carcinoma gallbladder,cci,cancer,2
+XaCKx,Malignant neoplasm of canthus,cci,cancer,2
+XE2vP,Malignant neoplasm of genitourinary organ,cci,cancer,2
+X78eg,Malignant neoplasm of genitourinary organ,cci,cancer,2
+Byu31,"Malignant neoplasm/bones cartilage/limb,unspfd",cci,cancer,2
+XE2t9,"[X]Non-Hodgkin's lymphoma, unspecified type",cci,cancer,2
+ByuB0,"Malignant neoplasm-pluriglandular involvement,unspecified",cci,cancer,2
+XE1vd,Chondroma,cci,cancer,2
+Xa9AY,Chondroma,cci,cancer,2
+Xa9AU,Chondroma,cci,cancer,2
+X78P0,Primary angiosarcoma of liver,cci,cancer,2
+XaKWz,Malignant sacral teratoma,cci,cancer,2
+XE1wg,[X]Mesothelioma of lung,cci,cancer,2
+BBP1.,Mesothelioma of pleura,cci,cancer,2
+X78Qc,Mesothelioma of pleura,cci,cancer,2
+XE1vh,Epithelioma,cci,cancer,2
+X78SS,Epithelioma,cci,cancer,2
+Xa98G,Epithelioma,cci,cancer,2
+X77mu,Epithelioma,cci,cancer,2
+BB16.,Epithelioma,cci,cancer,2
+X78h1,Epithelioma,cci,cancer,2
+X78h7,Epithelioma,cci,cancer,2
+XM1ML,Epithelioma,cci,cancer,2
+XE1vZ,Carcinoma of respiratory tract and intrathoracic organs,cci,cancer,2
+X78g0,Carcinoma of respiratory tract and intrathoracic organs,cci,cancer,2
+XE1vb,"Malignant neoplasm of upper lobe, bronchus or lung",cci,cancer,2
+Xa0bg,"Malignant neoplasm of upper lobe, bronchus or lung",cci,cancer,2
+XaBLx,Plasmacytoma NOS,cci,cancer,2
+B323.,[X]Malignant melanoma of other parts of face,cci,cancer,2
+XM00E,"Malignant neoplasm of lower lip, inner aspect",cci,cancer,2
+B2z0.,"[X]Malignant neoplasm/upper resp tract, part unspecified",cci,cancer,2
+XaELI,Lambda light chain myeloma,cci,cancer,2
+XE1vU,Carcinoma of caecum,cci,cancer,2
+X78gM,Carcinoma of caecum,cci,cancer,2
+Xa0Tj,Lymphoepithelioid lymphoma,cci,cancer,2
+XE2rk,"[X]Malignant neoplasm of lip, oral cavity and pharynx",cci,cancer,2
+XaEY9,Malignant neoplasm of mesentery,cci,cancer,2
+XaBBt,Myelosclerosis with myeloid metaplasia,cci,cancer,2
+XaCIv,Malignant melanoma of back,cci,cancer,2
+XE2vR,Malignant neoplasm of other and unspecified sites,cci,cancer,2
+X78lF,Malignant neoplasm of other and unspecified sites,cci,cancer,2
+X78VS,Mesothelioma of peritoneum,cci,cancer,2
+Byu54,"Malignant neoplasm/peripheral nerves of trunk,unspecified",cci,cancer,2
+B26..,[X]Malignant neopl/overlapping les/resp organs,cci,cancer,2
+B592.,[X]Malignant neoplasms/independent (primary) multiple sites,cci,cancer,2
+XE1ve,Malignant neoplasm of carpal bones,cci,cancer,2
+X78gp,Malignant neoplasm of carpal bones,cci,cancer,2
+X78gq,Malignant neoplasm of carpal bones,cci,cancer,2
+XE1vq,Lymphoid and histiocytic malignancy NOS,cci,cancer,2
+XM1Qz,Lymphoid and histiocytic malignancy NOS,cci,cancer,2
+XE1vl,Phaeochromocytoma,cci,cancer,2
+Xa99P,Phaeochromocytoma,cci,cancer,2
+XaEGW,Malignant neoplasm of lower eyelid,cci,cancer,2
+X78RR,Malignant neoplasm of skin NOS,cci,cancer,2
+XE1vo,Malignant neoplasm of lymphatic and haemopoietic tissue,cci,cancer,2
+X78OW,Malignant neoplasm of cloacogenic zone,cci,cancer,2
+XE1vk,Malignant neoplasm of testis NOS,cci,cancer,2
+X78ip,Malignant neoplasm of testis NOS,cci,cancer,2
+X78io,Malignant neoplasm of testis NOS,cci,cancer,2
+XE2vQ,Malig neop of kidney and other unspecified urinary organs,cci,cancer,2
+X78iu,Malig neop of kidney and other unspecified urinary organs,cci,cancer,2
+B0042,"Malignant neoplasm of lip unspecified, buccal aspect",cci,cancer,2
+XM00E,"Malignant neoplasm of lower lip, oral aspect",cci,cancer,2
+B002.,"Malignant neoplasm of upper lip, mucosa",cci,cancer,2
+B592.,[X]Malignant neoplasms/independent(primary)multiple sites,cci,cancer,2
+XE1vP,Carcinoma of digestive organs and peritoneum,cci,cancer,2
+ByuA3,"Malig neopl, overlap lesion brain & other part of CNS",cci,cancer,2
+XaELK,Seminoma of descended testis,cci,cancer,2
+B062.,Malignant neoplasm of palatopharyngeal arch,cci,cancer,2
+B002.,"Malignant neoplasm of upper lip, oral aspect",cci,cancer,2
+XE1vV,Malignant neoplasm of colon NOS,cci,cancer,2
+B13..,Malignant neoplasm of colon NOS,cci,cancer,2
+XaD2Q,Malignant neoplasm of skin of scapular region,cci,cancer,2
+XaEGU,Malignant melanoma of chest wall,cci,cancer,2
+XE2vi,Di Guglielmo's disease,cci,cancer,2
+XaBAl,Di Guglielmo's disease,cci,cancer,2
+XE2rk,"Carcinoma of lip, oral cavity and pharynx",cci,cancer,2
+X78ej,"Carcinoma of lip, oral cavity and pharynx",cci,cancer,2
+X78VT,Mesothelioma of pericardium,cci,cancer,2
+B25..,"[X]Malignant neoplasm/overlap lesion/heart,mediastinm",cci,cancer,2
+Xa0To,Malignant reticuloendotheliosis,cci,cancer,2
+X78ha,Kaposi's sarcoma of skin,cci,cancer,2
+X78ag,Malignant neoplasm of optic nerve,cci,cancer,2
+Byu25,"Malignant neoplasm of mediastinum, part unspecified",cci,cancer,2
+Xa0TX,Follicular non-Hodgkin's large cell lymphoma,cci,cancer,2
+XaC1Q,"Malignant neoplasm, overlapping lesion of brain",cci,cancer,2
+XE2vS,Malignant neoplasm of brain,cci,cancer,2
+XM1Ps,Malignant neoplasm of brain,cci,cancer,2
+X77ou,Mesothelioma,cci,cancer,2
+XE1vO,Malignant neoplasm of lip,cci,cancer,2
+XE1wn,Malignant neoplasm of lip,cci,cancer,2
+XE1vr,Heilmeyer - Schoner disease,cci,cancer,2
+X78ap,Malignant neoplasm of acoustic nerve,cci,cancer,2
+XaC2J,"Malignant neoplasm of lip, unspecified",cci,cancer,2
+XaBLv,Malignant neoplasm of epiglottis NOS,cci,cancer,2
+XaELJ,Seminoma of undescended testis,cci,cancer,2
+XaELM,Teratoma of undescended testis,cci,cancer,2
+B062.,Malignant neoplasm of faucial pillar,cci,cancer,2
+ByuA2,"Malignant neoplasm of meninges, unspecified",cci,cancer,2
+ByuDE,Unspecified B-cell non-Hodgkin's lymphoma,cci,cancer,2
+ByuDD,Oth and unspecif peripheral & cutaneous T-cell lymphomas,cci,cancer,2
+Xa0TD,Follicular non-Hodgkin's small cleaved cell lymphoma,cci,cancer,2
+Byu53,"Kaposi's sarcoma, unspecified",cci,cancer,2
+XaEGV,Malignant neoplasm of upper eyelid,cci,cancer,2
+XaJM3,Osteosarcoma,cci,cancer,2
+XE1vX,Anal carcinoma,cci,cancer,2
+X78gS,Anal carcinoma,cci,cancer,2
+XaD2P,Malignant neoplasm of pinna NEC,cci,cancer,2
+Xa9AA,Solitary myeloma,cci,cancer,2
+Byu5A,Malignant neoplasm overlapping lesion of skin,cci,cancer,2
+Xa0Ty,True histiocytic lymphoma,cci,cancer,2
+ByuDC,"Diffuse non-Hodgkin's lymphoma, unspecified",cci,cancer,2
+B0710,Malignant neoplasm of pharyngeal tonsil,cci,cancer,2
+B08..,Malignant neoplasm of laryngopharynx,cci,cancer,2
+XaBM5,"Right sided intracerebral haemorrhage, unspecified",cci,cerebrovascular disease,1
+Gyu6E,"Subarachnoid haemorrh from intracranial artery, unspecif",cci,cerebrovascular disease,1
+XE0VG,Stenosis of precerebral arteries,cci,cerebrovascular disease,1
+X00D4,Stenosis of precerebral arteries,cci,cerebrovascular disease,1
+X203V,Stenosis of precerebral arteries,cci,cerebrovascular disease,1
+Gyu6D,Sequelae/other  unspecified cerebrovascular diseases,cci,cerebrovascular disease,1
+Xa1uW,Subarachnoid haemorrhage,cci,cerebrovascular disease,1
+G6...,[X]Cerebrovascular diseases,cci,cerebrovascular disease,1
+XE0VF,CVA - cerebrovascular accid due to intracerebral haemorrhage,cci,cerebrovascular disease,1
+XaKK3,Subdural haemorrhage NOS,cci,cerebrovascular disease,1
+XE0VK,Transient cerebral ischaemia,cci,cerebrovascular disease,1
+Xa00T,Transient cerebral ischaemia,cci,cerebrovascular disease,1
+X00DW,Transient cerebral ischaemia,cci,cerebrovascular disease,1
+Xa01j,Subarachnoid haemorrhage from anterior communicating artery,cci,cerebrovascular disease,1
+Gyu60,Subarachnoid haemorrhage from anterior communicating artery,cci,cerebrovascular disease,1
+Xa01k,Subarachnoid haemorrhage from posterior communicating artery,cci,cerebrovascular disease,1
+Gyu60,Subarachnoid haemorrhage from posterior communicating artery,cci,cerebrovascular disease,1
+Gyu60,Subarachnoid haemorrhage from middle cerebral artery,cci,cerebrovascular disease,1
+Xa01h,Subarachnoid haemorrhage from middle cerebral artery,cci,cerebrovascular disease,1
+XaBM4,"Left sided intracerebral haemorrhage, unspecified",cci,cerebrovascular disease,1
+Gyu6F,"Intracerebral haemorrhage in hemisphere, unspecified",cci,cerebrovascular disease,1
+XA0BH,Traumatic subarachnoid haemorrhage,cci,cerebrovascular disease,1
+XE1m2,Subarachnoid haemorrhage following injury,cci,cerebrovascular disease,1
+XA0BH,Subarachnoid haemorrhage following injury,cci,cerebrovascular disease,1
+S628.,Subarachnoid haemorrhage following injury,cci,cerebrovascular disease,1
+Xa01l,Subarachnoid haemorrhage from basilar artery,cci,cerebrovascular disease,1
+XE1m3,Closed traumatic subarachnoid haemorrhage,cci,cerebrovascular disease,1
+XA0B9,Closed traumatic subarachnoid haemorrhage,cci,cerebrovascular disease,1
+XE2aB,CVA unspecified,cci,cerebrovascular disease,1
+X00D1,CVA unspecified,cci,cerebrovascular disease,1
+XaBE2,"Cerebral palsy, not congenital or infantile, acute",cci,cerebrovascular disease,1
+XaQbM,Pure sensory lacunar syndrome,cci,cerebrovascular disease,1
+X00DC,Pure sensory lacunar syndrome,cci,cerebrovascular disease,1
+XaQbK,Pure motor lacunar syndrome,cci,cerebrovascular disease,1
+X00DB,Pure motor lacunar syndrome,cci,cerebrovascular disease,1
+XE2te,H/O: CVA/stroke,cci,cerebrovascular disease,1
+XM1R2,H/O: CVA/stroke,cci,cerebrovascular disease,1
+XM1R3,H/O: CVA/stroke,cci,cerebrovascular disease,1
+XE0VI,Stroke due to cerebral arterial occlusion,cci,cerebrovascular disease,1
+X00D3,Stroke due to cerebral arterial occlusion,cci,cerebrovascular disease,1
+Xa0kZ,Stroke due to cerebral arterial occlusion,cci,cerebrovascular disease,1
+G640.,Stroke due to cerebral arterial occlusion,cci,cerebrovascular disease,1
+XaEKI,Flax-dressers' disease,cci,chronic pulmonary disease,1
+XE0YV,Severe asthma attack,cci,chronic pulmonary disease,1
+Xa9zf,Severe asthma attack,cci,chronic pulmonary disease,1
+Xafdj,Severe asthma attack,cci,chronic pulmonary disease,1
+XE0YW,Severe asthma attack,cci,chronic pulmonary disease,1
+XE0YQ,Pollen asthma,cci,chronic pulmonary disease,1
+X101x,Pollen asthma,cci,chronic pulmonary disease,1
+X101t,Pollen asthma,cci,chronic pulmonary disease,1
+X1020,Pollen asthma,cci,chronic pulmonary disease,1
+XE0YL,Chest infection - unspecified bronchitis,cci,chronic pulmonary disease,1
+X1006,Chest infection - unspecified bronchitis,cci,chronic pulmonary disease,1
+H3120,Chest infection - unspecified bronchitis,cci,chronic pulmonary disease,1
+H3...,Obstructive chronic bronchitis,cci,chronic pulmonary disease,1
+H312z,Obstructive chronic bronchitis,cci,chronic pulmonary disease,1
+XaINd,Asthma causes daytime symptoms most days,cci,chronic pulmonary disease,1
+XaINa,Asthma never causes daytime symptoms,cci,chronic pulmonary disease,1
+XE0YX,Exercise induced asthma,cci,chronic pulmonary disease,1
+X101z,Exercise induced asthma,cci,chronic pulmonary disease,1
+Xa0lZ,Exercise induced asthma,cci,chronic pulmonary disease,1
+XaDvL,Asthma - currently dormant,cci,chronic pulmonary disease,1
+XaINb,Asthma causes daytime symptoms 1 to 2 times per month,cci,chronic pulmonary disease,1
+XE2Nb,Asthma monitored,cci,chronic pulmonary disease,1
+XE0YO,Atrophic (senile) emphysema,cci,chronic pulmonary disease,1
+XaIQg,Atrophic (senile) emphysema,cci,chronic pulmonary disease,1
+H581.,Atrophic (senile) emphysema,cci,chronic pulmonary disease,1
+XaIoE,Asthma night-time symptoms,cci,chronic pulmonary disease,1
+XE0YP,Other emphysema NOS,cci,chronic pulmonary disease,1
+H32y2,Other emphysema NOS,cci,chronic pulmonary disease,1
+X1025,Occupational asthma,cci,chronic pulmonary disease,1
+XE0YS,Extrinsic asthma with asthma attack,cci,chronic pulmonary disease,1
+X101y,Extrinsic asthma with asthma attack,cci,chronic pulmonary disease,1
+XE0YT,Intrinsic asthma,cci,chronic pulmonary disease,1
+H331z,Intrinsic asthma,cci,chronic pulmonary disease,1
+X101u,Intrinsic asthma,cci,chronic pulmonary disease,1
+Ua1AX,Brittle asthma,cci,chronic pulmonary disease,1
+XaIuG,Asthma confirmed,cci,chronic pulmonary disease,1
+X101u,Late-onset asthma,cci,chronic pulmonary disease,1
+X101U,Pleural plaque disease due to asbestosis,cci,chronic pulmonary disease,1
+Xa1hD,Acute exacerbation of asthma,cci,chronic pulmonary disease,1
+Xa9zf,Acute exacerbation of asthma,cci,chronic pulmonary disease,1
+H310.,Chronic catarrhal bronchitis,cci,chronic pulmonary disease,1
+XE0YU,Intrinsic asthma with status asthmaticus,cci,chronic pulmonary disease,1
+X1022,Intrinsic asthma with status asthmaticus,cci,chronic pulmonary disease,1
+XE0YW,Asthma attack NOS,cci,chronic pulmonary disease,1
+XM0s2,Asthma attack NOS,cci,chronic pulmonary disease,1
+XaINZ,Asthma causes night symptoms 1 to 2 times per month,cci,chronic pulmonary disease,1
+XaIIZ,Asthma daytime symptoms,cci,chronic pulmonary disease,1
+XE0YR,Hay fever with asthma,cci,chronic pulmonary disease,1
+X1020,Hay fever with asthma,cci,chronic pulmonary disease,1
+XaINc,Asthma causes daytime symptoms 1 to 2 times per week,cci,chronic pulmonary disease,1
+XE0YM,Purulent chronic bronchitis,cci,chronic pulmonary disease,1
+XaIQg,Interstitial emphysema,cci,chronic pulmonary disease,1
+XaIQh,Interstitial emphysema,cci,chronic pulmonary disease,1
+XE1oC,Subcutaneous emphysema,cci,chronic pulmonary disease,1
+X101s,Subcutaneous emphysema,cci,chronic pulmonary disease,1
+XaIR3,Absent from work or school due to asthma,cci,chronic pulmonary disease,1
+XE0YM,Fetid chronic bronchitis,cci,chronic pulmonary disease,1
+XE0V9,Cardiac failure NOS,cci,congestive heart disease,1
+G58..,Cardiac failure NOS,cci,congestive heart disease,1
+XaIQN,Heart failure annual review,cci,congestive heart disease,1
+XE0Uz,Congestive cardiomyopathy,cci,congestive heart disease,1
+X201W,Congestive cardiomyopathy,cci,congestive heart disease,1
+XE0V8,Right heart failure,cci,congestive heart disease,1
+X202l,Right heart failure,cci,congestive heart disease,1
+XaBLt,Cardiac failure therapy,cci,congestive heart disease,1
+XaBwi,H/O: Heart failure in last year,cci,congestive heart disease,1
+XE1p9,Heart failure as a complication of care,cci,congestive heart disease,1
+X202k,Heart failure as a complication of care,cci,congestive heart disease,1
+XaLNA,Heart failure care plan discussed with patient,cci,congestive heart disease,1
+XE2QG,Left ventricular failure,cci,congestive heart disease,1
+X102Y,Left ventricular failure,cci,congestive heart disease,1
+X102X,Left ventricular failure,cci,congestive heart disease,1
+XM1Qn,Left ventricular failure,cci,congestive heart disease,1
+XaIpn,Heart failure confirmed,cci,congestive heart disease,1
+XaKNW,Admit heart failure emergency,cci,congestive heart disease,1
+XaKyY,[X]Lewy body dementia,cci,dementia,1
+X0030,"[X]Senile dementia,Alzheimer's type",cci,dementia,1
+Eu00.,"[X]Senile dementia,Alzheimer's type",cci,dementia,1
+XaIKC,"[X]Senile dementia,Alzheimer's type",cci,dementia,1
+XE1Xs,Multi infarct dementia,cci,dementia,1
+Xa0lH,Multi infarct dementia,cci,dementia,1
+XE1Z6,[X] Senile dementia NOS,cci,dementia,1
+E001.,[X] Senile dementia NOS,cci,dementia,1
+E00z.,[X] Senile dementia NOS,cci,dementia,1
+Xa1GB,[X] Senile dementia NOS,cci,dementia,1
+X00R2,[X] Senile dementia NOS,cci,dementia,1
+XE1Xr,[X] Senile dementia NOS,cci,dementia,1
+E002.,[X] Senile dementia NOS,cci,dementia,1
+Xa0lH,[X]Predominantly cortical dementia,cci,dementia,1
+X002x,"[X]Presenile dementia,Alzheimer's type",cci,dementia,1
+X003R,[X]Vascular dementia of acute onset,cci,dementia,1
+XE1Xs,[X]Arteriosclerotic dementia,cci,dementia,1
+XE1Xr,Senile/presenile dementia,cci,dementia,1
+X00R2,Senile/presenile dementia,cci,dementia,1
+X002w,Senile/presenile dementia,cci,dementia,1
+Xa3ez,Senile/presenile dementia,cci,dementia,1
+X003T,[X]Subcortical vascular dementia,cci,dementia,1
+X003V,[X]Mixed cortical and subcortical vascular dementia,cci,dementia,1
+XE1T3,Unstable diabetes,cci,diabetes,1
+XM1Xk,Unstable diabetes,cci,diabetes,1
+XM1Qx,Insulin dependent diabetes mellitus with gangrene,cci,diabetes,1
+XSETe,Lipoatrophic diabetes mellitus,cci,diabetes,1
+XaELQ,Non-insulin-dependent diabetes mellitus without complication,cci,diabetes,1
+XaFn8,Type 2 diabetes mellitus with arthropathy,cci,diabetes,1
+X40J5,NIDDM - Non-insulin dependent diabetes mellitus,cci,diabetes,1
+XaFn8,Type II diabetes mellitus with arthropathy,cci,diabetes,1
+C1010,Type I diabetes mellitus with ketoacidosis,cci,diabetes,1
+X40J6,Insulin treated Type 2 diabetes mellitus,cci,diabetes,1
+C10..,Type I diabetes mellitus maturity onset,cci,diabetes,1
+X40J6,Insulin treated Type II diabetes mellitus,cci,diabetes,1
+XaFn7,Type 2 diabetes mellitus with peripheral angiopathy,cci,diabetes,1
+Xa4g7,Unstable insulin dependent diabetes mellitus,cci,diabetes,1
+XM1Xk,Unstable insulin dependent diabetes mellitus,cci,diabetes,1
+XaELQ,Type 2 diabetes mellitus without complication,cci,diabetes,1
+X40J5,Type II diabetes mellitus,cci,diabetes,1
+XaIzQ,Type 2 diabetes mellitus with persistent proteinuria,cci,diabetes,1
+C1011,Type 2 diabetes mellitus with ketoacidosis,cci,diabetes,1
+Xa4g7,Unstable type 1 diabetes mellitus,cci,diabetes,1
+XM1Xk,Unstable type 1 diabetes mellitus,cci,diabetes,1
+X40JJ,Diabetes mellitus autosomal dominant type 2,cci,diabetes,1
+C1030,Type 1 diabetes mellitus with ketoacidotic coma,cci,diabetes,1
+XE10E,Insulin dependent diabetes mellitus,cci,diabetes,1
+X40J4,Insulin dependent diabetes mellitus,cci,diabetes,1
+C10..,Insulin dependent diabetes mellitus,cci,diabetes,1
+XE10I,Diabetes mellitus with gangrene,cci,diabetes,1
+XM1Qx,Diabetes mellitus with gangrene,cci,diabetes,1
+C1085,Type 1 diabetes mellitus with ulcer,cci,diabetes,1
+M27..,Type 1 diabetes mellitus with ulcer,cci,diabetes,1
+Xagk3,Type 1 diabetes mellitus with ulcer,cci,diabetes,1
+XaFmK,Type 1 diabetes mellitus with peripheral angiopathy,cci,diabetes,1
+C1073,Type 1 diabetes mellitus with peripheral angiopathy,cci,diabetes,1
+XaFWG,Type 1 diabetes mellitus with hypoglycaemic coma,cci,diabetes,1
+X40Jq,Type 1 diabetes mellitus with hypoglycaemic coma,cci,diabetes,1
+C1095,Type 2 diabetes mellitus with gangrene,cci,diabetes,1
+XaIrf,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,cci,diabetes,1
+M27..,Insulin dependent diabetes mellitus with ulcer,cci,diabetes,1
+Xagk3,Insulin dependent diabetes mellitus with ulcer,cci,diabetes,1
+XE1T3,Type 1 diabetes mellitus - poor control,cci,diabetes,1
+X40JB,Secondary pancreatic diabetes mellitus,cci,diabetes,1
+XaEgI,Diabetic on insulin and oral treatment,cci,diabetes,1
+Lyu29,"Pre-existing diabetes mellitus, insulin-dependent",cci,diabetes,1
+C1031,Type 2 diabetes mellitus with ketoacidotic coma,cci,diabetes,1
+C1086,Type 1 diabetes mellitus with gangrene,cci,diabetes,1
+XM1Qx,Type 1 diabetes mellitus with gangrene,cci,diabetes,1
+XaFWI,Type 2 diabetes mellitus with hypoglycaemic coma,cci,diabetes,1
+C1089,Type 1 diabetes mellitus maturity onset,cci,diabetes,1
+C10..,Type 1 diabetes mellitus maturity onset,cci,diabetes,1
+C10..,[X]Diabetes mellitus,cci,diabetes,1
+XaELP,Type 1 diabetes mellitus without complication,cci,diabetes,1
+C100.,Type 1 diabetes mellitus without complication,cci,diabetes,1
+XaFmK,Insulin dependent diab mell with peripheral angiopathy,cci,diabetes,1
+C1073,Insulin dependent diab mell with peripheral angiopathy,cci,diabetes,1
+C1097,Type 2 diabetes mellitus - poor control,cci,diabetes,1
+XE10F,Maturity onset diabetes,cci,diabetes,1
+X40J5,Maturity onset diabetes,cci,diabetes,1
+X40J4,Type 1 diabetes mellitus,cci,diabetes,1
+C10..,Type 1 diabetes mellitus,cci,diabetes,1
+Lyu29,"Pre-existing diabetes mellitus, unspecified",cci,diabetes,1
+XaJ5j,Patient on maximal tolerated therapy for diabetes,cci,diabetes,1
+X40J7,Malnutrition-related diabetes mellitus,cci,diabetes,1
+XaIzM,Type 1 diabetes mellitus with persistent proteinuria,cci,diabetes,1
+XaJUI,Diabetes mellitus induced by non-steroid drugs,cci,diabetes,1
+XaIzN,Type 1 diabetes mellitus with persistent microalbuminuria,cci,diabetes,1
+XaIzR,Type 2 diabetes mellitus with persistent microalbuminuria,cci,diabetes,1
+X40JA,Secondary diabetes mellitus,cci,diabetes,1
+XaJOg,O/E - right eye background diabetic retinopathy,cci,diabetes with complications,2
+XaEno,Type I diabetes mellitus with polyneuropathy,cci,diabetes with complications,2
+XE15k,Type I diabetes mellitus with polyneuropathy,cci,diabetes with complications,2
+N030.,Insulin dependent diabetes mellitus with arthropathy,cci,diabetes with complications,2
+XaFmL,Insulin dependent diabetes mellitus with arthropathy,cci,diabetes with complications,2
+XaF05,Non-insulin dependent diabetes mellitus with nephropathy,cci,diabetes with complications,2
+XaEnn,Insulin dependent diabetes mellitus with mononeuropathy,cci,diabetes with complications,2
+X00Al,Insulin dependent diabetes mellitus with mononeuropathy,cci,diabetes with complications,2
+XE10G,Insulin-dependent diabetes mellitus with renal complications,cci,diabetes with complications,2
+XaFn9,Non-insulin dependent d m with neuropathic arthropathy,cci,diabetes with complications,2
+XE10H,Insulin-dependent diabetes mellitus with neurological comps,cci,diabetes with complications,2
+C1091,Type 2 diabetes mellitus with ophthalmic complications,cci,diabetes with complications,2
+XaJOh,O/E - left eye background diabetic retinopathy,cci,diabetes with complications,2
+XaKyX,Type 2 diabetes mellitus with gastroparesis,cci,diabetes with complications,2
+XaFmA,Type 2 diabetes mellitus with diabetic cataract,cci,diabetes with complications,2
+F420.,Type 1 diabetes mellitus with retinopathy,cci,diabetes with complications,2
+XE10H,Diabetes mellitus with polyneuropathy,cci,diabetes with complications,2
+XaPmX,Diabetes mellitus with polyneuropathy,cci,diabetes with complications,2
+Xa0lK,Diabetes mellitus with polyneuropathy,cci,diabetes with complications,2
+X00Ag,Diabetes mellitus with polyneuropathy,cci,diabetes with complications,2
+XE15k,Diabetes mellitus with polyneuropathy,cci,diabetes with complications,2
+XaEnq,Non-insulin dependent diabetes mellitus with polyneuropathy,cci,diabetes with complications,2
+XaIP5,Non proliferative diabetic retinopathy,cci,diabetes with complications,2
+XaFmA,Type II diabetes mellitus with diabetic cataract,cci,diabetes with complications,2
+XaEnq,Type 2 diabetes mellitus with polyneuropathy,cci,diabetes with complications,2
+XaEnp,Type 2 diabetes mellitus with mononeuropathy,cci,diabetes with complications,2
+C1096,Type II diabetes mellitus with retinopathy,cci,diabetes with complications,2
+C1082,Type 1 diabetes mellitus with neurological complications,cci,diabetes with complications,2
+XE10H,Type 1 diabetes mellitus with neurological complications,cci,diabetes with complications,2
+XE15n,Myasthenic syndrome due to diabetic amyotrophy,cci,diabetes with complications,2
+XaPmX,Myasthenic syndrome due to diabetic amyotrophy,cci,diabetes with complications,2
+Xa0lK,Myasthenic syndrome due to diabetic amyotrophy,cci,diabetes with complications,2
+XaJOl,O/E - left eye proliferative diabetic retinopathy,cci,diabetes with complications,2
+X00dG,Diabetic maculopathy,cci,diabetes with complications,2
+XaF04,Insulin dependent diabetes mellitus with nephropathy,cci,diabetes with complications,2
+C104z,Insulin dependent diabetes mellitus with nephropathy,cci,diabetes with complications,2
+C105.,Insulin-dependent diabetes mellitus with ophthalmic comps,cci,diabetes with complications,2
+X00Al,Diabetic mononeuropathy,cci,diabetes with complications,2
+XE15k,Diabetic neuropathy,cci,diabetes with complications,2
+X00Ag,Diabetic neuropathy,cci,diabetes with complications,2
+XaF05,Type 2 diabetes mellitus with nephropathy,cci,diabetes with complications,2
+XaFm8,Type 1 diabetes mellitus with diabetic cataract,cci,diabetes with complications,2
+F4640,Type 1 diabetes mellitus with diabetic cataract,cci,diabetes with complications,2
+XaEnn,Type 1 diabetes mellitus with mononeuropathy,cci,diabetes with complications,2
+X00Al,Type 1 diabetes mellitus with mononeuropathy,cci,diabetes with complications,2
+XaIW8,High risk non proliferative diabetic retinopathy,cci,diabetes with complications,2
+XaEno,Type 1 diabetes mellitus with polyneuropathy,cci,diabetes with complications,2
+XE15k,Type 1 diabetes mellitus with polyneuropathy,cci,diabetes with complications,2
+XaIPk,O/E - diabetic maculopathy present both eyes,cci,diabetes with complications,2
+XaE5X,High risk proliferative diabetic retinopathy,cci,diabetes with complications,2
+XaJOj,O/E - left eye preproliferative diabetic retinopathy,cci,diabetes with complications,2
+C1080,Type 1 diabetes mellitus with renal complications,cci,diabetes with complications,2
+XE10G,Type 1 diabetes mellitus with renal complications,cci,diabetes with complications,2
+XaKDG,O/E - right eye stable treated prolif diabetic retinopathy,cci,diabetes with complications,2
+XaF04,Type 1 diabetes mellitus with nephropathy,cci,diabetes with complications,2
+C104z,Type 1 diabetes mellitus with nephropathy,cci,diabetes with complications,2
+XaFm8,Type I diabetes mellitus with diabetic cataract,cci,diabetes with complications,2
+F4640,Type I diabetes mellitus with diabetic cataract,cci,diabetes with complications,2
+XaEnp,Type II diabetes mellitus with mononeuropathy,cci,diabetes with complications,2
+XaKyW,Type 1 diabetes mellitus with gastroparesis,cci,diabetes with complications,2
+XE10G,Diabetic nephropathy,cci,diabetes with complications,2
+X30Kk,Diabetic nephropathy,cci,diabetes with complications,2
+XaJOi,O/E - right eye preproliferative diabetic retinopathy,cci,diabetes with complications,2
+N0301,Type 1 diabetes mellitus with neuropathic arthropathy,cci,diabetes with complications,2
+XaFmM,Type 1 diabetes mellitus with neuropathic arthropathy,cci,diabetes with complications,2
+XaFn9,Type 2 diabetes mellitus with neuropathic arthropathy,cci,diabetes with complications,2
+C1081,Type 1 diabetes mellitus with ophthalmic complications,cci,diabetes with complications,2
+C105.,Type 1 diabetes mellitus with ophthalmic complications,cci,diabetes with complications,2
+Xa0fs,Left hemiplegia,cci,hemiplegia,2
+Xa0fu,Left hemiplegia,cci,hemiplegia,2
+XE15U,Spastic hemiplegia,cci,hemiplegia,2
+XaB3o,Spastic hemiplegia,cci,hemiplegia,2
+Xa0fr,Right hemiplegia,cci,hemiplegia,2
+Xa0ft,Right hemiplegia,cci,hemiplegia,2
+XM1Px,Paraplegia - congenital,cci,hemiplegia,2
+X00Ep,Paraplegia - congenital,cci,hemiplegia,2
+XE15T,Hemiplegia,cci,hemiplegia,2
+X76n9,Hemiplegia,cci,hemiplegia,2
+XaC0y,Secondary malignant neoplasm of tongue,cci,metastatic tumour,6
+XaXQk,Secondary malignant neoplasm of large intestine and rectum,cci,metastatic tumour,6
+XaCJ1,Primary malignant neoplasm of unknown site,cci,metastatic tumour,6
+XE2vT,Secondary malignant neoplasm of other specified sites,cci,metastatic tumour,6
+X78l7,Secondary malignant neoplasm of other specified sites,cci,metastatic tumour,6
+XE2xB,Lymph node metastases,cci,metastatic tumour,6
+Xa980,Lymph node metastases,cci,metastatic tumour,6
+XE1vn,Carcinomatosis,cci,metastatic tumour,6
+XaBAn,Carcinomatosis,cci,metastatic tumour,6
+B577.,Secondary malignant neoplasm of liver,cci,metastatic tumour,6
+XE1vm,Secondary carcinoma of respiratory and/or digestive systems,cci,metastatic tumour,6
+X78kS,Secondary carcinoma of respiratory and/or digestive systems,cci,metastatic tumour,6
+Byu52,Kaposi's sarcoma of multiple organs,cci,metastatic tumour,6
+XaIJA,Pathological fracture due to metastatic bone disease,cci,metastatic tumour,6
+XM1Pr,Cerebral metastasis,cci,metastatic tumour,6
+X30AD,Malignant ascites,cci,metastatic tumour,6
+XM0pv,Secondary malignant neoplasm of unknown site,cci,metastatic tumour,6
+XE0b6,Multilobular portal cirrhosis,cci,mild liver disease,1
+J6155,Multilobular portal cirrhosis,cci,mild liver disease,1
+XE0bA,"Laennec's cirrhosis, non-alcoholic",cci,mild liver disease,1
+J6155,"Laennec's cirrhosis, non-alcoholic",cci,mild liver disease,1
+X307O,"Laennec's cirrhosis, non-alcoholic",cci,mild liver disease,1
+X307M,"Laennec's cirrhosis, non-alcoholic",cci,mild liver disease,1
+X307S,"Laennec's cirrhosis, non-alcoholic",cci,mild liver disease,1
+X307W,"Laennec's cirrhosis, non-alcoholic",cci,mild liver disease,1
+XaBE3,Chronic alcoholic hepatitis,cci,mild liver disease,1
+XE0b4,Alcoholic cirrhosis of liver,cci,mild liver disease,1
+X307N,Alcoholic cirrhosis of liver,cci,mild liver disease,1
+J615y,Alcoholic cirrhosis of liver,cci,mild liver disease,1
+XE0b5,Portal cirrhosis,cci,mild liver disease,1
+X307R,Portal cirrhosis,cci,mild liver disease,1
+XE2up,Xanthomatous portal cirrhosis,cci,mild liver disease,1
+C310.,Glycogenosis with hepatic cirrhosis,cci,mild liver disease,1
+XE0b7,Cardiac portal cirrhosis,cci,mild liver disease,1
+Xa9C7,Cardiac portal cirrhosis,cci,mild liver disease,1
+XaC1d,Oesophageal varices in alcoholic cirrhosis of the liver,cci,moderate liver disease,3
+XE0bC,Other sequelae of chronic liver disease,cci,moderate liver disease,3
+X3078,Other sequelae of chronic liver disease,cci,moderate liver disease,3
+X3077,Other sequelae of chronic liver disease,cci,moderate liver disease,3
+X3076,Other sequelae of chronic liver disease,cci,moderate liver disease,3
+XE0bB,Hepatic coma,cci,moderate liver disease,3
+X0058,Hepatic coma,cci,moderate liver disease,3
+XaE6u,Oesophageal varices NOS,cci,moderate liver disease,3
+XE0Vc,Oesophageal varices,cci,moderate liver disease,3
+X2063,Oesophageal varices,cci,moderate liver disease,3
+XaBM6,Oesophageal varices in cirrhosis of the liver,cci,moderate liver disease,3
+XE0Uh,Heart attack,cci,myocardial infarction,1
+X200E,Heart attack,cci,myocardial infarction,1
+X200e,Heart attack,cci,myocardial infarction,1
+X203v,Heart attack,cci,myocardial infarction,1
+X200a,Heart attack,cci,myocardial infarction,1
+XaBL1,H/O: Myocardial infarction in last year,cci,myocardial infarction,1
+XE2aA,Personal history of myocardial infarction,cci,myocardial infarction,1
+XaQk7,Personal history of myocardial infarction,cci,myocardial infarction,1
+XaIwM,Acute ST segment elevation myocardial infarction,cci,myocardial infarction,1
+XaIwY,Acute non-ST segment elevation myocardial infarction,cci,myocardial infarction,1
+XaAzi,Acute non-Q wave infarction,cci,myocardial infarction,1
+XaFBs,Endoscopic injection haemostasis of gastric ulcer,cci,peptic ulcer disease,1
+XE0aR,Peptic ulcer - (PU) site unspecified,cci,peptic ulcer disease,1
+XE0aP,Pyloric ulcer,cci,peptic ulcer disease,1
+Xa6ot,Pyloric ulcer,cci,peptic ulcer disease,1
+Xa84h,Pyloric ulcer,cci,peptic ulcer disease,1
+XE0aS,Stomal ulcer,cci,peptic ulcer disease,1
+Xa1qA,Stomal ulcer,cci,peptic ulcer disease,1
+Xa1qC,Stomal ulcer,cci,peptic ulcer disease,1
+Xa1qB,Stomal ulcer,cci,peptic ulcer disease,1
+X302b,Duodenal ulcer disease,cci,peptic ulcer disease,1
+XE0Cr,Suture of ulcer of stomach NEC,cci,peptic ulcer disease,1
+XM1I9,Suture of ulcer of stomach NEC,cci,peptic ulcer disease,1
+XE0aQ,Gastric ulcer NOS,cci,peptic ulcer disease,1
+X301M,Gastric ulcer NOS,cci,peptic ulcer disease,1
+XaELE,Gastric ulcer NOS,cci,peptic ulcer disease,1
+XE0Cf,Balfour excision of gastric ulcer,cci,peptic ulcer disease,1
+Xa3u7,Balfour excision of gastric ulcer,cci,peptic ulcer disease,1
+XaLWq,Anti-platelet induced gastric ulcer,cci,peptic ulcer disease,1
+X302G,Duodenal erosion,cci,peptic ulcer disease,1
+XE24Y,[V]Personal history of peptic ulcer,cci,peptic ulcer disease,1
+XE0qB,[V]Personal history of peptic ulcer,cci,peptic ulcer disease,1
+XM1RN,[V]Personal history of peptic ulcer,cci,peptic ulcer disease,1
+XaCLu,[V] Personal history of gastric ulcer,cci,peptic ulcer disease,1
+XaEef,Juxtarenal aortic aneurysm,cci,peripheral vascular disease,1
+XE0F2,Tube graft abdominal Aortic aneurysm (emergency),cci,peripheral vascular disease,1
+X015y,Tube graft abdominal Aortic aneurysm (emergency),cci,peripheral vascular disease,1
+XE0VP,Other peripheral vascular disease,cci,peripheral vascular disease,1
+X203Q,Other peripheral vascular disease,cci,peripheral vascular disease,1
+X203T,Other peripheral vascular disease,cci,peripheral vascular disease,1
+XaEed,Ruptured suprarenal aortic aneurysm,cci,peripheral vascular disease,1
+XE0Ez,Y graft abdominal Aortic aneurysm,cci,peripheral vascular disease,1
+XM1Ib,Y graft abdominal Aortic aneurysm,cci,peripheral vascular disease,1
+XE10I,Diabetes with gangrene,cci,peripheral vascular disease,1
+XM1Qx,Diabetes with gangrene,cci,peripheral vascular disease,1
+XaEeg,Inflammatory abdominal aortic aneurysm,cci,peripheral vascular disease,1
+XE0VR,Intermittent claudication,cci,peripheral vascular disease,1
+XM1Qu,Intermittent claudication,cci,peripheral vascular disease,1
+XE0Ey,Y graft of abdominal Aortic aneurysm (emergency),cci,peripheral vascular disease,1
+X015v,Y graft of abdominal Aortic aneurysm (emergency),cci,peripheral vascular disease,1
+XE0F3,Aortic aneurysm repair,cci,peripheral vascular disease,1
+X015i,Aortic aneurysm repair,cci,peripheral vascular disease,1
+XaBL7,H/O: Peripheral vascular disease procedure,cci,peripheral vascular disease,1
+XE0F4,Tube graft of Abdominal aortic aneurysm,cci,peripheral vascular disease,1
+X015x,Tube graft of Abdominal aortic aneurysm,cci,peripheral vascular disease,1
+X30Il,Impaired renal function,cci,renal disease,2
+XE0de,Nephritis unsp membranoprolif glomerulonephritis lesion,cci,renal disease,2
+X30I6,Nephritis unsp membranoprolif glomerulonephritis lesion,cci,renal disease,2
+X30I5,Nephritis unsp membranoprolif glomerulonephritis lesion,cci,renal disease,2
+X30I4,Nephritis unsp membranoprolif glomerulonephritis lesion,cci,renal disease,2
+X30IR,Nephritis unsp membranoprolif glomerulonephritis lesion,cci,renal disease,2
+X30I3,Nephritis unsp membranoprolif glomerulonephritis lesion,cci,renal disease,2
+XaLHH,Chronic kidney disease stage 2,cci,renal disease,2
+XE0db,Nephropathy - chronic,cci,renal disease,2
+K0A3.,Nephropathy - chronic,cci,renal disease,2
+X30Hg,Nephropathy - chronic,cci,renal disease,2
+XE0dh,Other impaired renal function disorder NOS,cci,renal disease,2
+X30Hf,Other impaired renal function disorder NOS,cci,renal disease,2
+K08y4,Other impaired renal function disorder NOS,cci,renal disease,2
+XE0dg,Renal failure unspecified,cci,renal disease,2
+K021.,Chron nephritic syndrom difuse membranous glomerulonephritis,cci,renal disease,2
+XE0dc,Nephritis and nephropathy unspecified,cci,renal disease,2
+X30Hg,Nephritis and nephropathy unspecified,cci,renal disease,2
+XE0df,Chronic renal failure,cci,renal disease,2
+X30J0,Chronic renal failure,cci,renal disease,2
+X30In,Chronic renal failure,cci,renal disease,2
+XaLHJ,Chronic kidney disease stage 4,cci,renal disease,2
+K020.,Chron neph syn difus mesangial prolifrtiv glomerulonephritis,cci,renal disease,2
+XaLHK,Chronic kidney disease stage 5,cci,renal disease,2
+X30Io,[X]Renal failure,cci,renal disease,2
+X30J0,End stage renal failure,cci,renal disease,2
+XaLHG,Chronic kidney disease stage 1,cci,renal disease,2
+XE2QM,Acute renal medullary necrosis,cci,renal disease,2
+XaLHI,Chronic kidney disease stage 3,cci,renal disease,2
+N0421,Caplan's syndrome,cci,rheumatological disease,1
+X103Y,Caplan's syndrome,cci,rheumatological disease,1
+X701k,Caplan's syndrome,cci,rheumatological disease,1
+Xa1jE,Progressive systemic sclerosis,cci,rheumatological disease,1
+XaQbV,Progressive systemic sclerosis,cci,rheumatological disease,1
+XE1DF,Systemic sclerosis,cci,rheumatological disease,1
+Xa0AR,Systemic sclerosis,cci,rheumatological disease,1
+Xa1jE,Systemic sclerosis,cci,rheumatological disease,1
+X704X,Systemic lupus erythematosus with organ or sys involv,cci,rheumatological disease,1
+XaBMO,Seropositive errosive rheumatoid arthritis,cci,rheumatological disease,1
+Nyu1G,"Seropositive rheumatoid arthritis, unspecified",cci,rheumatological disease,1
+X705l,Giant cell arteritis with polymyalgia rheumatica,cci,rheumatological disease,1
+XE1FJ,Polymyalgia rheumatica,cci,rheumatological disease,1
+XaC1J,Systemic lupus erythematosus with pericarditis,cci,rheumatological disease,1
+XE1DU,Rheumatoid arthritis and other inflammatory polyarthropathy,cci,rheumatological disease,1
+X702I,Rheumatoid arthritis and other inflammatory polyarthropathy,cci,rheumatological disease,1
+X701i,Seronegative rheumatoid arthritis,cci,rheumatological disease,1
+XE0da,Lupus nephritis,cci,rheumatological disease,1
+N000.,Disseminated lupus erythematosus,cci,rheumatological disease,1
+XE2Qb,Endemic polyarthritis,cci,rheumatological disease,1
+N0421,Rheumatoid lung,cci,rheumatological disease,1

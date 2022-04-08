@@ -1,0 +1,20 @@
+read_code,read_term,cat2,cat1
+22K..,BMI,NA,bmi
+22K3.,Body mass index low K/M2,<20,bmi
+22K2.,Body mass index high K/M2,25+,bmi
+XaCDR,Body mass index less than 20,<20,bmi
+22K5.,Body mass index 30+ - obesity,30+,bmi
+XaJqk,Body mass index 20-24 - normal,20-24,bmi
+Xa7wG,Observation of body mass index,NA,bmi
+22K1.,Body mass index normal K/M2,20-24,bmi
+22K4.,Body mass index index 25-29 - overweight,25-29,bmi
+XaJJH,Body mass index 40+ - severely obese,40+,bmi
+XabHx,Obese class I (body mass index 30.0 - 34.9),30-34,bmi
+XabHy,Obese class II (body mass index 35.0 - 39.9),35-39,bmi
+XabHz,Obese class III (body mass index equal to or greater than 40.0),40+,bmi
+22K6.,Body mass index less than 20,<20,bmi
+22K7.,Body mass index 40+ - severely obese,40+,bmi
+22K8.,Body mass index 20-24 - normal,20-24,bmi
+22KC.,Obese class I (body mass index 30.0 - 34.9),30-34,bmi
+22KD.,Obese class II (body mass index 35.0 - 39.9),35-39,bmi
+22KE.,Obese class III (body mass index equal to or greater than 40.0),40+,bmi

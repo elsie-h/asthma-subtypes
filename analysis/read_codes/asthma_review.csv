@@ -1,0 +1,25 @@
+read_code,read_term,QOF,cat1,cat2,score
+66YJ.,Asthma annual review,1,asthma_review,NA,NA
+66YK.,Asthma follow-up,1,asthma_review,NA,NA
+66YQ.,Asthma monitoring by nurse,1,asthma_review,NA,NA
+66YR.,Asthma monitoring by doctor,1,asthma_review,NA,NA
+8B3j.,Asthma medication review,1,asthma_review,NA,NA
+9OJA.,Asthma monitoring check done,1,asthma_review,NA,NA
+XaIeq,Asthma annual review,1,asthma_review,NA,NA
+XaIer,Asthma follow-up,1,asthma_review,NA,NA
+XaIfK,Asthma medication review,1,asthma_review,NA,NA
+XaIu5,Asthma monitoring by nurse,1,asthma_review,NA,NA
+XaIu6,Asthma monitoring by doctor,1,asthma_review,NA,NA
+XE2Nb,Asthma monitoring check done,1,asthma_review,NA,NA
+XM1Xb,Asthma monitoring,0,asthma_review,NA,NA
+9N1d.,Seen in asthma clinic,0,asthma_review,NA,NA
+XaX3n,Asthma review using Royal College of Physicians three questions,1,asthma_review,NA,NA
+66Yp.,Asthma review using Royal College of Physicians three questions,1,asthma_review,NA,NA
+9NI8.,Asthma outreach clinic,0,asthma_review,NA,NA
+XaBU2,Asthma monitoring call,0,asthma_review,NA,NA
+9OJ1.,Attends asthma monitoring,0,asthma_review,NA,NA
+XaL05,Asthma outreach clinic,0,asthma_review,NA,NA
+663..,Respiratory disease monitoring,0,asthma_review,NA,NA
+XE1Sw,Respiratory disease monitoring,0,asthma_review,NA,NA
+XM1Xg,Chronic respiratory disease monitoring,0,asthma_review,NA,NA
+9OJ1.,Attends asthma monitoring,0,asthma_review,NA,NA

@@ -1,0 +1,52 @@
+read_code,read_term,cat1,cat2
+173A.,Exercise induced asthma,asthma,NA
+H3120,Chronic asthmatic bronchitis,asthma,NA
+H33..,Asthma,asthma,NA
+H330.,Extrinsic (atopic) asthma,asthma,NA
+H3300,Extrinsic asthma without status asthmaticus,asthma,NA
+H3301,Extrinsic asthma with status asthmaticus,asthma,NA
+H330z,Extrinsic asthma NOS,asthma,NA
+H331.,Intrinsic asthma,asthma,NA
+H3310,Intrinsic asthma without status asthmaticus,asthma,NA
+H3311,Intrinsic asthma with status asthmaticus,asthma,NA
+H331z,Intrinsic asthma NOS,asthma,NA
+H332.,Mixed asthma,asthma,NA
+H334.,Brittle asthma,asthma,NA
+H335.,Chronic asthma with fixed airflow obstruction,asthma,NA
+H33z.,Asthma unspecified,asthma,NA
+H33z0,Status asthmaticus NOS,asthma,NA
+H33z1,Asthma attack,asthma,NA
+H33z2,Late-onset asthma,asthma,NA
+H33zz,Asthma NOS,asthma,NA
+H3B..,Asthma-chronic obstructive pulmonary disease overlap syndrome,asthma,NA
+Ua1AX,Brittle asthma,asthma,NA
+X101t,Childhood asthma,asthma,NA
+X101u,Late onset asthma,asthma,NA
+X101x,Allergic asthma,asthma,NA
+X101y,Extrinsic asthma with asthma attack,asthma,NA
+X101z,Allergic asthma NEC,asthma,NA
+X1020,Hay fever with asthma,asthma,NA
+X1021,Allergic non-atopic asthma,asthma,NA
+X1022,Intrinsic asthma with asthma attack,asthma,NA
+X1024,Aspirin-sensitive asthma with nasal polyps,asthma,NA
+X102D,Status asthmaticus,asthma,NA
+Xa0lZ,Asthmatic bronchitis,asthma,NA
+Xa9zf,Acute asthma,asthma,NA
+Xaa7B,Chronic asthma with fixed airflow obstruction,asthma,NA
+Xac33,Asthma-chronic obstructive pulmonary disease overlap syndrome,asthma,NA
+XaLPE,Nocturnal asthma,asthma,NA
+XE0YQ,Allergic atopic asthma,asthma,NA
+XE0YR,Extrinsic asthma without status asthmaticus,asthma,NA
+XE0YS,Extrinsic asthma with status asthmaticus,asthma,NA
+XE0YT,Non-allergic asthma,asthma,NA
+XE0YU,Intrinsic asthma with status asthmaticus,asthma,NA
+XE0YV,Status asthmaticus NOS,asthma,NA
+XE0YW,Asthma attack,asthma,NA
+XE0YX,Asthma NOS,asthma,NA
+XE0ZP,Extrinsic asthma - atopy (& pollen),asthma,NA
+XE0ZR,Asthma: [intrinsic] or [late onset],asthma,NA
+XE0ZT,Asthma: [NOS] or [attack],asthma,NA
+XM0s2,Asthma attack NOS,asthma,NA
+Xafdj,Acute severe exacerbation of asthma,asthma,NA
+Xafdy,Moderate acute exacerbation of asthma,asthma,NA
+Xafdz,Life threatening acute exacerbation of asthma,asthma,NA

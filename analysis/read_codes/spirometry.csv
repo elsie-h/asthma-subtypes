@@ -1,0 +1,97 @@
+read_code,read_term,cat1,cat2
+3386.,Lung vital capacity,spirometry,NA
+3388.,Lung total capacity,spirometry,NA
+3396.,Forced vital capacity - FVC,spirometry,FVC
+33960,FVC - forced vital capacity normal,spirometry,NA
+33961,FVC - forced vital capacity abnormal,spirometry,NA
+33962,Percentage of predicted forced vital capacity,spirometry,NA
+3397.,Forced expiratory volume - FEV,spirometry,NA
+33970,FEV normal,spirometry,NA
+33971,Forced expired volume in 1 second percentage change,spirometry,NA
+33972,FEV1 after change of bronchodilator,spirometry,NA
+3398.,FEV1/FVC ratio normal,spirometry,FEV1FVC normal
+3399.,FEV1/FVC ratio abnormal,spirometry,FEV1FVC abnormal
+339M.,FEV1/FVC ratio,spirometry,FEV1FVC ratio or percent
+339O.,Forced expired volume in 1 second,spirometry,FEV1
+339O0,Forced expired volume in 1 second reversibility,spirometry,NA
+339O1,Forced expired volume in one second/vital capacity ratio,spirometry,NA
+339R.,FEV1/FVC percent,spirometry,FEV1FVC ratio or percent
+339S.,Percent predicted FEV1,spirometry,ppFEV1
+339S0,Percentage predicted FEV1 after bronchodilation,spirometry,NA
+339T.,FEV1/FVC > 70% of predicted,spirometry,FEV1FVC > 70%
+339U.,FEV1/FVC < 70% of predicted,spirometry,FEV1FVC < 70%
+339a.,FEV1 before bronchodilation,spirometry,FEV1
+339b.,FEV1 after bronchodilation,spirometry,NA
+339e.,FEV1 pre steroids,spirometry,FEV1
+339f.,FEV1 post steroids,spirometry,NA
+339h1,Percentage of predicted FVC after bronchodilation,spirometry,NA
+339j.,FEV1/FVC ratio pre steroids,spirometry,FEV1FVC ratio or percent
+339k.,FEV1/FVC ratio post steroids,spirometry,NA
+339l.,FEV1/FVC ratio before bronchodilator,spirometry,FEV1FVC ratio or percent
+339m.,FEV1/FVC ratio after bronchodilator,spirometry,NA
+339q.,Forced expiratory flow rate between 25+75% of vital capacity,spirometry,NA
+339r.,FEV1/VC percent,spirometry,NA
+339t.,Percentage of predicted vital capacity,spirometry,NA
+33G..,Spirometry reversibility,spirometry,NA
+33G0.,Spirometry reversibility negative,spirometry,NA
+5882.,Spirometry,spirometry,NA
+745C1,Spirometry,spirometry,NA
+R1422,[D]Vital capacity reduced,spirometry,NA
+X77Qu,Forced expired volume in 1 second,spirometry,FEV1
+X77Qv,Forced expired volume in 0.75 seconds,spirometry,NA
+X77Qy,Inspiratory vital capacity,spirometry,NA
+X77Qz,Expiratory vital capacity,spirometry,NA
+X77R4,Expiratory reserve volume,spirometry,NA
+X77RA,Functional residual capacity,spirometry,NA
+X77RO,Forced expiratory flow rate between 25+75% of vital capacity,spirometry,NA
+X77RZ,Forced expired volume in one second/vital capacity ratio,spirometry,NA
+X77Ra,Forced expired volume in one sec/forced vital capacity ratio,spirometry,FEV1FVC ratio or percent
+X77Rb,Empey index,spirometry,NA
+X77d7,Vital capacity test,spirometry,NA
+X7A0Z,Open spirometry,spirometry,NA
+XE1P0,Vital capacity,spirometry,NA
+XE1P1,Residual respiratory volume,spirometry,NA
+XM1Bs,Vital capacity reduced,spirometry,NA
+XaEFy,FEV1/FVC percent,spirometry,FEV1FVC ratio or percent
+XaEFz,Percent predicted FEV1,spirometry,ppFEV1
+XaF6d,FEV1/FVC < 70% of predicted,spirometry,FEV1FVC < 70%
+XaF6e,FEV1/FVC > 70% of predicted,spirometry,FEV1FVC > 70%
+XaFrV,Spirometry reversibility,spirometry,NA
+XaFrW,Spirometry reversibility negative,spirometry,NA
+XaIxQ,FEV1 before bronchodilation,spirometry,FEV1
+XaIxR,FEV1 after bronchodilation,spirometry,NA
+XaIxU,FEV1 pre steroids,spirometry,FEV1
+XaIxV,FEV1 post steroids,spirometry,NA
+XaJ3K,FVC after bronchodilation,spirometry,NA
+XaJ9B,FEV1/FVC ratio pre steroids,spirometry,FEV1FVC ratio or percent
+XaJ9C,FEV1/FVC ratio post steroids,spirometry,NA
+XaJ9D,FEV1/FVC ratio before bronchodilator,spirometry,FEV1FVC ratio or percent
+XaJ9E,FEV1/FVC ratio after bronchodilator,spirometry,NA
+XaLJO,Residual volume/total lung capacity,spirometry,NA
+XaMeu,Forced expiratory vol in one second/vital capacity percent,spirometry,NA
+XaPpI,Forced vital capacity before bronchodilation,spirometry,FVC
+XaQmR,Forced expired volume in 1 second percentage change,spirometry,NA
+XaQmS,Forced expired volume in 1 second reversibility,spirometry,NA
+XaQmT,Percentage of predicted forced vital capacity,spirometry,NA
+XaQmU,Percentage of predicted vital capacity,spirometry,NA
+XaVx3,Percentage predicted FEV1 after bronchodilation,spirometry,NA
+XaYmL,Vital capacity after bronchodilation,spirometry,NA
+XaYpC,Percentage of predicted vital capacity after bronchodilation,spirometry,NA
+XaZyl,FEV1/VC ratio after bronchodilator,spirometry,NA
+XaZyt,FVC (forced vital capacity) after change of bronchodilator,spirometry,NA
+XaZyu,FVC post bronchodilator percentage change,spirometry,NA
+XaZz1,FEV1 after change of bronchodilator,spirometry,NA
+Xaafd,Forced expiratory vol 1 sec/forced expirator vol 6 sec ratio,spirometry,NA
+XaahD,Borderline respiratory obstruction on spirometry,spirometry,NA
+Xab2f,Percentage of predicted FVC after bronchodilation,spirometry,NA
+68M..,Spirometry screening,spirometry,NA
+XaCJK,Expected FEV1,spirometry,predicted FEV1
+339i.,FVC/Expected FVC percent,spirometry,NA
+339P.,Expected FEV1,spirometry,predicted FEV1
+XaCJL,Expected FVC,spirometry,predicted FVC
+339Q.,Expected FVC,spirometry,predicted FVC
+XaJ5w,FVC/Expected FVC percent,spirometry,NA
+33963,FVC after change of bronchodilator,spirometry,NA
+339h.,FVC after bronchodilation,spirometry,NA
+339h0,FVC post bronchodi percnt chng,spirometry,NA
+339s.,FVC before bronchodilation,spirometry,FVC

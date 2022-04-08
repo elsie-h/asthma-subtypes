@@ -1,0 +1,90 @@
+read_code,QOF,read_term,cat2,score
+137..,Yes,Tobacco consumption,current smoker,2
+1371.,Yes,Never smoked tobacco,non-smoker,1
+1372.,Yes,Trivial smoker - < 1 cig/day,current smoker,2
+1373.,Yes,Light smoker - 1-9 cigs/day,current smoker,2
+1374.,Yes,Moderate smoker - 10-19 cigs/d,current smoker,2
+1375.,Yes,Heavy smoker - 20-39 cigs/day,current smoker,2
+1376.,Yes,Very heavy smoker - 40+cigs/d,current smoker,2
+1377.,Yes,Ex-trivial smoker (<1/day),ex-smoker,3
+1378.,Yes,Ex-light smoker (1-9/day),ex-smoker,3
+1379.,Yes,Ex-moderate smoker (10-19/day),ex-smoker,3
+137a.,Yes,Pipe tobacco consumption,current smoker,2
+137A.,Yes,Ex-heavy smoker (20-39/day),ex-smoker,3
+137b.,Yes,Ready to stop smoking,current smoker,2
+137B.,Yes,Ex-very heavy smoker (40+/day),ex-smoker,3
+137c.,Yes,Thinking about stopping smoking,current smoker,2
+137C.,Yes,Keeps trying to stop smoking,current smoker,2
+137d.,Yes,Not interested in stopping smoking,current smoker,2
+137D.,Yes,Admitted tobacco cons untrue ?,current smoker,2
+137e.,Yes,Smoking restarted,current smoker,2
+137f.,Yes,Reason for restarting smoking,current smoker,2
+137F.,Yes,Ex-smoker - amount unknown,ex-smoker,3
+137G.,Yes,Trying to give up smoking,current smoker,2
+137h.,Yes,Minutes from waking to first tobacco consumption,current smoker,2
+137H.,Yes,Pipe smoker,current smoker,2
+137j.,Yes,Ex-cigarette smoker,ex-smoker,3
+137J.,Yes,Cigar smoker,current smoker,2
+137K.,Yes,Stopped smoking,ex-smoker,3
+137l.,Yes,Ex roll-up cigarette smoker,ex-smoker,3
+137m.,Yes,Failed attempt to stop smoking,current smoker,2
+137M.,Yes,Rolls own cigarettes,current smoker,2
+137N.,Yes,Ex pipe smoker,ex-smoker,3
+137o.,Yes,Waterpipe tobacco consumption,current smoker,2
+137O.,Yes,Ex cigar smoker,ex-smoker,3
+137P.,Yes,Cigarette smoker,current smoker,2
+137Q.,Yes,Smoking started,current smoker,2
+137R.,Yes,Current smoker,current smoker,2
+137S.,Yes,Ex smoker,ex-smoker,3
+137T.,Yes,Date ceased smoking,ex-smoker,3
+137V.,Yes,Smoking reduced,current smoker,2
+137X.,Yes,Cigarette consumption,current smoker,2
+137Y.,Yes,Cigar consumption,current smoker,2
+137Z.,Yes,Tobacco consumption NOS,current smoker,2
+Ub0p1,Yes,Time since stopped smoking,ex-smoker,3
+Ub1na,Yes,Ex-smoker,ex-smoker,3
+Ub1tI,Yes,Cigarette consumption,current smoker,2
+Ub1tJ,Yes,Cigar consumption,current smoker,2
+Ub1tK,Yes,Pipe tobacco consumption,current smoker,2
+Ub1tR,Yes,Occasional cigarette smoker,current smoker,2
+Ub1tS,Yes,Light cigarette smoker,current smoker,2
+Ub1tT,Yes,Moderate cigarette smoker,current smoker,2
+Ub1tU,Yes,Heavy cigarette smoker,current smoker,2
+Ub1tV,Yes,Very heavy cigarette smoker,current smoker,2
+Ub1tW,Yes,Chain smoker,current smoker,2
+Xa1bv,Yes,Ex-cigarette smoker,ex-smoker,3
+XaBSp,Yes,Smoking restarted,current smoker,2
+XaIIu,Yes,Smoking reduced,current smoker,2
+XaIkW,Yes,Thinking about stopping smoking,current smoker,2
+XaIkX,Yes,Ready to stop smoking,current smoker,2
+XaIkY,Yes,Not interested in stopping smoking,current smoker,2
+XaItg,Yes,Reason for restarting smoking,current smoker,2
+XaJX2,Yes,Minutes from waking to first tobacco consumption,current smoker,2
+XaLQh,Yes,Wants to stop smoking,current smoker,2
+XaQ8V,Yes,Ex roll-up cigarette smoker,ex-smoker,3
+XaWNE,Yes,Failed attempt to stop smoking,current smoker,2
+XaZIE,Yes,Waterpipe tobacco consumption,current smoker,2
+XE0og,Yes,Tobacco smoking consumption,current smoker,2
+XE0oh,Yes,Never smoked tobacco,non-smoker,1
+XE0oi,Yes,Trivial cigarette smoker (less than one cigarette/day),current smoker,2
+XE0oj,Yes,Ex-trivial cigarette smoker (<1/day),ex-smoker,3
+XE0ok,Yes,Ex-light cigarette smoker (1-9/day),ex-smoker,3
+XE0ol,Yes,Ex-moderate cigarette smoker (10-19/day),ex-smoker,3
+XE0om,Yes,Ex-heavy cigarette smoker (20-39/day),ex-smoker,3
+XE0on,Yes,Ex-very heavy cigarette smoker (40+/day),ex-smoker,3
+XE0op,Yes,Ex-cigarette smoker amount unknown,ex-smoker,3
+XE0oq,Yes,Cigarette smoker,current smoker,2
+XE0or,Yes,Smoking started,current smoker,2
+XagO3,Yes,Occasional tobacco smoker,current smoker,2
+137K0,No,Recently stopped smoking,ex-smoker,3
+XaQzw,No,Recently stopped smoking,ex-smoker,3
+137U.,No,Not a passive smoker,non-smoker,1
+XaFvq,No,Not a passive smoker,non-smoker,1
+137L.,No,Current non-smoker,non-smoker,1
+137W.,No,Chews tobacco,current smoker,2
+137g.,No,Cigarette pack-years,current smoker,2
+Ub0oq,No,Non-smoker,non-smoker,1
+Ub0pT,No,Chews tobacco,current smoker,2
+XaIuQ,No,Cigarette pack-years,current smoker,2
+8IAj.,No,Smoking cessation advice declined,current smoker,2
+XaRFh,NA,Smoking cessation advice declined,current smoker,2

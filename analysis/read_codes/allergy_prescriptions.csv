@@ -1,0 +1,1146 @@
+read_code,read_term,cat2,cat1
+c8...,antihistamines,oral antihistamines,allergy prescriptions
+c81..,astemizole,oral antihistamines,allergy prescriptions
+c811.,hismanal 10mg tablets,oral antihistamines,allergy prescriptions
+c812.,hismanal 5mg/5ml suspension,oral antihistamines,allergy prescriptions
+c813.,astemizole 10mg tablets,oral antihistamines,allergy prescriptions
+c814.,astemizole 5mg/5ml suspension,oral antihistamines,allergy prescriptions
+c82..,azatadine maleate,oral antihistamines,allergy prescriptions
+c821.,optimine 1mg tablets,oral antihistamines,allergy prescriptions
+c822.,optimine 500micrograms/5ml syrup,oral antihistamines,allergy prescriptions
+c82y.,azatadine maleate 1mg tablets,oral antihistamines,allergy prescriptions
+c82z.,azatadine maleate 500micrograms/5ml syrup,oral antihistamines,allergy prescriptions
+c83..,brompheniramine maleate,oral antihistamines,allergy prescriptions
+c831.,dimotane 4mg tablets,oral antihistamines,allergy prescriptions
+c832.,dimotane 2mg/5ml elixir,oral antihistamines,allergy prescriptions
+c833.,dimotane la 12mg m/r tablets,oral antihistamines,allergy prescriptions
+c834.,dimotane plus-la tablets x14,oral antihistamines,allergy prescriptions
+c835.,dimotane plus-la tablets x56,oral antihistamines,allergy prescriptions
+c83x.,brompheniramine 4mg tablets,oral antihistamines,allergy prescriptions
+c83y.,brompheniramine 2mg/5ml elixir,oral antihistamines,allergy prescriptions
+c83z.,brompheniramine maleate 12mg m/r tablets,oral antihistamines,allergy prescriptions
+c84..,chlorphenamine maleate,oral antihistamines,allergy prescriptions
+c841.,chlorphenamine maleate 4mg tablets,oral antihistamines,allergy prescriptions
+c842.,alunex 4mg tablets,oral antihistamines,allergy prescriptions
+c843.,piriton 4mg tablets,oral antihistamines,allergy prescriptions
+c844.,piriton 12mg m/r tablets,oral antihistamines,allergy prescriptions
+c845.,piriton 2mg/5ml syrup,oral antihistamines,allergy prescriptions
+c846.,piriton 10mg/1ml injection,oral antihistamines,allergy prescriptions
+c847.,pollenase antihistamine 4mg tablets,oral antihistamines,allergy prescriptions
+c848.,rhino-syrup allergy 2mg/5ml sugar free syrup,oral antihistamines,allergy prescriptions
+c849.,pollenase allergy syrup 2mg/5ml sugar free syrup,oral antihistamines,allergy prescriptions
+c84A.,allerief 2mg/5ml sugar free oral solution,oral antihistamines,allergy prescriptions
+c84B.,vantage antihistamine 4mg tablets,oral antihistamines,allergy prescriptions
+c84C.,hayleve 4mg tablets,oral antihistamines,allergy prescriptions
+c84D.,allergy relief antihistamine 4mg tablets,oral antihistamines,allergy prescriptions
+c84E.,allercalm 4mg tablets,oral antihistamines,allergy prescriptions
+c84v.,chlorphenamine maleate 2mg/5ml sugar free oral solution,oral antihistamines,allergy prescriptions
+c84w.,chlorphenamine maleate 2mg/5ml sugar free syrup,oral antihistamines,allergy prescriptions
+c84x.,chlorpheniramine maleate 12mg m/r tablets,oral antihistamines,allergy prescriptions
+c84y.,chlorphenamine maleate 2mg/5ml syrup,oral antihistamines,allergy prescriptions
+c84z.,chlorphenamine maleate 10mg/1ml injection,oral antihistamines,allergy prescriptions
+c85..,clemastine,oral antihistamines,allergy prescriptions
+c851.,tavegil 1mg tablets,oral antihistamines,allergy prescriptions
+c852.,tavegil 500micrograms/5ml elixir,oral antihistamines,allergy prescriptions
+c853.,aller-eze tablets,oral antihistamines,allergy prescriptions
+c854.,clemastine+phenylpropanolamine 0.5mg/25mg tablets,oral antihistamines,allergy prescriptions
+c855.,aller-eze plus tablets,oral antihistamines,allergy prescriptions
+c85y.,clemastine 1mg tablets,oral antihistamines,allergy prescriptions
+c85z.,clemastine 500micrograms/5ml elixir,oral antihistamines,allergy prescriptions
+c86..,cyproheptadine hydrochloride,oral antihistamines,allergy prescriptions
+c861.,periactin 4mg tablets,oral antihistamines,allergy prescriptions
+c862.,periactin 2mg/5ml syrup,oral antihistamines,allergy prescriptions
+c86y.,cyproheptadine hcl 4mg tablets,oral antihistamines,allergy prescriptions
+c86z.,cyproheptadine hcl 2mg/5ml syrup,oral antihistamines,allergy prescriptions
+c87..,dimethindene maleate,oral antihistamines,allergy prescriptions
+c871.,fenostil retard 2.5mg m/r tablets,oral antihistamines,allergy prescriptions
+c87z.,dimethindene mal 2.5mg m/r tablets,oral antihistamines,allergy prescriptions
+c88..,diphenhydramine hydrochloride [antihistamine],oral antihistamines,allergy prescriptions
+c881.,benadryl 25mg capsules,oral antihistamines,allergy prescriptions
+c882.,nytol 25mg tablets,oral antihistamines,allergy prescriptions
+c883.,diphenhydramine hcl 25mg tablets,oral antihistamines,allergy prescriptions
+c884.,diphenhydramine hydrochloride 10mg/5ml syrup,oral antihistamines,allergy prescriptions
+c885.,medinex 10mg/5ml syrup,oral antihistamines,allergy prescriptions
+c886.,nytol one-a-night 50mg tablets,oral antihistamines,allergy prescriptions
+c887.,diphenhydramine hydrochloride 50mg tablets,oral antihistamines,allergy prescriptions
+c888.,nightcalm 25mg tablets,oral antihistamines,allergy prescriptions
+c889.,paxidorm 25mg tablets,oral antihistamines,allergy prescriptions
+c88A.,sleepia 50mg capsules,oral antihistamines,allergy prescriptions
+c88B.,dreemon 25mg tablets,oral antihistamines,allergy prescriptions
+c88C.,dreemon 10mg/5ml syrup,oral antihistamines,allergy prescriptions
+c88D.,histergan 10mg/5ml syrup,oral antihistamines,allergy prescriptions
+c88E.,histergan 25mg tablets,oral antihistamines,allergy prescriptions
+c88F.,mandalyn paediatric 6.25mg/5ml syrup,oral antihistamines,allergy prescriptions
+c88G.,vantage pharmacy sleep aid 50mg tablets,oral antihistamines,allergy prescriptions
+c88H.,care night time sleep aid 25mg tablets,oral antihistamines,allergy prescriptions
+c88I.,galpharm one a night nightcalm 50mg tablets,oral antihistamines,allergy prescriptions
+c88x.,diphenhydramine hydrochloride 6.25mg/5ml syrup,oral antihistamines,allergy prescriptions
+c88y.,diphenhydramine hydrochloride 50mg capsules,oral antihistamines,allergy prescriptions
+c88z.,diphenhydramine hydrochloride 25mg capsules,oral antihistamines,allergy prescriptions
+c89..,diphenylpyraline hydrochloride,oral antihistamines,allergy prescriptions
+c891.,histryl spansule 5mg m/r capsules,oral antihistamines,allergy prescriptions
+c892.,histryl paediatric spansule 2.5mg m/r capsules,oral antihistamines,allergy prescriptions
+c893.,lergoban 5mg m/r tablets,oral antihistamines,allergy prescriptions
+c89x.,diphenylpyraline 5mg m/r capsules,oral antihistamines,allergy prescriptions
+c89y.,diphenylpyraline 2.5mg m/r capsules,oral antihistamines,allergy prescriptions
+c89z.,diphenylpyraline 5mg m/r tablets,oral antihistamines,allergy prescriptions
+c8a..,hydroxyzine hydrochloride [antihistamine],oral antihistamines,allergy prescriptions
+c8b..,ketotifen [antihistamine],oral antihistamines,allergy prescriptions
+c8c..,mebhydrolin,oral antihistamines,allergy prescriptions
+c8c1.,fabahistin 50mg tablets,oral antihistamines,allergy prescriptions
+c8c2.,fabahistin 50mg/5ml mixture,oral antihistamines,allergy prescriptions
+c8cy.,mebhydrolin 50mg tablets,oral antihistamines,allergy prescriptions
+c8cz.,mebhydrolin 50mg/5ml mixture,oral antihistamines,allergy prescriptions
+c8d..,mepyramine maleate [antihistamine],oral antihistamines,allergy prescriptions
+c8d1.,anthisan 50mg tablets,oral antihistamines,allergy prescriptions
+c8dz.,mepyramine maleate 50mg tablets,oral antihistamines,allergy prescriptions
+c8e..,mequitazine,oral antihistamines,allergy prescriptions
+c8e1.,primalan 5mg tablets,oral antihistamines,allergy prescriptions
+c8ez.,mequitazine 5mg tablets,oral antihistamines,allergy prescriptions
+c8f..,oxatomide,oral antihistamines,allergy prescriptions
+c8f1.,tinset 30mg tablets,oral antihistamines,allergy prescriptions
+c8fz.,oxatomide 30mg tablets,oral antihistamines,allergy prescriptions
+c8g..,phenindamine tartrate,oral antihistamines,allergy prescriptions
+c8g1.,thephorin 25mg tablets,oral antihistamines,allergy prescriptions
+c8gz.,phenindamine tartrate 25mg tablets,oral antihistamines,allergy prescriptions
+c8h..,pheniramine maleate,oral antihistamines,allergy prescriptions
+c8h1.,daneral sa 75mg m/r tablets,oral antihistamines,allergy prescriptions
+c8hz.,pheniramine 75mg m/r tablets,oral antihistamines,allergy prescriptions
+c8i..,promethazine hydrochloride [antihistamine],oral antihistamines,allergy prescriptions
+c8i1.,phenergan 10mg tablets,oral antihistamines,allergy prescriptions
+c8i2.,phenergan 25mg tablets,oral antihistamines,allergy prescriptions
+c8i3.,phenergan 5mg/5ml elixir,oral antihistamines,allergy prescriptions
+c8i4.,phenergan 25mg/1ml injection,oral antihistamines,allergy prescriptions
+c8i5.,phenergan 50mg/2ml injection,oral antihistamines,allergy prescriptions
+c8i6.,phenergan nightime 25mg tablets,oral antihistamines,allergy prescriptions
+c8i8.,ziz forte 25mg tablets,oral antihistamines,allergy prescriptions
+c8i9.,sominex 20mg tablets,oral antihistamines,allergy prescriptions
+c8iu.,promethazine 20mg tablets,oral antihistamines,allergy prescriptions
+c8iv.,promethazine 10mg tablets,oral antihistamines,allergy prescriptions
+c8iw.,promethazine 25mg tablets,oral antihistamines,allergy prescriptions
+c8ix.,promethazine 5mg/5ml elixir,oral antihistamines,allergy prescriptions
+c8iy.,promethazine 25mg/1ml injection,oral antihistamines,allergy prescriptions
+c8iz.,promethazine 50mg/2ml injection,oral antihistamines,allergy prescriptions
+c8j..,terfenadine,oral antihistamines,allergy prescriptions
+c8j1.,triludan 60mg tablets,oral antihistamines,allergy prescriptions
+c8j2.,triludan 30mg/5ml suspension,oral antihistamines,allergy prescriptions
+c8j3.,triludan forte 120mg tablets,oral antihistamines,allergy prescriptions
+c8j4.,triludan 30mg/5ml sugar free suspension,oral antihistamines,allergy prescriptions
+c8j5.,terfenadine 120mg tablets,oral antihistamines,allergy prescriptions
+c8j6.,histafen 60mg tablets,oral antihistamines,allergy prescriptions
+c8j7.,terfinax 60mg tablets,oral antihistamines,allergy prescriptions
+c8j8.,antihistamine forte 120mg tablets,oral antihistamines,allergy prescriptions
+c8j9.,histafen 120mg tablets,oral antihistamines,allergy prescriptions
+c8jA.,terfenadine 30mg tablets,oral antihistamines,allergy prescriptions
+c8jB.,terfenor 30mg tablets,oral antihistamines,allergy prescriptions
+c8jC.,terfenor forte 120mg tablets,oral antihistamines,allergy prescriptions
+c8jD.,antihistamine 60mg tablets,oral antihistamines,allergy prescriptions
+c8jE.,terfinax 120mg tablets,oral antihistamines,allergy prescriptions
+c8jF.,aller-eze clear tablets,oral antihistamines,allergy prescriptions
+c8jy.,terfenadine 60mg tablets,oral antihistamines,allergy prescriptions
+c8jz.,terfenadine 30mg/5ml sugar free suspension,oral antihistamines,allergy prescriptions
+c8k..,alimemazine tartrate [antihistamine],oral antihistamines,allergy prescriptions
+c8k1.,vallergan 10mg tablets,oral antihistamines,allergy prescriptions
+c8k2.,vallergan 7.5mg/5ml syrup,oral antihistamines,allergy prescriptions
+c8k3.,vallergan forte 30mg/5ml syrp,oral antihistamines,allergy prescriptions
+c8k4.,vallergan 10mg tablets 28cp,oral antihistamines,allergy prescriptions
+c8kx.,alimemazine 10mg tablets,oral antihistamines,allergy prescriptions
+c8ky.,alimemazine 7.5mg/5ml syrup,oral antihistamines,allergy prescriptions
+c8kz.,alimemazine 30mg/5ml syrup,oral antihistamines,allergy prescriptions
+c8l..,triprolidine hydrochloride,oral antihistamines,allergy prescriptions
+c8l1.,actidil 2.5mg tablets,oral antihistamines,allergy prescriptions
+c8l2.,actidil 2mg/5ml elixir,oral antihistamines,allergy prescriptions
+c8l3.,pro-actidil 10mg m/r tablets,oral antihistamines,allergy prescriptions
+c8lx.,triprolidine 2.5mg tablets,oral antihistamines,allergy prescriptions
+c8ly.,triprolidine 2mg/5ml elixir,oral antihistamines,allergy prescriptions
+c8lz.,triprolidine 10mg m/r tablets,oral antihistamines,allergy prescriptions
+c8m..,acrivastine,oral antihistamines,allergy prescriptions
+c8m1.,acrivastine 8mg capsules,oral antihistamines,allergy prescriptions
+c8m2.,semprex 8mg capsules,oral antihistamines,allergy prescriptions
+c8m3.,benadryl allergy relief 8mg capsules,oral antihistamines,allergy prescriptions
+c8n..,cetirizine dihydrochloride,oral antihistamines,allergy prescriptions
+c8n1.,cetirizine 10mg tablets,oral antihistamines,allergy prescriptions
+c8n2.,zirtek 10mg tablets,oral antihistamines,allergy prescriptions
+c8n3.,cetirizine 1mg/1ml sugar free liquid,oral antihistamines,allergy prescriptions
+c8n4.,zirtek 1mg/1ml sugar free liquid,oral antihistamines,allergy prescriptions
+c8n5.,cetirocol 10mg tablets,oral antihistamines,allergy prescriptions
+c8n6.,piriteze 10mg tablets,oral antihistamines,allergy prescriptions
+c8n8.,galpharm hayfever and allergy relief tablets,oral antihistamines,allergy prescriptions
+c8n9.,zirtek allergy 10mg tablets,oral antihistamines,allergy prescriptions
+c8nA.,zirtek allergy relief 10mg tablets,oral antihistamines,allergy prescriptions
+c8nB.,benadryl one a day 10mg tablets,oral antihistamines,allergy prescriptions
+c8nC.,cetirizine 10mg allergy relief one a day tablets,oral antihistamines,allergy prescriptions
+c8nD.,care cetirizine hayfever relief 10mg tablets,oral antihistamines,allergy prescriptions
+c8nE.,benadryl allergy 1mg/ml sugar free oral solution,oral antihistamines,allergy prescriptions
+c8nF.,zirtek allergy 1mg/ml sugar free oral solution,oral antihistamines,allergy prescriptions
+c8nG.,numark hayfever and allergy relief 10mg tablets,oral antihistamines,allergy prescriptions
+c8nH.,piriteze allergy syrup 1mg/1ml oral solution,oral antihistamines,allergy prescriptions
+c8nI.,galpharm allergy relief 1mg/1ml s/f oral solution,oral antihistamines,allergy prescriptions
+c8nJ.,vantage pharmacy hayfever and allergy relief 10mg tablets,oral antihistamines,allergy prescriptions
+c8nK.,pollenshield hayfever relief 10mg tablets,oral antihistamines,allergy prescriptions
+c8nL.,benadryl allergy liquid release 10mg capsules,oral antihistamines,allergy prescriptions
+c8nM.,cetirizine 10mg capsules,oral antihistamines,allergy prescriptions
+c8o..,loratadine,oral antihistamines,allergy prescriptions
+c8o1.,loratadine 10mg tablets,oral antihistamines,allergy prescriptions
+c8o2.,clarityn 10mg tablets,oral antihistamines,allergy prescriptions
+c8o3.,loratadine 5mg/5ml syrup,oral antihistamines,allergy prescriptions
+c8o4.,clarityn 5mg/5ml syrup,oral antihistamines,allergy prescriptions
+c8o5.,clarityn allergy 5mg/5ml syrup,oral antihistamines,allergy prescriptions
+c8o6.,clarityn allergy 10mg tablets,oral antihistamines,allergy prescriptions
+c8o7.,galpharm non-drowsy allergy relief 10mg tablets,oral antihistamines,allergy prescriptions
+c8o8.,numark non-drowsy allergy relief 10mg tablets,oral antihistamines,allergy prescriptions
+c8o9.,galpharm non-drowsy hayfever&allergy relief 10mg tablets,oral antihistamines,allergy prescriptions
+c8oA.,galpharm non-drowsy allergy relief 5mg/5ml syrup,oral antihistamines,allergy prescriptions
+c8oB.,vantage pharmacy non-drowsy allergy relief 10mg tablets,oral antihistamines,allergy prescriptions
+c8oC.,vantage pharmacy non-drowsy allergy relief 5mg/5ml syrup,oral antihistamines,allergy prescriptions
+c8p..,fexofenadine,oral antihistamines,allergy prescriptions
+c8p1.,fexofenadine hydrochloride 120mg tablets,oral antihistamines,allergy prescriptions
+c8p2.,telfast 120 tablets,oral antihistamines,allergy prescriptions
+c8p3.,fexofenadine hydrochloride 180mg tablets,oral antihistamines,allergy prescriptions
+c8p4.,telfast 180 tablets,oral antihistamines,allergy prescriptions
+c8p5.,fexofenadine hydrochloride 30mg tablets,oral antihistamines,allergy prescriptions
+c8p6.,telfast 30 tablets,oral antihistamines,allergy prescriptions
+c8q..,mizolastine,oral antihistamines,allergy prescriptions
+c8q1.,mizolastine 10mg m/r tablets,oral antihistamines,allergy prescriptions
+c8q2.,mizollen 10mg m/r tablets,oral antihistamines,allergy prescriptions
+c8q3.,mistamine 10mg m/r tablets,oral antihistamines,allergy prescriptions
+c8r..,desloratadine,oral antihistamines,allergy prescriptions
+c8r1.,neoclarityn 5mg tablets,oral antihistamines,allergy prescriptions
+c8r2.,neoclarityn 0.5mg/ml syrup,oral antihistamines,allergy prescriptions
+c8r3.,neoclarityn 2.5mg/5ml oral solution,oral antihistamines,allergy prescriptions
+c8rx.,desloratadine 2.5mg/5ml oral solution,oral antihistamines,allergy prescriptions
+c8ry.,desloratadine 0.5mg/ml syrup,oral antihistamines,allergy prescriptions
+c8rz.,desloratadine 5mg tablets,oral antihistamines,allergy prescriptions
+c8s..,levocetirizine,oral antihistamines,allergy prescriptions
+c8s1.,xyzal 5mg tablets,oral antihistamines,allergy prescriptions
+c8s2.,xyzal 500micrograms/ml oral solution,oral antihistamines,allergy prescriptions
+c8sy.,levocetirizine dihydrochloride 500micrograms/ml oral solution,oral antihistamines,allergy prescriptions
+c8sz.,levocetirizine dihydrochloride 5mg tablets,oral antihistamines,allergy prescriptions
+c8t..,epinastine,oral antihistamines,allergy prescriptions
+c8t1.,relestat 0.5mg/ml eye drops 5ml,oral antihistamines,allergy prescriptions
+c8tz.,epinastine hydrochloride 0.5mg/ml eye drops,oral antihistamines,allergy prescriptions
+c8u..,rupatadine,oral antihistamines,allergy prescriptions
+c8u1.,rupafin 10mg tablets,oral antihistamines,allergy prescriptions
+c8uz.,rupatadine 10mg tablets,oral antihistamines,allergy prescriptions
+c8v..,bilastine,oral antihistamines,allergy prescriptions
+c8v1.,ilaxten 20mg tablets,oral antihistamines,allergy prescriptions
+c8v2.,bilastine 20mg tablets,oral antihistamines,allergy prescriptions
+x01EB,alimemazine,oral antihistamines,allergy prescriptions
+x05oU,allergy relief antihistamine,oral antihistamines,allergy prescriptions
+x046j,antihistamine,oral antihistamines,allergy prescriptions
+x046k,antihistamine forte,oral antihistamines,allergy prescriptions
+x01Ds,azatadine,oral antihistamines,allergy prescriptions
+x04oj,benadryl allergy relief,oral antihistamines,allergy prescriptions
+x05lq,benadryl allergy,oral antihistamines,allergy prescriptions
+x01Dt,brompheniramine,oral antihistamines,allergy prescriptions
+x00ez,calimal 4mg tablet,oral antihistamines,allergy prescriptions
+x01Dq,cetirizine,oral antihistamines,allergy prescriptions
+x05gc,cetirizine 10mg allergy relief one a day,oral antihistamines,allergy prescriptions
+x01Du,chlorphenamine,oral antihistamines,allergy prescriptions
+x05GG,clarityn allergy,oral antihistamines,allergy prescriptions
+x00f3,clemastine 1.34mg tablet,oral antihistamines,allergy prescriptions
+x0024,clemastine+phenylpropanolamine,oral antihistamines,allergy prescriptions
+x01Dw,cyproheptadine,oral antihistamines,allergy prescriptions
+x01Dx,dimethindene,oral antihistamines,allergy prescriptions
+x01E1,diphenhydramine product,oral antihistamines,allergy prescriptions
+x01E2,diphenylpyraline,oral antihistamines,allergy prescriptions
+x05m3,galpharm non-drowsy allergy relief,oral antihistamines,allergy prescriptions
+x05m4,galpharm hayfever and allergy relief,oral antihistamines,allergy prescriptions
+x01E3,hydroxyzine,oral antihistamines,allergy prescriptions
+x01E4,mepyramine,oral antihistamines,allergy prescriptions
+x05m6,numark non-drowsy allergy relief,oral antihistamines,allergy prescriptions
+x05oV,numark hayfever and allergy relief,oral antihistamines,allergy prescriptions
+x01E5,phenindamine,oral antihistamines,allergy prescriptions
+x01E6,pheniramine,oral antihistamines,allergy prescriptions
+x05se,piriteze allergy,oral antihistamines,allergy prescriptions
+x05F6,pollenase antihistamine,oral antihistamines,allergy prescriptions
+x05fV,pollenase allergy syrup,oral antihistamines,allergy prescriptions
+x05qT,pollenase allergy,oral antihistamines,allergy prescriptions
+x00A2,promethazine product,oral antihistamines,allergy prescriptions
+x00ft,promethazine hydrochloride 20mg tablet,oral antihistamines,allergy prescriptions
+x05F7,rhino-syrup allergy,oral antihistamines,allergy prescriptions
+x00g1,sominex 20mg tablet,oral antihistamines,allergy prescriptions
+x01EA,triprolidine,oral antihistamines,allergy prescriptions
+x05gy,vantage antihistamine,oral antihistamines,allergy prescriptions
+x05xy,vantage non-drowsy allergy relief,oral antihistamines,allergy prescriptions
+x05xz,vantage hayfever and allergy relief,oral antihistamines,allergy prescriptions
+x05db,zirtek allergy,oral antihistamines,allergy prescriptions
+x05dc,zirtek allergy relief,oral antihistamines,allergy prescriptions
+l8...,nasal allergy drugs,nasal allergy drugs,allergy prescriptions
+l81..,beclometasone dipropionate [nose],nasal allergy drugs,allergy prescriptions
+l811.,beconase 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l812.,beconase aqueous 50microgram nasal spray,nasal allergy drugs,allergy prescriptions
+l813.,zonivent aquanasal 50micrograms spray,nasal allergy drugs,allergy prescriptions
+l814.,beconase hayfever 50micrograms aqueous nasal spray,nasal allergy drugs,allergy prescriptions
+l815.,nasobec aqueous 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l816.,nasobec hayfever 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l817.,beclo-aqua 50 nasal spray,nasal allergy drugs,allergy prescriptions
+l818.,beclomist 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l819.,vivabec 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l81a.,care hayfever relief 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l81b.,rino clenil 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l81c.,pollenase 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l81d.,vantage hayfever relief 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l81e.,beconase hayfever relief for adults 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l81y.,beclomethasone 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l81z.,beclometasone 50micrograms aqueous nasal spray,nasal allergy drugs,allergy prescriptions
+l82..,betamethasone sod phosphate [nose],nasal allergy drugs,allergy prescriptions
+l821.,betnesol nose drops 5ml,nasal allergy drugs,allergy prescriptions
+l822.,betnesol 0.1% nose drops 10ml,nasal allergy drugs,allergy prescriptions
+l823.,vista-methasone 0.1% nose drops 5ml,nasal allergy drugs,allergy prescriptions
+l824.,vista-methasone 0.1% nose drops 10ml,nasal allergy drugs,allergy prescriptions
+l825.,betnesol-n nose drops 10ml,nasal allergy drugs,allergy prescriptions
+l826.,betamethasone sodium phosphate+neomycin sulfate 0.1%/0.5% nose drops,nasal allergy drugs,allergy prescriptions
+l827.,vista-methasone n nose drops 5ml,nasal allergy drugs,allergy prescriptions
+l828.,vista-methasone n nose drops 10ml,nasal allergy drugs,allergy prescriptions
+l82z.,betamethasone 0.1% nose drops,nasal allergy drugs,allergy prescriptions
+l83..,budesonide [nose],nasal allergy drugs,allergy prescriptions
+l831.,rhinocort 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l832.,rhinocort aqua 100micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l833.,rhinocort aqua 64micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l83x.,budesonide 64micrograms aqueous nasal spray,nasal allergy drugs,allergy prescriptions
+l83y.,budesonide 100micrograms aqueous nasal spray,nasal allergy drugs,allergy prescriptions
+l83z.,budesonide 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l84..,flunisolide,nasal allergy drugs,allergy prescriptions
+l841.,syntaris 25micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l84z.,flunisolide 25micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l85..,sodium cromoglicate [nose],nasal allergy drugs,allergy prescriptions
+l851.,rynacrom 10mg cartridges,nasal allergy drugs,allergy prescriptions
+l852.,rynacrom insufflator,nasal allergy drugs,allergy prescriptions
+l853.,rynacrom 2% nose drops 15ml,nasal allergy drugs,allergy prescriptions
+l854.,rynacrom 2% nasal spray 26ml,nasal allergy drugs,allergy prescriptions
+l855.,rynacrom compound nasal spray 26ml,nasal allergy drugs,allergy prescriptions
+l856.,rynacrom 4% nasal spray 22ml,nasal allergy drugs,allergy prescriptions
+l857.,resiston one nasal spray,nasal allergy drugs,allergy prescriptions
+l858.,vividrin 2% nasal spray,nasal allergy drugs,allergy prescriptions
+l859.,rynacrom allergy nasal spray 10ml,nasal allergy drugs,allergy prescriptions
+l85v.,sodium cromoglicate 4% nasal spray,nasal allergy drugs,allergy prescriptions
+l85w.,sod cromoglycate 10mg cartridges,nasal allergy drugs,allergy prescriptions
+l85x.,sod cromoglycate 2% nose drops,nasal allergy drugs,allergy prescriptions
+l85y.,sodium cromoglicate 2% nasal spray,nasal allergy drugs,allergy prescriptions
+l85z.,sodium cromoglicate compound 2% nasal spray,nasal allergy drugs,allergy prescriptions
+l86..,ipratropium bromide [2],nasal allergy drugs,allergy prescriptions
+l861.,ipratropium 20micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l862.,rinatec 20micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l863.,ipratropium 0.03% aqueous nasal spray,nasal allergy drugs,allergy prescriptions
+l864.,rinatec 0.03% aqueous nasal spray,nasal allergy drugs,allergy prescriptions
+l865.,rinatec 21micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l866.,ipratropium bromide 21micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l87..,azelastine hydrochloride,nasal allergy drugs,allergy prescriptions
+l871.,azelastine 0.1% nasal spray,nasal allergy drugs,allergy prescriptions
+l872.,rhinolast 0.1% nasal spray 10ml,nasal allergy drugs,allergy prescriptions
+l873.,rhinolast 0.1% nasal spray 20ml,nasal allergy drugs,allergy prescriptions
+l874.,rhinolast hayfever 0.1% nasal spray 5ml,nasal allergy drugs,allergy prescriptions
+l875.,aller-eze 0.1% nasal spray 5ml,nasal allergy drugs,allergy prescriptions
+l876.,rhinolast 0.1% nasal spray 22ml,nasal allergy drugs,allergy prescriptions
+l877.,rhinolast allergy 0.1% nasal spray 5ml,nasal allergy drugs,allergy prescriptions
+l88..,fluticasone [nose],nasal allergy drugs,allergy prescriptions
+l881.,fluticasone propionate 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l882.,flixonase 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l883.,flixonase 400micrograms nasules,nasal allergy drugs,allergy prescriptions
+l884.,flixonase allergy 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l885.,nasofan aqueous 50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l886.,avamys 27.5micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l887.,fluticasone furoate 27.5micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l88z.,fluticasone propionate 400micrograms single-use nasal drops,nasal allergy drugs,allergy prescriptions
+l89..,nedocromil sodium [nose],nasal allergy drugs,allergy prescriptions
+l891.,nedocromil sodium 1% nasal spray,nasal allergy drugs,allergy prescriptions
+l892.,tilarin 1% nasal spray,nasal allergy drugs,allergy prescriptions
+l8A..,levocabastine hydrochloride [nose],nasal allergy drugs,allergy prescriptions
+l8A1.,levocabastine 0.5mg/ml nasal spray,nasal allergy drugs,allergy prescriptions
+l8A2.,livostin 0.5mg/ml nasal spray 10ml,nasal allergy drugs,allergy prescriptions
+l8A3.,livostin direct 0.5mg/ml nasal spray 5ml,nasal allergy drugs,allergy prescriptions
+l8B..,triamcinolone acetonide [nose],nasal allergy drugs,allergy prescriptions
+l8B1.,triamcinolone acetonide 55micrograms aqueous nasal spray,nasal allergy drugs,allergy prescriptions
+l8B2.,nasacort 55micrograms aqueous nasal spray,nasal allergy drugs,allergy prescriptions
+l8C..,tramazoline hydrochloride+dexamethasone isonicotinate,nasal allergy drugs,allergy prescriptions
+l8C1.,dexa-rhinaspray duo nasal spray,nasal allergy drugs,allergy prescriptions
+l8D..,mometasone furoate monohydrate [nose],nasal allergy drugs,allergy prescriptions
+l8D1.,nasonex 0.05% aqueous nasal spray,nasal allergy drugs,allergy prescriptions
+l8Dz.,mometasone furoate monohydrate 0.05% aqueous nasal spray,nasal allergy drugs,allergy prescriptions
+l8E..,azelastine hydrochloride+fluticasone propionate,nasal allergy drugs,allergy prescriptions
+l8E1.,dymista 137micrograms/50micrograms nasal spray,nasal allergy drugs,allergy prescriptions
+l8E2.,azelastine hcl+fluticasone propion 137mcg/50mcg nasal spray,nasal allergy drugs,allergy prescriptions
+x05lZ,aller-eze 0.1% nasal spray,nasal allergy drugs,allergy prescriptions
+x01Dp,azelastine,nasal allergy drugs,allergy prescriptions
+x05By,beconase allergy,nasal allergy drugs,allergy prescriptions
+x05lt,flixonase allergy,nasal allergy drugs,allergy prescriptions
+x03ao,livostin 0.5mg/ml nasal spray,nasal allergy drugs,allergy prescriptions
+x05Zm,livostin direct 0.5mg/ml nasal spray,nasal allergy drugs,allergy prescriptions
+x03lb,rhinolast allergy 0.1% nasal spray,nasal allergy drugs,allergy prescriptions
+x05s1,rhinolast 0.1% nasal spray,nasal allergy drugs,allergy prescriptions
+x05FH,rhinolast allergy,nasal allergy drugs,allergy prescriptions
+x04r5,rynacrom allergy nasal spray,nasal allergy drugs,allergy prescriptions
+x04r6,rynacrom allergy,nasal allergy drugs,allergy prescriptions
+x01Dy,vibrocil nasal spray,nasal allergy drugs,allergy prescriptions
+x01Dz,vibrocil nose gel,nasal allergy drugs,allergy prescriptions
+x01E0,vibrocil nose drops,nasal allergy drugs,allergy prescriptions
+k61..,antazoline salts,eye allergy drugs,allergy prescriptions
+k611.,otrivine-antistin eye drops 10ml,eye allergy drugs,allergy prescriptions
+k612.,vasocon a eye drops 10ml,eye allergy drugs,allergy prescriptions
+k62..,betamethasone sodium phoshate [eye],eye allergy drugs,allergy prescriptions
+k621.,betnesol 0.1% eye drops 10ml,eye allergy drugs,allergy prescriptions
+k622.,betnesol 0.1% eye ointment 3g,eye allergy drugs,allergy prescriptions
+k623.,betnesol-n eye ointment 3g,eye allergy drugs,allergy prescriptions
+k624.,vista-methasone 0.1% eye drops 5ml,eye allergy drugs,allergy prescriptions
+k625.,vista-methasone 0.1% eye drops 10ml,eye allergy drugs,allergy prescriptions
+k626.,betnesol-n eye drops,eye allergy drugs,allergy prescriptions
+k627.,betnesol-n eye drops 10ml,eye allergy drugs,allergy prescriptions
+k628.,betamethasone sodium phosphate+neomycin sulphate 0.1%/0.5% eye drops,eye allergy drugs,allergy prescriptions
+k629.,vista-methasone n eye drops 5ml,eye allergy drugs,allergy prescriptions
+k62A.,vista-methasone n eye drops 10ml,eye allergy drugs,allergy prescriptions
+k62y.,betamethasone 0.1% eye drops,eye allergy drugs,allergy prescriptions
+k62z.,betamethasone 0.1% eye ointment,eye allergy drugs,allergy prescriptions
+k64..,dexamethasone [eye],eye allergy drugs,allergy prescriptions
+k641.,maxidex eye drops 5ml,eye allergy drugs,allergy prescriptions
+k642.,maxidex eye drops 10ml,eye allergy drugs,allergy prescriptions
+k643.,maxitrol eye drops 5ml,eye allergy drugs,allergy prescriptions
+k644.,maxitrol eye ointment 3.5g,eye allergy drugs,allergy prescriptions
+k645.,dexamethasone sodium phosphate 0.1% single-use eye drops,eye allergy drugs,allergy prescriptions
+k646.,minims dexamethasone sodium phosphate 0.1% single-use eye drops 0.5ml,eye allergy drugs,allergy prescriptions
+k647.,dexamethasone+hypromellose 0.1%/0.5% eye drops,eye allergy drugs,allergy prescriptions
+k648.,dexamethasone+tobramycin 0.1%/0.3% eye drops,eye allergy drugs,allergy prescriptions
+k649.,tobradex eye drops 5ml,eye allergy drugs,allergy prescriptions
+k64A.,dexamethasone 700micrograms intravitreal implant+applicator,eye allergy drugs,allergy prescriptions
+k64B.,ozurdex 700micrograms intravitreal implant in applicator,eye allergy drugs,allergy prescriptions
+k64C.,dropodex 0.1% single-use eye drops 0.4ml,eye allergy drugs,allergy prescriptions
+k64D.,dexafree 1mg/ml single-use eye drops 0.4ml,eye allergy drugs,allergy prescriptions
+k64x.,dexamethasone compound eye ointment,eye allergy drugs,allergy prescriptions
+k64y.,dexamethasone eye drops,eye allergy drugs,allergy prescriptions
+k64z.,dexamethasone eye ointment,eye allergy drugs,allergy prescriptions
+k69..,sodium cromoglicate [eye],eye allergy drugs,allergy prescriptions
+k691.,opticrom eye drops 5ml,eye allergy drugs,allergy prescriptions
+k692.,opticrom 4% eye ointment 5g,eye allergy drugs,allergy prescriptions
+k693.,opticrom aqueous 2% eye drops 13.5ml,eye allergy drugs,allergy prescriptions
+k694.,opticrom viscous eye drops 5ml,eye allergy drugs,allergy prescriptions
+k695.,hay-crom aqueous 2% eye drops,eye allergy drugs,allergy prescriptions
+k696.,vividrin 2% eye drops,eye allergy drugs,allergy prescriptions
+k697.,cusilyn 2% eye drops,eye allergy drugs,allergy prescriptions
+k698.,viz-on 2% eye drops,eye allergy drugs,allergy prescriptions
+k699.,hay-crom hay fever 2% eye drops 10ml,eye allergy drugs,allergy prescriptions
+k69A.,hay-crom hay fever 2% eye drops 13.5ml,eye allergy drugs,allergy prescriptions
+k69B.,dominion pharma hayfever eye drops 10ml,eye allergy drugs,allergy prescriptions
+k69C.,clarityn allergy 2% eye drops 10ml,eye allergy drugs,allergy prescriptions
+k69D.,vivicrom 2% eye drops,eye allergy drugs,allergy prescriptions
+k69E.,optrex allergy eye drops 10ml,eye allergy drugs,allergy prescriptions
+k69F.,pollenase allergy 2% eye drops 10ml,eye allergy drugs,allergy prescriptions
+k69G.,galpharm allergy 2% eye drops 10ml,eye allergy drugs,allergy prescriptions
+k69H.,cromolux hayfever 2% eye drops 10ml,eye allergy drugs,allergy prescriptions
+k69I.,cromolux 2% eye drops 13.5ml,eye allergy drugs,allergy prescriptions
+k69J.,opticrom allergy 2% eye drops 5ml,eye allergy drugs,allergy prescriptions
+k69K.,opticrom allergy 2% eye drops 10ml,eye allergy drugs,allergy prescriptions
+k69L.,catacrom 2% single-use eye drops 0.3ml,eye allergy drugs,allergy prescriptions
+k69M.,allercrom 2% eye drops 10ml,eye allergy drugs,allergy prescriptions
+k69N.,opticrom allergy 2% p/f single use eye drops 0.3ml,eye allergy drugs,allergy prescriptions
+k69x.,sodium cromoglicate 2% single-use eye drops,eye allergy drugs,allergy prescriptions
+k69y.,sodium cromoglicate 2% eye drops,eye allergy drugs,allergy prescriptions
+k69z.,sodium cromoglycate 4% eye ointment,eye allergy drugs,allergy prescriptions
+k6b..,lodoxamide [eye],eye allergy drugs,allergy prescriptions
+k6b1.,lodoxamide 0.1% eye drops,eye allergy drugs,allergy prescriptions
+k6b2.,alomide 0.1% eye drops 10ml,eye allergy drugs,allergy prescriptions
+k6b3.,alomide allergy 0.1% eye drops 5ml,eye allergy drugs,allergy prescriptions
+k6d..,diclofenac sodium [eye],eye allergy drugs,allergy prescriptions
+k6d1.,voltarol ophtha 0.1% single-use eye drops x4,eye allergy drugs,allergy prescriptions
+k6d2.,voltarol ophtha 0.1% single-use eye drops x40,eye allergy drugs,allergy prescriptions
+k6d3.,diclofenac 0.1% single-use eye drops x4,eye allergy drugs,allergy prescriptions
+k6d4.,diclofenac 0.1% single-use eye drops x40,eye allergy drugs,allergy prescriptions
+k6d5.,diclofenac 0.1% single-use eye drops,eye allergy drugs,allergy prescriptions
+k6d6.,voltarol ophtha 0.1% single-use eye drops x5,eye allergy drugs,allergy prescriptions
+k6d7.,diclofenac 0.1% multidose eye drops,eye allergy drugs,allergy prescriptions
+k6d8.,voltarol ophtha 0.1% multidose eye drops 5ml,eye allergy drugs,allergy prescriptions
+k6e..,nedocromil sodium [eye],eye allergy drugs,allergy prescriptions
+k6e1.,nedocromil sodium 2% eye drops,eye allergy drugs,allergy prescriptions
+k6e2.,rapitil 2% eye drops,eye allergy drugs,allergy prescriptions
+k6f..,levocabastine hydrochloride [eye],eye allergy drugs,allergy prescriptions
+k6f1.,levocabastine 0.5mg/ml eye drops,eye allergy drugs,allergy prescriptions
+k6f2.,livostin 0.5mg/ml eye drops 4ml,eye allergy drugs,allergy prescriptions
+k6f3.,livostin direct 0.5mg/ml eye drops 3ml,eye allergy drugs,allergy prescriptions
+k6h..,azelastine hydrochloride [eye],eye allergy drugs,allergy prescriptions
+k6h1.,azelastine hydrochloride 0.05% eye drops,eye allergy drugs,allergy prescriptions
+k6h2.,optilast 0.05% eye drops 6ml,eye allergy drugs,allergy prescriptions
+k6h3.,aller-eze 0.05% eye drops 6ml,eye allergy drugs,allergy prescriptions
+k6h4.,optilast 0.05% eye drops 8ml,eye allergy drugs,allergy prescriptions
+k6i..,emedastine [eye],eye allergy drugs,allergy prescriptions
+k6i1.,emadine 0.05% eye drops 5ml,eye allergy drugs,allergy prescriptions
+k6iz.,emedastine 0.05% eye drops,eye allergy drugs,allergy prescriptions
+k6k..,ketotifen [eye],eye allergy drugs,allergy prescriptions
+k6k1.,ketotifen 250micrograms/ml eye drops,eye allergy drugs,allergy prescriptions
+k6k2.,zaditen 250micrograms/ml eye drops 5ml,eye allergy drugs,allergy prescriptions
+k6l..,olopatadine [eye],eye allergy drugs,allergy prescriptions
+k6l1.,olopatadine 1mg/ml eye drops,eye allergy drugs,allergy prescriptions
+k6l2.,opatanol 1mg/ml eye drops 5ml,eye allergy drugs,allergy prescriptions
+x05lY,aller-eze 0.05% eye drops,eye allergy drugs,allergy prescriptions
+x05cW,alomide allergy,eye allergy drugs,allergy prescriptions
+x05cX,alomide allergy 0.1% eye drops,eye allergy drugs,allergy prescriptions
+x01Dp,azelastine,eye allergy drugs,allergy prescriptions
+x05cQ,clarityn allergy 2% eye drops,eye allergy drugs,allergy prescriptions
+x04xy,emadine 0.05% eye drops,eye allergy drugs,allergy prescriptions
+x04xx,emedastine,eye allergy drugs,allergy prescriptions
+x05wr,galpharm allergy 2% eye drops,eye allergy drugs,allergy prescriptions
+x03am,levocabastine product,eye allergy drugs,allergy prescriptions
+x03an,livostin 0.5mg/ml eye drops,eye allergy drugs,allergy prescriptions
+x05Zl,livostin direct 0.5mg/ml eye drops,eye allergy drugs,allergy prescriptions
+x05la,opatanol 1mg/ml eye drops,eye allergy drugs,allergy prescriptions
+x02AF,opticrom allergy eye drops,eye allergy drugs,allergy prescriptions
+x044U,opticrom allergy,eye allergy drugs,allergy prescriptions
+x04pM,optilast 0.05% eye drops,eye allergy drugs,allergy prescriptions
+x05j3,optrex allergy,eye allergy drugs,allergy prescriptions
+x05kY,optrex allergy eye drops,eye allergy drugs,allergy prescriptions
+x00KG,otrivine-antistin eye drops,eye allergy drugs,allergy prescriptions
+x05ps,pollenase allergy 2% eye drops,eye allergy drugs,allergy prescriptions
+x05ro,relestat 0.5mg/ml eye drops,eye allergy drugs,allergy prescriptions
+x00L9,vasocon a eye drops,eye allergy drugs,allergy prescriptions
+m34..,topical antihistamines,topical antihistamines,allergy prescriptions
+m341.,anthical cream 25g,topical antihistamines,allergy prescriptions
+m342.,anthisan cream 25g,topical antihistamines,allergy prescriptions
+m343.,caladryl cream 42g,topical antihistamines,allergy prescriptions
+m344.,caladryl lotion 125ml,topical antihistamines,allergy prescriptions
+m345.,r.b.c. cream 25g,topical antihistamines,allergy prescriptions
+m346.,aller-eze cream 25g,topical antihistamines,allergy prescriptions
+m347.,diphenhydramine hydrochloride 2% cream,topical antihistamines,allergy prescriptions
+m348.,anthisan plus sting relief spray,topical antihistamines,allergy prescriptions
+m349.,benadryl skin allergy relief cream 42g,topical antihistamines,allergy prescriptions
+m34A.,benadryl skin allergy relief lotion 125ml,topical antihistamines,allergy prescriptions
+m34B.,histergan 2% cream 25g,topical antihistamines,allergy prescriptions
+m34y.,mepyramine maleate+benzocaine 2%/2% spray,topical antihistamines,allergy prescriptions
+m34z.,mepyramine maleate 2% cream,topical antihistamines,allergy prescriptions
+x03dj,aller-eze cream,topical antihistamines,allergy prescriptions
+x01EC,anthical cream,topical antihistamines,allergy prescriptions
+x00FS,anthisan cream,topical antihistamines,allergy prescriptions
+x0583,benadryl skin allergy relief cream,topical antihistamines,allergy prescriptions
+x0584,benadryl skin allergy relief lotion,topical antihistamines,allergy prescriptions
+x0585,benadryl skin allergy relief,topical antihistamines,allergy prescriptions
+x00Fi,caladryl cream,topical antihistamines,allergy prescriptions
+x00TB,caladryl lotion,topical antihistamines,allergy prescriptions
+x05FI,histergan 2% cream,topical antihistamines,allergy prescriptions
+x01FS,piz buin allergy 12 lotion,topical antihistamines,allergy prescriptions
+x00HQ,r.b.c cream,topical antihistamines,allergy prescriptions
+m5H..,alitretinoin,eczema preparations,allergy prescriptions
+m5HZ.,alitretinoin 10mg capsules,eczema preparations,allergy prescriptions
+m5HY.,alitretinoin 30mg capsules,eczema preparations,allergy prescriptions
+m5H1.,toctino 10mg capsules,eczema preparations,allergy prescriptions
+m5H2.,toctino 30mg capsules,eczema preparations,allergy prescriptions
+x047y,alphaderm,eczema preparations,allergy prescriptions
+x00FN,alphaderm cream,eczema preparations,allergy prescriptions
+m442.,alphaderm cream 100g,eczema preparations,allergy prescriptions
+m441.,alphaderm cream 30g,eczema preparations,allergy prescriptions
+x0477,aureocort,eczema preparations,allergy prescriptions
+x00FW,aureocort cream,eczema preparations,allergy prescriptions
+m4n9.,aureocort cream 15g,eczema preparations,allergy prescriptions
+x00WY,aureocort ointment,eczema preparations,allergy prescriptions
+m4na.,aureocort ointment 15g,eczema preparations,allergy prescriptions
+x05LY,azathioprine - chemical,eczema preparations,allergy prescriptions
+x05LZ,azathioprine sodium - chemical,eczema preparations,allergy prescriptions
+m47y.,beclometasone dipropionate 0.025% cream,eczema preparations,allergy prescriptions
+x00HH,propaderm 0.025% cream,eczema preparations,allergy prescriptions
+m471.,propaderm 0.025% cream 15g,eczema preparations,allergy prescriptions
+m479.,propaderm 0.025% cream 30g,eczema preparations,allergy prescriptions
+m472.,propaderm 0.025% cream 50g,eczema preparations,allergy prescriptions
+m47z.,beclometasone dipropionate 0.025% ointment,eczema preparations,allergy prescriptions
+x00XN,propaderm ointment,eczema preparations,allergy prescriptions
+m473.,propaderm 0.025% ointment 15g,eczema preparations,allergy prescriptions
+m47a.,propaderm 0.025% ointment 30g,eczema preparations,allergy prescriptions
+m474.,propaderm 0.025% ointment 50g,eczema preparations,allergy prescriptions
+x02VW,betacap,eczema preparations,allergy prescriptions
+m48A.,betacapscalp application,eczema preparations,allergy prescriptions
+m48E.,betamethasonevalerate 2.25mg medicated plasters,eczema preparations,allergy prescriptions
+m48B.,betamethasone valerate 0.12% foam,eczema preparations,allergy prescriptions
+x03eA,bettamousse 0.12% foam,eczema preparations,allergy prescriptions
+m48C.,bettamousse 0.12% foam 100g,eczema preparations,allergy prescriptions
+m48D.,betesil2.25mg medicated plasters,eczema preparations,allergy prescriptions
+x02Vf,betnovate,eczema preparations,allergy prescriptions
+x042f,betnovatec,eczema preparations,allergy prescriptions
+x042g,betnovaten,eczema preparations,allergy prescriptions
+x042h,betnovaterd,eczema preparations,allergy prescriptions
+x00Fb,betnovate c cream,eczema preparations,allergy prescriptions
+m491.,betnovate c 0.1% cream 15g,eczema preparations,allergy prescriptions
+m492.,betnovate-c 0.1% cream 30g,eczema preparations,allergy prescriptions
+x00Wc,betnovate c ointment,eczema preparations,allergy prescriptions
+m493.,betnovate c 0.1% ointment 15g,eczema preparations,allergy prescriptions
+m494.,betnovate-c 0.1% ointment 30g,eczema preparations,allergy prescriptions
+m49b.,betnovaten 0.1% lotion,eczema preparations,allergy prescriptions
+x00Fc,betnovate n cream,eczema preparations,allergy prescriptions
+m495.,betnovate n 0.1% cream 15g,eczema preparations,allergy prescriptions
+m497.,betnovate-n 0.1% cream 100g,eczema preparations,allergy prescriptions
+m496.,betnovate-n 0.1% cream 30g,eczema preparations,allergy prescriptions
+x00Wd,betnovate n ointment,eczema preparations,allergy prescriptions
+m498.,betnovate n 0.1% ointment 15g,eczema preparations,allergy prescriptions
+m49a.,betnovate-n 0.1% ointment 100g,eczema preparations,allergy prescriptions
+m499.,betnovate-n 0.1% ointment 30g,eczema preparations,allergy prescriptions
+x00Fd,betnovate rd cream,eczema preparations,allergy prescriptions
+m48a.,betnovate rd 0.025% cream 100g,eczema preparations,allergy prescriptions
+x00We,betnovate rd ointment,eczema preparations,allergy prescriptions
+m48b.,betnovate rd 0.025% ointment 100g,eczema preparations,allergy prescriptions
+x00Fa,betnovate cream,eczema preparations,allergy prescriptions
+m483.,betnovate 0.1% cream 100g,eczema preparations,allergy prescriptions
+m481.,betnovate 0.1% cream 15g,eczema preparations,allergy prescriptions
+m482.,betnovate 0.1% cream 30g,eczema preparations,allergy prescriptions
+m48p.,betnovate 0.1% cream pump dispenser 100g,eczema preparations,allergy prescriptions
+x00TA,betnovate lotion,eczema preparations,allergy prescriptions
+m487.,betnovate 0.1% lotion 100ml,eczema preparations,allergy prescriptions
+x00Wb,betnovate ointment,eczema preparations,allergy prescriptions
+m486.,betnovate 0.1% ointment 100g,eczema preparations,allergy prescriptions
+m484.,betnovate 0.1% ointment 15g,eczema preparations,allergy prescriptions
+m485.,betnovate 0.1% ointment 30g,eczema preparations,allergy prescriptions
+m48t.,betnovate 0.1% ointment pump dispenser 100g,eczema preparations,allergy prescriptions
+x00bo,betnovate scalp application,eczema preparations,allergy prescriptions
+m489.,betnovate 0.1% scalp application 100ml,eczema preparations,allergy prescriptions
+m488.,betnovate 0.1% scalp application 30ml,eczema preparations,allergy prescriptions
+x040q,canestenhc,eczema preparations,allergy prescriptions
+x040r,canestenhydrocortisone,eczema preparations,allergy prescriptions
+x00Fm,canesten hc cream,eczema preparations,allergy prescriptions
+m453.,canesten-hc cream 30g,eczema preparations,allergy prescriptions
+x03ky,canesten hydrocortisone cream,eczema preparations,allergy prescriptions
+m45w.,canesten hydrocortisone cream 15g,eczema preparations,allergy prescriptions
+x060T,clarelux,eczema preparations,allergy prescriptions
+m49t.,betamethasoneclioquinol 0.1%/3% cream,eczema preparations,allergy prescriptions
+m49u.,betamethasoneclioquinol 0.1%/3% ointment,eczema preparations,allergy prescriptions
+x001L,betamethasone+clioquinol,eczema preparations,allergy prescriptions
+m49z.,betamethasone+clioquinol 0.1/3% cream,eczema preparations,allergy prescriptions
+m49y.,betamethasone+clioquinol 0.1/3% ointment,eczema preparations,allergy prescriptions
+m4go.,fluocinolone acetonide+clioquinol 0.025%/3% cream,eczema preparations,allergy prescriptions
+x01Mz,synalar c 0.025% cream,eczema preparations,allergy prescriptions
+m4gc.,synalar c 0.025% cream 15g,eczema preparations,allergy prescriptions
+m4gp.,fluocinolone acetonide+clioquinol 0.025%/3% ointment,eczema preparations,allergy prescriptions
+x01My,synalar c 0.025% ointment,eczema preparations,allergy prescriptions
+m4gd.,synalar c 0.025% ointment 15g,eczema preparations,allergy prescriptions
+x005x,hydrocortisone+clioquinol,eczema preparations,allergy prescriptions
+x01NX,barquinol-hc cream,eczema preparations,allergy prescriptions
+m452.,barquinol-hc cream 15g,eczema preparations,allergy prescriptions
+m45J.,hydrocortisone+clioquinol 1%/3% cream,eczema preparations,allergy prescriptions
+x00Hu,vioform hydrocortisone cream,eczema preparations,allergy prescriptions
+m45t.,vioform-hydrocortisone cream 30g,eczema preparations,allergy prescriptions
+m45H.,hydrocortisone+clioquinol 1%/3% ointment,eczema preparations,allergy prescriptions
+x00XX,vioform hydrocortisone ointment,eczema preparations,allergy prescriptions
+m45u.,vioform-hydrocortisone ointment 30g,eczema preparations,allergy prescriptions
+m4ah.,etrivex 500micrograms/g shampoo 125ml,eczema preparations,allergy prescriptions
+x00G3,dermovate cream,eczema preparations,allergy prescriptions
+m4a2.,dermovate 0.05% cream 100g,eczema preparations,allergy prescriptions
+m4a1.,dermovate 0.05% cream 30g,eczema preparations,allergy prescriptions
+x00Wm,dermovate ointment,eczema preparations,allergy prescriptions
+m4a4.,dermovate 0.05% ointment 100g,eczema preparations,allergy prescriptions
+m4a3.,dermovate 0.05% ointment 30g,eczema preparations,allergy prescriptions
+x00bq,dermovate scalp application,eczema preparations,allergy prescriptions
+m4a6.,dermovate 0.05% scalp application 100ml,eczema preparations,allergy prescriptions
+m4af.,dermovate 0.05% scalp application 30ml,eczema preparations,allergy prescriptions
+m4a5.,dermovate 0.25% scalp application 25ml,eczema preparations,allergy prescriptions
+x0026,clobetasol propionate+neomycin sulphate+nystatin,eczema preparations,allergy prescriptions
+x00G4,dermovate-nn cream,eczema preparations,allergy prescriptions
+m4a7.,dermovate-nn 0.05% cream 30g,eczema preparations,allergy prescriptions
+x00Wn,dermovate-nn ointment,eczema preparations,allergy prescriptions
+m4a8.,dermovate-nn 0.05% ointment 30g,eczema preparations,allergy prescriptions
+m51j.,coltapaste 7.5cmx6m bandage,eczema preparations,allergy prescriptions
+m51k.,tarband 7.5cmx6m bandage,eczema preparations,allergy prescriptions
+m51..,coal tar product,eczema preparations,allergy prescriptions
+x00FP,alphosyl hc cream,eczema preparations,allergy prescriptions
+m51z.,alphosyl hc cream 100g,eczema preparations,allergy prescriptions
+m51o.,alphosyl hc cream 30g,eczema preparations,allergy prescriptions
+m51p.,alphosyl hc cream 45g,eczema preparations,allergy prescriptions
+m511.,calamine+coal tar ointment bp,eczema preparations,allergy prescriptions
+x01Ff,clinitar 2.5% gel,eczema preparations,allergy prescriptions
+m51b.,clinitar 2.5% gel 40g,eczema preparations,allergy prescriptions
+m5D..,coal tar [2],eczema preparations,allergy prescriptions
+m51H.,coal tar 1% lotion,eczema preparations,allergy prescriptions
+x04rs,exorex lotion,eczema preparations,allergy prescriptions
+m51I.,exorex lotion 100ml,eczema preparations,allergy prescriptions
+m51L.,exorex lotion 250ml,eczema preparations,allergy prescriptions
+m513.,coal tar 10% paint,eczema preparations,allergy prescriptions
+m5D2.,coal tar 12%/sulphur 4%/salicylic acid 2% ointment,eczema preparations,allergy prescriptions
+x05m1,sebco ointment,eczema preparations,allergy prescriptions
+m5D4.,sebco ointment 100g,eczema preparations,allergy prescriptions
+m5D3.,sebco ointment 40g,eczema preparations,allergy prescriptions
+m51l.,coal tar 20% solution bp,eczema preparations,allergy prescriptions
+m514.,coal tar 7.5% paste bp,eczema preparations,allergy prescriptions
+m51Q.,coal tar usp solution 7.5% gel,eczema preparations,allergy prescriptions
+x00N7,psorigel 7.5% gel,eczema preparations,allergy prescriptions
+m51T.,psorigel 7.5% gel 100g,eczema preparations,allergy prescriptions
+m51h.,psorigel 7.5% gel 90g,eczema preparations,allergy prescriptions
+x01Fi,coal tar bath preparations,eczema preparations,allergy prescriptions
+m51R.,coal tar 40% bath emulsion,eczema preparations,allergy prescriptions
+x00D8,psoriderm bath emulsion,eczema preparations,allergy prescriptions
+m51n.,psoriderm 40% bath emulsion 200ml,eczema preparations,allergy prescriptions
+m51K.,coal tar distillate+soya oil 30/50% bath oil,eczema preparations,allergy prescriptions
+x00DD,balneum with tar bath oil,eczema preparations,allergy prescriptions
+m51w.,balneum with tar bath oil 225ml,eczema preparations,allergy prescriptions
+m51E.,balneum+tar bath oil 200ml,eczema preparations,allergy prescriptions
+m51F.,pixol bath and shower gel,eczema preparations,allergy prescriptions
+x00D3,polytar emollient bath additive,eczema preparations,allergy prescriptions
+m51y.,polytar emollient 1l,eczema preparations,allergy prescriptions
+m51m.,polytar emollient 350ml,eczema preparations,allergy prescriptions
+m5D1.,polytar emollient 500ml,eczema preparations,allergy prescriptions
+m51V.,coal tar extract 1% cream,eczema preparations,allergy prescriptions
+x00Ft,clinitar cream,eczema preparations,allergy prescriptions
+m51C.,clinitar 1% cream 100g,eczema preparations,allergy prescriptions
+m51a.,clinitar 1% cream 60g,eczema preparations,allergy prescriptions
+m51Z.,coal tar extract+allantoin 5%/2% cream,eczema preparations,allergy prescriptions
+x00FO,alphosyl cream,eczema preparations,allergy prescriptions
+m516.,alphosyl cream 100g,eczema preparations,allergy prescriptions
+m51Y.,coal tar extract+allantoin 5%/2% lotion,eczema preparations,allergy prescriptions
+x00T7,alphosyl lotion,eczema preparations,allergy prescriptions
+m517.,alphosyl lotion 250ml,eczema preparations,allergy prescriptions
+m51W.,coal tar extract+hydrocortisone 3%/0.25% cream,eczema preparations,allergy prescriptions
+m51A.,coal tar ointment bpc,eczema preparations,allergy prescriptions
+x01Fg,coal tar scalp preparations,eczema preparations,allergy prescriptions
+mb1W.,alcoholic coal tar extract 5% shampoo,eczema preparations,allergy prescriptions
+x000D,alphosyl 2 in 1 shampoo,eczema preparations,allergy prescriptions
+mb1D.,alphosyl 2-in-1 combined shampoo and conditioner 125ml,eczema preparations,allergy prescriptions
+mb1E.,alphosyl 2-in-1 combined shampoo and conditioner 250ml,eczema preparations,allergy prescriptions
+x03iq,alphosyl shampoo,eczema preparations,allergy prescriptions
+mb1w.,alphosyl shampoo 125ml,eczema preparations,allergy prescriptions
+mb1y.,alphosyl shampoo 250ml,eczema preparations,allergy prescriptions
+mb11.,alphosyl shampoo 60g,eczema preparations,allergy prescriptions
+x00c0,capasal shampoo,eczema preparations,allergy prescriptions
+mb1z.,capasal shampoo 250ml,eczema preparations,allergy prescriptions
+mb1Z.,coal tar 4.3% shampoo,eczema preparations,allergy prescriptions
+x00c7,pentrax shampoo,eczema preparations,allergy prescriptions
+mb1J.,pentrax shampoo 120ml,eczema preparations,allergy prescriptions
+m51J.,coal tar distillate 1.5% shampoo,eczema preparations,allergy prescriptions
+x00by,baltar shampoo,eczema preparations,allergy prescriptions
+m51G.,baltar 1.5% scalp application 200ml,eczema preparations,allergy prescriptions
+m51u.,baltar 1.5% scalp application 225ml,eczema preparations,allergy prescriptions
+m51v.,baltar 1.5% scalp application 500ml,eczema preparations,allergy prescriptions
+mb1Q.,coal tar extract 2% shampoo,eczema preparations,allergy prescriptions
+x00c3,clinitar shampoo,eczema preparations,allergy prescriptions
+mb1C.,clinitar 2% shampoo 100g,eczema preparations,allergy prescriptions
+mb19.,clinitar 2% shampoo 60g,eczema preparations,allergy prescriptions
+mb58.,t/gel shampoo for dry hair 125ml,eczema preparations,allergy prescriptions
+mb59.,t/gel shampoo for dry hair 250ml,eczema preparations,allergy prescriptions
+x00cC,t/gel shampoo,eczema preparations,allergy prescriptions
+mb1t.,t/gel 2% shampoo 125ml,eczema preparations,allergy prescriptions
+mb1A.,t/gel 2% shampoo 200ml,eczema preparations,allergy prescriptions
+mb1B.,t/gel 2% shampoo 250ml,eczema preparations,allergy prescriptions
+mb1V.,coal tar+lecithin 2.5/0.3% shampoo,eczema preparations,allergy prescriptions
+x00c9,psoriderm shampoo,eczema preparations,allergy prescriptions
+mb1n.,psoriderm shampoo 120ml,eczema preparations,allergy prescriptions
+mb1o.,psoriderm shampoo 250ml,eczema preparations,allergy prescriptions
+x00V7,genisol liquid,eczema preparations,allergy prescriptions
+mb1c.,genisol liquid 250ml,eczema preparations,allergy prescriptions
+mb1b.,genisol liquid 58ml,eczema preparations,allergy prescriptions
+mb1d.,genisol liquid 600ml,eczema preparations,allergy prescriptions
+x00c5,ionil t shampoo,eczema preparations,allergy prescriptions
+mb1e.,ionil t shampoo 200ml,eczema preparations,allergy prescriptions
+x01Fh,polytar af liquid,eczema preparations,allergy prescriptions
+mb1O.,polytar af liquid 150ml,eczema preparations,allergy prescriptions
+mb54.,polytar af liquid 250ml,eczema preparations,allergy prescriptions
+x00Vj,polytar plus liquid,eczema preparations,allergy prescriptions
+mb1l.,polytar plus liquid 150ml,eczema preparations,allergy prescriptions
+mb1m.,polytar plus liquid 350ml,eczema preparations,allergy prescriptions
+mb51.,polytar plus liquid 500ml,eczema preparations,allergy prescriptions
+x00Vi,polytar liquid,eczema preparations,allergy prescriptions
+mb1j.,polytar liquid 150ml,eczema preparations,allergy prescriptions
+mb1F.,polytar liquid 250ml,eczema preparations,allergy prescriptions
+mb1k.,polytar liquid 350ml,eczema preparations,allergy prescriptions
+mb1G.,polytar liquid 500ml,eczema preparations,allergy prescriptions
+mb1i.,polytar liquid 65ml,eczema preparations,allergy prescriptions
+m51X.,coal tar solution 10% cream,eczema preparations,allergy prescriptions
+x00Fo,carbo-dome cream,eczema preparations,allergy prescriptions
+m519.,carbo-dome 10% cream 100g,eczema preparations,allergy prescriptions
+m518.,carbo-dome 10% cream 30g,eczema preparations,allergy prescriptions
+m51N.,coal tar solution+hydrocortisone 3%/0.25% cream,eczema preparations,allergy prescriptions
+x00Fn,carbo-cort cream,eczema preparations,allergy prescriptions
+m51q.,carbo-cort cream 30g,eczema preparations,allergy prescriptions
+m51S.,coal tar+lecithin 6/0.4% cream,eczema preparations,allergy prescriptions
+x00HK,psoriderm cream,eczema preparations,allergy prescriptions
+m51g.,psoriderm cream 225ml,eczema preparations,allergy prescriptions
+m512.,coal tar+salicylic acid ointment bp,eczema preparations,allergy prescriptions
+x00Mp,gelcosal gel,eczema preparations,allergy prescriptions
+m51t.,gelcosal 5% gel 50g,eczema preparations,allergy prescriptions
+x00V6,gelcotar liquid,eczema preparations,allergy prescriptions
+mb1a.,gelcotar liquid 150ml,eczema preparations,allergy prescriptions
+mb1x.,gelcotar liquid 350ml,eczema preparations,allergy prescriptions
+x01Fe,meditar 5% waxstick,eczema preparations,allergy prescriptions
+m51e.,meditar 5% wax stick x1,eczema preparations,allergy prescriptions
+x00HE,pragmatar cream,eczema preparations,allergy prescriptions
+m51x.,pragmatar cream 100g,eczema preparations,allergy prescriptions
+m51f.,pragmatar cream 25g,eczema preparations,allergy prescriptions
+m51D.,strong coal tar 40% solution,eczema preparations,allergy prescriptions
+m51U.,strong coal tar solution+pine tar 5/5% gel,eczema preparations,allergy prescriptions
+x00Mq,gelcotar gel,eczema preparations,allergy prescriptions
+m51d.,gelcotar gel 500g,eczema preparations,allergy prescriptions
+m51c.,gelcotar gel 50g,eczema preparations,allergy prescriptions
+x00Hb,tarcortin cream,eczema preparations,allergy prescriptions
+m51B.,tarcortin cream 100g,eczema preparations,allergy prescriptions
+m51r.,tarcortin cream 30g,eczema preparations,allergy prescriptions
+m51s.,tarcortin cream 45g,eczema preparations,allergy prescriptions
+m515.,zinc+coal tar paste bp,eczema preparations,allergy prescriptions
+x02YM,cutivate,eczema preparations,allergy prescriptions
+m4r9.,cutivate0.005% ointment 30g,eczema preparations,allergy prescriptions
+m4rA.,cutivate0.05% cream 30g,eczema preparations,allergy prescriptions
+m4r6.,cutivate 0.005% ointment,eczema preparations,allergy prescriptions
+m4r7.,cutivate 0.005% ointment 15g,eczema preparations,allergy prescriptions
+m4r8.,cutivate 0.005% ointment 50g,eczema preparations,allergy prescriptions
+m4r1.,cutivate 0.05% cream,eczema preparations,allergy prescriptions
+m4r3.,cutivate 0.05% cream 15g,eczema preparations,allergy prescriptions
+m4r4.,cutivate 0.05% cream 50g,eczema preparations,allergy prescriptions
+x04AG,daktacort,eczema preparations,allergy prescriptions
+x05YZ,daktacorthc,eczema preparations,allergy prescriptions
+x05YY,daktacort hc cream,eczema preparations,allergy prescriptions
+m45C.,daktacort hc cream 15g,eczema preparations,allergy prescriptions
+x00G0,daktacort cream,eczema preparations,allergy prescriptions
+m454.,daktacort cream 30g,eczema preparations,allergy prescriptions
+x00Wl,daktacort ointment,eczema preparations,allergy prescriptions
+m45v.,daktacort ointment 30g,eczema preparations,allergy prescriptions
+x04Ad,dermovate,eczema preparations,allergy prescriptions
+x04Ae,dermovatenn,eczema preparations,allergy prescriptions
+x03xY,dioderm,eczema preparations,allergy prescriptions
+x00G6,dioderm cream,eczema preparations,allergy prescriptions
+m41e.,dioderm 0.1% cream 30g,eczema preparations,allergy prescriptions
+x03xd,diprosalic,eczema preparations,allergy prescriptions
+x00Wp,diprosalic ointment,eczema preparations,allergy prescriptions
+m48d.,diprosalic 0.05% ointment 100g,eczema preparations,allergy prescriptions
+m48c.,diprosalic 0.05% ointment 30g,eczema preparations,allergy prescriptions
+x00br,diprosalic scalp application,eczema preparations,allergy prescriptions
+m48f.,diprosalic 0.05% scalp application 100ml,eczema preparations,allergy prescriptions
+m48e.,diprosalic 0.05% scalp application 30ml,eczema preparations,allergy prescriptions
+x03xe,diprosone,eczema preparations,allergy prescriptions
+x00G8,diprosone cream,eczema preparations,allergy prescriptions
+m48h.,diprosone 0.05% cream 100g,eczema preparations,allergy prescriptions
+m48g.,diprosone 0.05% cream 30g,eczema preparations,allergy prescriptions
+x00TG,diprosone lotion,eczema preparations,allergy prescriptions
+m48l.,diprosone 0.05% lotion 100ml,eczema preparations,allergy prescriptions
+m48k.,diprosone 0.05% lotion 30ml,eczema preparations,allergy prescriptions
+x00Wq,diprosone ointment,eczema preparations,allergy prescriptions
+m48j.,diprosone 0.05% ointment 100g,eczema preparations,allergy prescriptions
+m48i.,diprosone 0.05% ointment 30g,eczema preparations,allergy prescriptions
+x03x2,econacort,eczema preparations,allergy prescriptions
+x00GI,econacort cream,eczema preparations,allergy prescriptions
+m455.,econacort cream 30g,eczema preparations,allergy prescriptions
+m5...,preparations for psoriasis+eczema,eczema preparations,allergy prescriptions
+x03xG,elocon,eczema preparations,allergy prescriptions
+x01Nl,elocon cream,eczema preparations,allergy prescriptions
+m4qA.,elocon cream 100g,eczema preparations,allergy prescriptions
+m4q1.,elocon cream 30g,eczema preparations,allergy prescriptions
+x01Nh,elocon ointment,eczema preparations,allergy prescriptions
+m4qB.,elocon ointment 100g,eczema preparations,allergy prescriptions
+m4q3.,elocon ointment 30g,eczema preparations,allergy prescriptions
+x01Nj,elocon scalp lotion,eczema preparations,allergy prescriptions
+m4q2.,elocon lotion 30ml,eczema preparations,allergy prescriptions
+x01Hq,topical erythromycin,eczema preparations,allergy prescriptions
+m67A.,erythromycin 2% topical gel,eczema preparations,allergy prescriptions
+x04qz,eryacne 2 topical gel,eczema preparations,allergy prescriptions
+m67C.,eryacne 2 topical gel 30g,eczema preparations,allergy prescriptions
+m675.,erythromycin 2% topical solution,eczema preparations,allergy prescriptions
+m671.,erythromycin 2% lotion 25mlx2,eczema preparations,allergy prescriptions
+m674.,stiemycin solution,eczema preparations,allergy prescriptions
+m672.,stiemycin 2% lotion 25mlx2,eczema preparations,allergy prescriptions
+m679.,erythromycin 3% in benzoyl peroxide topical gel,eczema preparations,allergy prescriptions
+m678.,benzamycin topical gel,eczema preparations,allergy prescriptions
+m67B.,erythromycin 4% topical gel,eczema preparations,allergy prescriptions
+x04r0,eryacne 4 topical gel,eczema preparations,allergy prescriptions
+m67D.,eryacne 4 topical gel 30g,eczema preparations,allergy prescriptions
+m67z.,erythromycin+tretinoin 4%/0.025% topical solution,eczema preparations,allergy prescriptions
+x05CX,aknemycin plus solution,eczema preparations,allergy prescriptions
+m67E.,aknemycin plus solution 25ml,eczema preparations,allergy prescriptions
+m676.,erythromycin+zinc acetate 40mg/12mg/ml topical solution,eczema preparations,allergy prescriptions
+x027U,zineryt topical solution,eczema preparations,allergy prescriptions
+m673.,zineryt lotion 30ml,eczema preparations,allergy prescriptions
+m677.,zineryt lotion 90ml,eczema preparations,allergy prescriptions
+m693.,isotretinoin+erythromycin 0.05%/2% gel,eczema preparations,allergy prescriptions
+x03li,isotrexin gel,eczema preparations,allergy prescriptions
+m694.,isotrexin gel 30g,eczema preparations,allergy prescriptions
+m4ah.,etrivex500micrograms/g shampoo 125ml,eczema preparations,allergy prescriptions
+x00GS,eumovate cream,eczema preparations,allergy prescriptions
+m4b2.,eumovate 0.05% cream 100g,eczema preparations,allergy prescriptions
+m4b7.,eumovate 0.05% cream 15g,eczema preparations,allergy prescriptions
+m4b1.,eumovate 0.05% cream 30g,eczema preparations,allergy prescriptions
+x00Wx,eumovate ointment,eczema preparations,allergy prescriptions
+m4b4.,eumovate 0.05% ointment 100g,eczema preparations,allergy prescriptions
+m4b3.,eumovate 0.05% ointment 30g,eczema preparations,allergy prescriptions
+m49f.,fucibetlipid cream 30g,eczema preparations,allergy prescriptions
+x00GY,fucibet cream,eczema preparations,allergy prescriptions
+m49c.,fucibet cream 15g,eczema preparations,allergy prescriptions
+m49d.,fucibet cream 30g,eczema preparations,allergy prescriptions
+m49e.,fucibet cream 60g,eczema preparations,allergy prescriptions
+x03zz,fucibet,eczema preparations,allergy prescriptions
+x01NH,haelan 0.0125% cream,eczema preparations,allergy prescriptions
+m4j1.,haelan 0.0125% cream 60g,eczema preparations,allergy prescriptions
+x01NI,haelan 0.0125% ointment,eczema preparations,allergy prescriptions
+m4j2.,haelan 0.0125% ointment 60g,eczema preparations,allergy prescriptions
+x01NM,haelan c 0.0125% cream,eczema preparations,allergy prescriptions
+m4j5.,haelan-c 0.0125% cream 30g,eczema preparations,allergy prescriptions
+x01NL,haelan c 0.0125% ointment,eczema preparations,allergy prescriptions
+m4j6.,haelan-c 0.0125% ointment 30g,eczema preparations,allergy prescriptions
+x01NK,haelan x 0.05% cream,eczema preparations,allergy prescriptions
+m4j3.,haelan-x 0.05% cream 15g,eczema preparations,allergy prescriptions
+x01NJ,haelan x 0.05% ointment,eczema preparations,allergy prescriptions
+m4j4.,haelan-x 0.05% ointment 15g,eczema preparations,allergy prescriptions
+m51W.,coaltar extract+hydrocortisone 3%/0.25% cream,eczema preparations,allergy prescriptions
+m4l..,hydrocortisone butyrate,eczema preparations,allergy prescriptions
+x00Gx,locoid c 0.1% cream,eczema preparations,allergy prescriptions
+m4l8.,locoid c 0.1% cream 30g,eczema preparations,allergy prescriptions
+x00XC,locoid c 0.1% ointment,eczema preparations,allergy prescriptions
+m4l9.,locoid c 0.1% ointment 30g,eczema preparations,allergy prescriptions
+x0066,hydrocortisone+nystatin,eczema preparations,allergy prescriptions
+x00X2,gregoderm ointment,eczema preparations,allergy prescriptions
+m45g.,gregoderm ointment 15g,eczema preparations,allergy prescriptions
+m45f.,gregoderm ointment 4g,eczema preparations,allergy prescriptions
+x00H9,nystaform-hc 0.5% cream,eczema preparations,allergy prescriptions
+m45j.,nystaform-hc 0.5% cream 15g,eczema preparations,allergy prescriptions
+m45k.,nystaform-hc 0.5% cream 30g,eczema preparations,allergy prescriptions
+x00XI,nystaform-hc 1% ointment,eczema preparations,allergy prescriptions
+m45l.,nystaform-hc 1% ointment 30g,eczema preparations,allergy prescriptions
+x00Hd,terra-cortril nystatin cream,eczema preparations,allergy prescriptions
+m45r.,terra-cortril nystatin cream 30g,eczema preparations,allergy prescriptions
+x00He,timodine cream,eczema preparations,allergy prescriptions
+m45s.,timodine cream 30g,eczema preparations,allergy prescriptions
+x00XQ,terra-cortril ointment,eczema preparations,allergy prescriptions
+m45n.,terra-cortril ointment 15g,eczema preparations,allergy prescriptions
+m45o.,terra-cortril ointment 30g,eczema preparations,allergy prescriptions
+m44z.,hydrocortisone+urea 1%/10% cream,eczema preparations,allergy prescriptions
+m431.,hydrocortisone 1% lotion,eczema preparations,allergy prescriptions
+x01NR,efcortelan 1% lotion,eczema preparations,allergy prescriptions
+m432.,efcortelan 1% lotion 20ml,eczema preparations,allergy prescriptions
+m4lt.,hydrocortisone butyrate 0.1% emulsion,eczema preparations,allergy prescriptions
+m4lb.,locoid crelo 0.1% emulsion,eczema preparations,allergy prescriptions
+m4lz.,hydrocortisone butyrate 0.1% scalp lotion,eczema preparations,allergy prescriptions
+x00bs,locoid 0.1% scalp lotion,eczema preparations,allergy prescriptions
+m4l7.,locoid 0.1% scalp lotion 100ml,eczema preparations,allergy prescriptions
+m4l6.,locoid 0.1% scalp lotion 30ml,eczema preparations,allergy prescriptions
+m41..,hydrocortisone creams,eczema preparations,allergy prescriptions
+m41u.,hydrocortisone 0.1% cream,eczema preparations,allergy prescriptions
+x04pc,dayleve 0.1% cream,eczema preparations,allergy prescriptions
+m41t.,dayleve 0.1% cream 15g,eczema preparations,allergy prescriptions
+m41q.,dermacort cream,eczema preparations,allergy prescriptions
+m415.,hydrocortisone 0.1% cream 30g,eczema preparations,allergy prescriptions
+m416.,hydrocortisone 0.125% cream,eczema preparations,allergy prescriptions
+m41f.,dome-cort 0.125% cream,eczema preparations,allergy prescriptions
+x00Gl,hydrocortisone 0.5% cream,eczema preparations,allergy prescriptions
+x00GM,efcortelan 0.5% cream,eczema preparations,allergy prescriptions
+m41g.,efcortelan 0.5% cream 15g,eczema preparations,allergy prescriptions
+m41n.,efcortelan 0.5% cream 30g,eczema preparations,allergy prescriptions
+m41a.,hydrocortisone 0.5% cream 100g,eczema preparations,allergy prescriptions
+m417.,hydrocortisone 0.5% cream 15g,eczema preparations,allergy prescriptions
+m418.,hydrocortisone 0.5% cream 30g,eczema preparations,allergy prescriptions
+m419.,hydrocortisone 0.5% cream 50g,eczema preparations,allergy prescriptions
+m41D.,hydrocortisone 1% aqueous cream,eczema preparations,allergy prescriptions
+m41v.,zenoxone 1% aqueous cream,eczema preparations,allergy prescriptions
+x00Gm,hydrocortisone 1% cream,eczema preparations,allergy prescriptions
+x00GN,efcortelan 1% cream,eczema preparations,allergy prescriptions
+m41o.,efcortelan 1% cream 30g,eczema preparations,allergy prescriptions
+m41i.,efcortelan 1% cream 50g,eczema preparations,allergy prescriptions
+m41h.,efcortelan p 1% cream 15g,eczema preparations,allergy prescriptions
+x05r8,exe-cort hydrocortisone 1% cream,eczema preparations,allergy prescriptions
+m41w.,exe-cort hydrocortisone 1% cream 15g,eczema preparations,allergy prescriptions
+m41r.,hc45 cream,eczema preparations,allergy prescriptions
+m414.,hydrocortisone 1% cream 100g,eczema preparations,allergy prescriptions
+m411.,hydrocortisone 1% cream 15g,eczema preparations,allergy prescriptions
+m412.,hydrocortisone 1% cream 30g,eczema preparations,allergy prescriptions
+m413.,hydrocortisone 1% cream 50g,eczema preparations,allergy prescriptions
+x00Gp,hydrocortisyl 1% cream,eczema preparations,allergy prescriptions
+m41l.,hydrocortisyl 1% cream 15g,eczema preparations,allergy prescriptions
+m41s.,kerfoot hydrocortisone cream,eczema preparations,allergy prescriptions
+x00H2,mildison lipocream 1% cream,eczema preparations,allergy prescriptions
+m41m.,mildison lipocream 1% cream 30g,eczema preparations,allergy prescriptions
+m41b.,hydrocortisone 2.5% cream,eczema preparations,allergy prescriptions
+x00GO,efcortelan 2.5% cream,eczema preparations,allergy prescriptions
+m41j.,efcortelan 2.5% cream 15g,eczema preparations,allergy prescriptions
+m41p.,efcortelan 2.5% cream 30g,eczema preparations,allergy prescriptions
+m41A.,hydrocortisone 2.5% cream 15g,eczema preparations,allergy prescriptions
+m41B.,hydrocortisone 2.5% cream 30g,eczema preparations,allergy prescriptions
+m41C.,hydrocortisone 2.5% cream 50g,eczema preparations,allergy prescriptions
+m4pz.,hydrocortisone acetate 1% cream,eczema preparations,allergy prescriptions
+m4p1.,hydrocal 1% cream,eczema preparations,allergy prescriptions
+x00Go,hydrocortistab 1% cream,eczema preparations,allergy prescriptions
+m41k.,hydrocortistab 1% cream 15g,eczema preparations,allergy prescriptions
+m4p2.,lanacort cream,eczema preparations,allergy prescriptions
+m4lw.,hydrocortisone butyrate 0.1% cream,eczema preparations,allergy prescriptions
+x00Gw,locoid 0.1% cream,eczema preparations,allergy prescriptions
+m4l2.,locoid 0.1% cream 100g,eczema preparations,allergy prescriptions
+m4l1.,locoid 0.1% cream 30g,eczema preparations,allergy prescriptions
+m4lx.,hydrocortisone butyrate 0.1% lipocream,eczema preparations,allergy prescriptions
+x00Tx,locoid 0.1% lipocream,eczema preparations,allergy prescriptions
+m4la.,locoid 0.1% lipocream 100g,eczema preparations,allergy prescriptions
+m4l3.,locoid 0.1% lipocream 30g,eczema preparations,allergy prescriptions
+m42..,hydrocortisone ointments,eczema preparations,allergy prescriptions
+m42D.,hydrocortisone 1% ointment 50g,eczema preparations,allergy prescriptions
+x027S,hydrocortisone 0.5% ointment,eczema preparations,allergy prescriptions
+x00Wu,efcortelan 0.5% ointment,eczema preparations,allergy prescriptions
+m425.,efcortelan 0.5% ointment 15g,eczema preparations,allergy prescriptions
+m42c.,efcortelan 0.5% ointment 30g,eczema preparations,allergy prescriptions
+m421.,hydrocortisone 0.5% ointment 15g,eczema preparations,allergy prescriptions
+x00X5,hydrocortisone 1% ointment,eczema preparations,allergy prescriptions
+x00Wv,efcortelan 1% ointment,eczema preparations,allergy prescriptions
+m42d.,efcortelan 1% ointment 30g,eczema preparations,allergy prescriptions
+m427.,efcortelan 1% ointment 50g,eczema preparations,allergy prescriptions
+m426.,efcortelan p 1% ointment 15g,eczema preparations,allergy prescriptions
+m424.,hydrocortisone 1% ointment 100g,eczema preparations,allergy prescriptions
+m422.,hydrocortisone 1% ointment 15g,eczema preparations,allergy prescriptions
+m423.,hydrocortisone 1% ointment 30g,eczema preparations,allergy prescriptions
+x00X7,hydrocortistab 1% ointment,eczema preparations,allergy prescriptions
+m429.,hydrocortistab 1% ointment 15g,eczema preparations,allergy prescriptions
+x00X8,hydrocortisyl 1% ointment,eczema preparations,allergy prescriptions
+m42a.,hydrocortisyl 1% ointment 15g,eczema preparations,allergy prescriptions
+m42b.,hydrocortisone 2.5% ointment,eczema preparations,allergy prescriptions
+x00Ww,efcortelan 2.5% ointment,eczema preparations,allergy prescriptions
+m428.,efcortelan 2.5% ointment 15g,eczema preparations,allergy prescriptions
+m42e.,efcortelan 2.5% ointment 30g,eczema preparations,allergy prescriptions
+m42A.,hydrocortisone 2.5% ointment 15g,eczema preparations,allergy prescriptions
+m42B.,hydrocortisone 2.5% ointment 30g,eczema preparations,allergy prescriptions
+m42C.,hydrocortisone 2.5% ointment 50g,eczema preparations,allergy prescriptions
+m42g.,hydrocortisone acetate 1% ointment,eczema preparations,allergy prescriptions
+m42f.,lanacort ointment,eczema preparations,allergy prescriptions
+m4ly.,hydrocortisone butyrate 0.1% ointment,eczema preparations,allergy prescriptions
+x00XB,locoid 0.1% ointment,eczema preparations,allergy prescriptions
+m4l5.,locoid 0.1% ointment 100g,eczema preparations,allergy prescriptions
+m4l4.,locoid 0.1% ointment 30g,eczema preparations,allergy prescriptions
+p5f4.,zinc paste+ichthammol bandage,eczema preparations,allergy prescriptions
+m567.,zinc paste and ichthammol 15%/2% 7.5cmx6m bandage,eczema preparations,allergy prescriptions
+m565.,ichthaband 7.5cmx6m bandage,eczema preparations,allergy prescriptions
+m566.,zinc paste and ichthammol 6%/2% 7.5cmx6m bandage,eczema preparations,allergy prescriptions
+m564.,ichthopaste 7.5cmx6m bandage,eczema preparations,allergy prescriptions
+m56..,ichthammol,eczema preparations,allergy prescriptions
+m561.,ichthammol 10% ointment bp,eczema preparations,allergy prescriptions
+m562.,zinc+ichthammol cream bp,eczema preparations,allergy prescriptions
+me62.,ketoconazole 2% cream,eczema preparations,allergy prescriptions
+x058t,daktarin gold 2% cream,eczema preparations,allergy prescriptions
+me63.,daktarin gold 2% cream 15g,eczema preparations,allergy prescriptions
+x027k,nizoral 2% cream,eczema preparations,allergy prescriptions
+g451.,nizoral 2% cream 15g,eczema preparations,allergy prescriptions
+me61.,nizoral 2% cream 30g,eczema preparations,allergy prescriptions
+me6..,ketoconazole [skin],eczema preparations,allergy prescriptions
+x03cb,locoid,eczema preparations,allergy prescriptions
+x03vX,locoidc,eczema preparations,allergy prescriptions
+x03ca,locoidcrelo,eczema preparations,allergy prescriptions
+m4lb.,locoidcrelo 0.1% emulsion,eczema preparations,allergy prescriptions
+x03vh,lotriderm,eczema preparations,allergy prescriptions
+x00Gy,lotriderm cream,eczema preparations,allergy prescriptions
+me46.,lotriderm cream 15g,eczema preparations,allergy prescriptions
+me4D.,lotriderm cream 30g,eczema preparations,allergy prescriptions
+x0448,metosyn,eczema preparations,allergy prescriptions
+x01N6,metosyn 0.05% cream,eczema preparations,allergy prescriptions
+m4h2.,metosyn 0.05% cream 100g,eczema preparations,allergy prescriptions
+m4h1.,metosyn 0.05% cream 25g,eczema preparations,allergy prescriptions
+x01N7,metosyn 0.05% ointment,eczema preparations,allergy prescriptions
+m4h4.,metosyn 0.05% ointment 100g,eczema preparations,allergy prescriptions
+m4h3.,metosyn 0.05% ointment 25g,eczema preparations,allergy prescriptions
+x01N8,metosyn 0.05% scalp application,eczema preparations,allergy prescriptions
+m4h5.,metosyn 0.05% scalp application 30ml,eczema preparations,allergy prescriptions
+x041i,mildisonlipocream,eczema preparations,allergy prescriptions
+x03so,modrasone,eczema preparations,allergy prescriptions
+x01MO,modrasone 0.05% cream,eczema preparations,allergy prescriptions
+m461.,modrasone 0.05% cream 15g,eczema preparations,allergy prescriptions
+m462.,modrasone 0.05% cream 50g,eczema preparations,allergy prescriptions
+x01MP,modrasone 0.05% ointment,eczema preparations,allergy prescriptions
+m463.,modrasone 0.05% ointment 15g,eczema preparations,allergy prescriptions
+m464.,modrasone 0.05% ointment 50g,eczema preparations,allergy prescriptions
+x05ks,topical mometasone,eczema preparations,allergy prescriptions
+m4q7.,mometasone furoate 0.1% cream,eczema preparations,allergy prescriptions
+m4q4.,mometasone furoate 0.1% cream 30g,eczema preparations,allergy prescriptions
+m4q9.,mometasone furoate 0.1% lotion,eczema preparations,allergy prescriptions
+m4q5.,mometasone furoate 0.1% lotion 30ml,eczema preparations,allergy prescriptions
+m4q8.,mometasone furoate 0.1% ointment,eczema preparations,allergy prescriptions
+m4q6.,mometasone furoate 0.1% ointment 30g,eczema preparations,allergy prescriptions
+m4q..,mometasone furoate [topical],eczema preparations,allergy prescriptions
+m49s.,betamethasoneneomycin 0.1%/0.5% cream,eczema preparations,allergy prescriptions
+m49r.,betamethasoneneomycin 0.1%/0.5% ointment,eczema preparations,allergy prescriptions
+m49x.,betamethasone+neomycin sulphate 0.1/0.5% cream,eczema preparations,allergy prescriptions
+m49w.,betamethasone+neomycin sulphate 0.1/0.5% ointment,eczema preparations,allergy prescriptions
+m49b.,betnovate n 0.1% lotion,eczema preparations,allergy prescriptions
+x01Mx,synalar n 0.025% cream,eczema preparations,allergy prescriptions
+m4ge.,synalar n 0.025% cream 15g,eczema preparations,allergy prescriptions
+m4gf.,synalar n 0.025% cream 30g,eczema preparations,allergy prescriptions
+x01Mw,synalar n 0.025% ointment,eczema preparations,allergy prescriptions
+m4gg.,synalar n 0.025% ointment 15g,eczema preparations,allergy prescriptions
+m4gh.,synalar n 0.025% ointment 30g,eczema preparations,allergy prescriptions
+x045l,nerisone,eczema preparations,allergy prescriptions
+x045m,nerisoneforte,eczema preparations,allergy prescriptions
+x01Mm,nerisone 0.1% cream,eczema preparations,allergy prescriptions
+m4e1.,nerisone 0.1% cream 30g,eczema preparations,allergy prescriptions
+x01Mp,nerisone 0.1% oily cream,eczema preparations,allergy prescriptions
+m4e2.,nerisone 0.1% oily cream 30g,eczema preparations,allergy prescriptions
+x01Mn,nerisone 0.1% ointment,eczema preparations,allergy prescriptions
+m4e3.,nerisone 0.1% ointment 30g,eczema preparations,allergy prescriptions
+x01Mq,nerisone forte 0.3% oily cream,eczema preparations,allergy prescriptions
+m4e4.,nerisone forte 0.3% oily cream 15g,eczema preparations,allergy prescriptions
+x01Mo,nerisone forte 0.3% ointment,eczema preparations,allergy prescriptions
+m4e5.,nerisone forte 0.3% ointment 15g,eczema preparations,allergy prescriptions
+m5F..,pimecrolimus,eczema preparations,allergy prescriptions
+m5F1.,pimecrolimus 10mg/g cream,eczema preparations,allergy prescriptions
+x05hy,elidel 1% cream,eczema preparations,allergy prescriptions
+m5F2.,elidel 1% cream 30g,eczema preparations,allergy prescriptions
+x048o,synalar,eczema preparations,allergy prescriptions
+x048p,synalar1:4,eczema preparations,allergy prescriptions
+x048q,synalarc,eczema preparations,allergy prescriptions
+x048r,synalarn,eczema preparations,allergy prescriptions
+x01N3,synalar 0.025% cream,eczema preparations,allergy prescriptions
+m4g1.,synalar 0.025% cream 15g,eczema preparations,allergy prescriptions
+m4g2.,synalar 0.025% cream 30g,eczema preparations,allergy prescriptions
+m4g3.,synalar 0.025% cream 50g,eczema preparations,allergy prescriptions
+x01N5,synalar 0.025% gel,eczema preparations,allergy prescriptions
+m4gj.,synalar 0.025% gel 60g,eczema preparations,allergy prescriptions
+m4g4.,synalar 0.025% gel 30g,eczema preparations,allergy prescriptions
+x01N4,synalar 0.025% ointment,eczema preparations,allergy prescriptions
+m4g5.,synalar 0.025% ointment 15g,eczema preparations,allergy prescriptions
+m4g6.,synalar 0.025% ointment 30g,eczema preparations,allergy prescriptions
+m4g7.,synalar 0.025% ointment 50g,eczema preparations,allergy prescriptions
+x029T,synalar 1:10 cream,eczema preparations,allergy prescriptions
+m4g9.,synalar 1:10 cream 50g,eczema preparations,allergy prescriptions
+x01N2,synalar 1:4 cream,eczema preparations,allergy prescriptions
+m4g8.,synalar 1:4 cream 50g,eczema preparations,allergy prescriptions
+x01N1,synalar 1:4 ointment,eczema preparations,allergy prescriptions
+m4gi.,synalar 1:4 ointment 50g,eczema preparations,allergy prescriptions
+x03yb,timodine,eczema preparations,allergy prescriptions
+x03tQ,trimovate,eczema preparations,allergy prescriptions
+x00Hl,trimovate cream,eczema preparations,allergy prescriptions
+m4b5.,trimovate cream 30g,eczema preparations,allergy prescriptions
+x01Mb,trimovate ointment,eczema preparations,allergy prescriptions
+m4b6.,trimovate ointment 30g,eczema preparations,allergy prescriptions
+x03yg,ultralanumplain,eczema preparations,allergy prescriptions
+x01ND,ultralanum plain cream,eczema preparations,allergy prescriptions
+m4i5.,ultralanum plain cream 30g,eczema preparations,allergy prescriptions
+m4if.,ultralanum plain cream 50g,eczema preparations,allergy prescriptions
+x01NF,ultralanum plain ointment,eczema preparations,allergy prescriptions
+m4i7.,ultralanum plain ointment 30g,eczema preparations,allergy prescriptions
+m4ig.,ultralanum plain ointment 50g,eczema preparations,allergy prescriptions
+x01NE,ultralanum cream,eczema preparations,allergy prescriptions
+m4i6.,ultralanum cream 50g,eczema preparations,allergy prescriptions
+x01NG,ultralanum ointment,eczema preparations,allergy prescriptions
+m4i8.,ultralanum ointment 50g,eczema preparations,allergy prescriptions
+m51i.,zinc paste + coal tar bandage,eczema preparations,allergy prescriptions
+m52..,bufexamac,eczema preparations,allergy prescriptions
+m521.,parfenac 5% cream 15g,eczema preparations,allergy prescriptions
+m522.,parfenac 5% cream 30g,eczema preparations,allergy prescriptions
+m52z.,bufexamac 5% cream,eczema preparations,allergy prescriptions
+m55..,etretinate,eczema preparations,allergy prescriptions
+m551.,tigason 10mg capsules,eczema preparations,allergy prescriptions
+m552.,tigason 25mg capsules,eczema preparations,allergy prescriptions
+m55y.,etretinate 10mg capsules,eczema preparations,allergy prescriptions
+m55z.,etretinate 25mg capsules,eczema preparations,allergy prescriptions
+m5E..,tacrolimus [skin],eczema preparations,allergy prescriptions
+m5E1.,tacrolimus monohydrate 0.03% ointment,eczema preparations,allergy prescriptions
+m5E2.,tacrolimus monohydrate 0.1% ointment,eczema preparations,allergy prescriptions
+m5E3.,protopic 0.03% ointment 30g,eczema preparations,allergy prescriptions
+m5E4.,protopic 0.03% ointment 60g,eczema preparations,allergy prescriptions
+m5E5.,protopic 0.1% ointment 30g,eczema preparations,allergy prescriptions
+m5E6.,protopic 0.1% ointment 60g,eczema preparations,allergy prescriptions
+bp11.,adrenaline 500micrograms injection,adrenaline,allergy prescriptions
+bp12.,adrenaline 1mg/ml injection,adrenaline,allergy prescriptions
+bp18.,adrenaline ic 1mg/10ml injection,adrenaline,allergy prescriptions
+bp19.,adrenaline 1mg/10ml injection,adrenaline,allergy prescriptions
+bp1A.,epipen 300micrograms/0.3ml preloaded injection pen,adrenaline,allergy prescriptions
+bp1B.,epipen jr 150micrograms/0.3ml preloaded injection pen,adrenaline,allergy prescriptions
+bp1C.,adrenaline 300micrograms/0.3ml preloaded injection pen,adrenaline,allergy prescriptions
+bp1D.,adrenaline 150micrograms/0.3ml preloaded injection pen,adrenaline,allergy prescriptions
+bp1G.,anapen 300micrograms/0.3ml preloaded injection pen,adrenaline,allergy prescriptions
+bp1H.,anapen junior 150micrograms/0.3ml preloaded injection pen,adrenaline,allergy prescriptions
+bp1I.,anapen 500micrograms/0.3ml preloaded injection pen,adrenaline,allergy prescriptions
+bp1J.,adrenaline 500micrograms/0.3ml preloaded injection pen,adrenaline,allergy prescriptions
+bp1K.,jext 150micrograms/0.15ml soln for injection prefilled pen,adrenaline,allergy prescriptions
+bp1L.,adrenaline 150micrograms/0.15ml preloaded injection pen,adrenaline,allergy prescriptions
+bp1M.,jext 300micrograms/0.3ml soln for injection prefilled pen,adrenaline,allergy prescriptions
+bp1N.,emerade 150micrograms/0.15ml soln for inj prefilled pen,adrenaline,allergy prescriptions
+bp1O.,emerade 300micrograms/0.3ml soln for injection prefilled pen,adrenaline,allergy prescriptions
+bp1P.,emerade 500micrograms/0.5ml soln for injection prefilled pen,adrenaline,allergy prescriptions
+bp1Q.,"adrenaline 1:10,000 1mg/10ml soln for inj prefilled syringe",adrenaline,allergy prescriptions
+bp1R.,"adrenaline 1:10,000 100micrograms/1ml solution for injection",adrenaline,allergy prescriptions
+bp1S.,"adrenaline 1:10,000 500micrograms/5ml solution for injection",adrenaline,allergy prescriptions
+bp1a.,adrenaline 300microgram/3ml injection,adrenaline,allergy prescriptions
+bp1b.,adrenaline 1:1000 5mg/5ml injection,adrenaline,allergy prescriptions
+bp1x.,"adrenaline 1:10,000 100micrograms/1ml prefilled syringe",adrenaline,allergy prescriptions
+bp1y.,adrenaline 1:1000 1mg/1ml prefilled syringe,adrenaline,allergy prescriptions
+bp1z.,adrenaline 1:1000 5mg/5ml prefilled syringe,adrenaline,allergy prescriptions
+bp1..,adrenaline [cardiovascular use],adrenaline,allergy prescriptions
+x02bV,epipen,adrenaline,allergy prescriptions
+x02bW,epipen jr,adrenaline,allergy prescriptions
+x05Xw,anapen,adrenaline,allergy prescriptions
+x05Xx,anapen junior,adrenaline,allergy prescriptions

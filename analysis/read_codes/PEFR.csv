@@ -1,0 +1,45 @@
+read_code,read_term,cat1,cat2,QOF,Manual
+33950,Diurnal variation of peak expiratory flow rate,PEFR,home_monitoring,1,NA
+339A.,Peak flow rate before bronchodilation,PEFR,PEFR,1,NA
+339B.,Peak flow rate after bronchodilation,PEFR,post,1,NA
+339c.,Peak expiratory flow rate pre steroids,PEFR,PEFR,1,NA
+339d.,Peak expiratory flow rate post steroids,PEFR,post,1,NA
+339g.,Serial peak expiratory flow rate,PEFR,home_monitoring,1,NA
+339n.,Serial peak expiratory flow rate abnormal,PEFR,home_monitoring,1,NA
+66Yc.,Number of consecutive days at less than 80% peak expiratory flow rate,PEFR,home_monitoring,1,NA
+66YX.,Peak expiratory flow rate monitoring,PEFR,home_monitoring,1,NA
+66YY.,Peak expiratory flow rate monitoring using diary,PEFR,home_monitoring,1,NA
+X77RW,Serial peak expiratory flow rate,PEFR,home_monitoring,1,NA
+XaEGA,Peak expiratory flow rate after bronchodilation,PEFR,post,1,NA
+XaEHe,Peak expiratory flow rate before bronchodilation,PEFR,PEFR,1,NA
+XaIxD,Peak expiratory flow rate monitoring,PEFR,home_monitoring,1,NA
+XaIxP,Peak expiratory flow rate monitoring using diary,PEFR,home_monitoring,1,NA
+XaIxS,Peak expiratory flow rate pre steroids,PEFR,PEFR,1,NA
+XaIxT,Peak expiratory flow rate post steroids,PEFR,post,1,NA
+XaJEg,Serial peak expiratory flow rate abnormal,PEFR,home_monitoring,1,NA
+XaJvW,Number of consecutive days at less than 80% peak expiratory flow rate,PEFR,home_monitoring,1,NA
+XaXHh,Diurnal variation of peak expiratory flow rate,PEFR,home_monitoring,1,NA
+XaEFM,Peak flow rate,PEFR,PEFR,NA,1
+XE2wr,Peak expiratory flow rate,PEFR,PEFR,NA,1
+XE2rO,More than 80% of predicted peak flow rate,PEFR,>80% PEFR,NA,1
+XE2rP,60-80% of predicted peak flow rate,PEFR,60-80% PEFR,NA,1
+XE2rQ,Less than 60% of predicted peak flow rate,PEFR,<60% PEFR,NA,1
+XaKbt,Predicted peak expiratory flow rate using EN 13826 standard,PEFR,predicted PEFR,NA,1
+XaK6I,Peak expiratory flow rate measured using EN 13826 device,PEFR,PEFR,NA,1
+XaIL1,Recorded/predicted peak expiratory flow rate ratio,PEFR,% predicted PEFR,NA,1
+339H.,Predicted peak flow,PEFR,predicted PEFR,NA,1
+339F.,60-80% of predicted peak flow rate,PEFR,60-80% PEFR,NA,1
+339E.,More than 80% of predicted peak flow rate,PEFR,>80% PEFR,NA,1
+339G.,Less than 60% of predicted peak flow rate,PEFR,<60% PEFR,NA,1
+3395.,Peak flow rate,PEFR,PEFR,NA,1
+339p.,Predicted peak expiratory flow rate using EN 13826 standard,PEFR,predicted PEFR,NA,1
+339o.,Peak expiratory flow rate measured using EN 13826 device,PEFR,PEFR,NA,1
+XaEFL,Expected peak expiratory flow rate,PEFR,predicted PEFR,NA,1
+XE2wt,Expected peak flow rate,PEFR,predicted PEFR,NA,1
+339C.,Expected peak flow rate,PEFR,predicted PEFR,NA,1
+339V.,Recorded/predicted peak expiratory flow rate ratio,PEFR,% predicted PEFR,NA,1
+X77RP,Less than 60% of predicted peak expiratory flow rate,PEFR,<60% PEFR,NA,NA
+X77RQ,Less than 60% of predicted peak expiratory flow rate,PEFR,60-80% PEFR,NA,NA
+X77RR,More than 80% of predicted peak expiratory flow rate,PEFR,>80% PEFR,NA,NA
+XE2ws,Peak flow rate after bronchodilation,PEFR,post,NA,NA
+XE2xQ,Peak flow rate before bronchodilation,PEFR,PEFR,NA,NA

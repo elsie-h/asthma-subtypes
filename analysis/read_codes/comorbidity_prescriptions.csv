@@ -1,0 +1,663 @@
+read_code,read_term,cat2,cat1
+a61..,cimetidine,h2-antagonist,comorbidity prescription
+a611.,tagamet 200mg tablets,h2-antagonist,comorbidity prescription
+a612.,tagamet 400mg tablets,h2-antagonist,comorbidity prescription
+a613.,tagamet 800mg tablets,h2-antagonist,comorbidity prescription
+a614.,tagamet 200mg/5ml syrup,h2-antagonist,comorbidity prescription
+a617.,dyspamet chewtab 200mg chewable tablets,h2-antagonist,comorbidity prescription
+a618.,dyspamet 200mg/5ml suspension,h2-antagonist,comorbidity prescription
+a619.,cimetidine 200mg/5ml suspension 600ml,h2-antagonist,comorbidity prescription
+a61A.,galenamet 200mg tablets,h2-antagonist,comorbidity prescription
+a61B.,galenamet 400mg tablets,h2-antagonist,comorbidity prescription
+a61C.,galenamet 800mg tablets,h2-antagonist,comorbidity prescription
+a61D.,cimetidine 400mg effervescent tablets,h2-antagonist,comorbidity prescription
+a61E.,cimetidine 200mg chewable tablets,h2-antagonist,comorbidity prescription
+a61F.,phimetin 200mg tablets,h2-antagonist,comorbidity prescription
+a61G.,phimetin 400mg tablets,h2-antagonist,comorbidity prescription
+a61H.,phimetin 800mg tablets,h2-antagonist,comorbidity prescription
+a61I.,cimetidine 200mg/5ml sugar free oral solution,h2-antagonist,comorbidity prescription
+a61K.,zita 200mg tablets,h2-antagonist,comorbidity prescription
+a61L.,zita 400mg tablets,h2-antagonist,comorbidity prescription
+a61M.,zita 800mg tablets,h2-antagonist,comorbidity prescription
+a61N.,ultec 200mg tablets,h2-antagonist,comorbidity prescription
+a61O.,ultec 400mg tablets,h2-antagonist,comorbidity prescription
+a61P.,ultec 800mg tablets,h2-antagonist,comorbidity prescription
+a61Q.,acitak-200 tablets,h2-antagonist,comorbidity prescription
+a61R.,acitak-400 tablets,h2-antagonist,comorbidity prescription
+a61S.,acitak-800 tablets,h2-antagonist,comorbidity prescription
+a61T.,tagamet dual action liquid 200ml,h2-antagonist,comorbidity prescription
+a61U.,tagamet dual action liquid 600ml,h2-antagonist,comorbidity prescription
+a61a.,algitec 200mg/500mg chewable tablets,h2-antagonist,comorbidity prescription
+a61b.,algitec 100mg/250mg/5ml suspension 600ml,h2-antagonist,comorbidity prescription
+a61c.,cimetidine compound suspension,h2-antagonist,comorbidity prescription
+a61d.,tagamet effervescent 400mg tablets,h2-antagonist,comorbidity prescription
+a61e.,peptimax 200mg tablets,h2-antagonist,comorbidity prescription
+a61f.,peptimax 400mg tablets,h2-antagonist,comorbidity prescription
+a61g.,peptimax 800mg tablets,h2-antagonist,comorbidity prescription
+a61s.,cimetidine+alginic acid 200mg/500mg chewable tablets,h2-antagonist,comorbidity prescription
+a61t.,cimetidine+sodium alginate 100/250mg/5ml suspension,h2-antagonist,comorbidity prescription
+a61u.,cimetidine 200mg tablets,h2-antagonist,comorbidity prescription
+a61v.,cimetidine 400mg tablets,h2-antagonist,comorbidity prescription
+a61w.,cimetidine 800mg tablets,h2-antagonist,comorbidity prescription
+a61x.,cimetidine 200mg/5ml syrup,h2-antagonist,comorbidity prescription
+a62..,ranitidine,h2-antagonist,comorbidity prescription
+a621.,zantac 150mg tablets,h2-antagonist,comorbidity prescription
+a622.,zantac 150mg dispersible tablets,h2-antagonist,comorbidity prescription
+a623.,zantac 300mg tablets,h2-antagonist,comorbidity prescription
+a625.,zantac 150mg/10ml sugar free syrup 300ml,h2-antagonist,comorbidity prescription
+a626.,zantac effervescent 150mg tablets,h2-antagonist,comorbidity prescription
+a627.,zantac effervescent 300mg tablets,h2-antagonist,comorbidity prescription
+a628.,ranitidine 150mg effervescent tablets,h2-antagonist,comorbidity prescription
+a629.,ranitidine 300mg effervescent tablets,h2-antagonist,comorbidity prescription
+a62A.,raciran 150mg tablets,h2-antagonist,comorbidity prescription
+a62B.,raciran 300mg tablets,h2-antagonist,comorbidity prescription
+a62C.,zaedoc 150 tablets,h2-antagonist,comorbidity prescription
+a62D.,zaedoc 300 tablets,h2-antagonist,comorbidity prescription
+a62E.,rantec 150mg tablets,h2-antagonist,comorbidity prescription
+a62F.,rantec 300mg tablets,h2-antagonist,comorbidity prescription
+a62G.,ranitic 150mg tablets,h2-antagonist,comorbidity prescription
+a62H.,ranitic 300mg tablets,h2-antagonist,comorbidity prescription
+a62I.,histac 150mg tablets,h2-antagonist,comorbidity prescription
+a62J.,histac 300mg tablets,h2-antagonist,comorbidity prescription
+a62K.,ranitil 150mg tablets,h2-antagonist,comorbidity prescription
+a62L.,ranitil 300mg tablets,h2-antagonist,comorbidity prescription
+a62M.,zantac 75 dissolve effervescent tablets,h2-antagonist,comorbidity prescription
+a62N.,ranitidine 75mg tablets,h2-antagonist,comorbidity prescription
+a62O.,gavilast-p 75mg tablets,h2-antagonist,comorbidity prescription
+a62P.,ranzac 75mg tablets,h2-antagonist,comorbidity prescription
+a62Q.,zantac 75 tablets,h2-antagonist,comorbidity prescription
+a62u.,ranitidine 75mg effervescent tablets,h2-antagonist,comorbidity prescription
+a62v.,ranitidine 150mg/10ml sugar free syrup,h2-antagonist,comorbidity prescription
+a62w.,ranitidine 150mg tablets,h2-antagonist,comorbidity prescription
+a62x.,ranitidine 150mg dispersible tablets,h2-antagonist,comorbidity prescription
+a62y.,ranitidine 300mg tablets,h2-antagonist,comorbidity prescription
+a68..,famotidine,h2-antagonist,comorbidity prescription
+a681.,famotidine 20mg tablets,h2-antagonist,comorbidity prescription
+a682.,famotidine 40mg tablets,h2-antagonist,comorbidity prescription
+a683.,pepcid 20mg tablets,h2-antagonist,comorbidity prescription
+a684.,pepcid 40mg tablets,h2-antagonist,comorbidity prescription
+a69..,nizatidine,h2-antagonist,comorbidity prescription
+a691.,nizatidine 150mg capsules,h2-antagonist,comorbidity prescription
+a692.,nizatidine 300mg capsules,h2-antagonist,comorbidity prescription
+a693.,axid 150mg capsules,h2-antagonist,comorbidity prescription
+a694.,axid 300mg capsules,h2-antagonist,comorbidity prescription
+a697.,zinga 150mg capsules,h2-antagonist,comorbidity prescription
+a698.,zinga 300mg capsules,h2-antagonist,comorbidity prescription
+a6d..,ranitidine bismuth citrate,h2-antagonist,comorbidity prescription
+a6d1.,ranitidine bismuth citrate 400mg tablets,h2-antagonist,comorbidity prescription
+a6d2.,pylorid 400mg tablets,h2-antagonist,comorbidity prescription
+a616.,tagamet 400mg/100ml infusion,h2-antagonist,comorbidity prescription
+a61J.,cimetidine 400mg/100ml infusion,h2-antagonist,comorbidity prescription
+x00Xy,cimetidine 200mg/5ml oral suspension,h2-antagonist,comorbidity prescription
+x00eJ,algitec suspension,h2-antagonist,comorbidity prescription
+x00em,zantac 75mg/5ml sugar free syrup,h2-antagonist,comorbidity prescription
+x019N,oral cimetidine,h2-antagonist,comorbidity prescription
+x019O,parenteral cimetidine,h2-antagonist,comorbidity prescription
+x019P,cimetidine+alginate,h2-antagonist,comorbidity prescription
+x019Q,ranitidine,h2-antagonist,comorbidity prescription
+x019R,oral ranitidine,h2-antagonist,comorbidity prescription
+x019S,parenteral ranitidine,h2-antagonist,comorbidity prescription
+x02AK,famotidine 10mg tablet,h2-antagonist,comorbidity prescription
+x02AL,pepcid ac indigestion tablet,h2-antagonist,comorbidity prescription
+x02AM,cimetidine 100mg tablet,h2-antagonist,comorbidity prescription
+x02AN,tagamet 100 tablet,h2-antagonist,comorbidity prescription
+x02Sf,acitak,h2-antagonist,comorbidity prescription
+x02TC,algitec,h2-antagonist,comorbidity prescription
+x02Ur,axid,h2-antagonist,comorbidity prescription
+x02aq,dyspamet,h2-antagonist,comorbidity prescription
+x02db,galenamet,h2-antagonist,comorbidity prescription
+x02nB,pepcid,h2-antagonist,comorbidity prescription
+x02nC,pepcid ac,h2-antagonist,comorbidity prescription
+x02nD,peptimax,h2-antagonist,comorbidity prescription
+x02nP,phimetin,h2-antagonist,comorbidity prescription
+x02op,pylorid,h2-antagonist,comorbidity prescription
+x02s6,tagamet,h2-antagonist,comorbidity prescription
+x02uu,zantac,h2-antagonist,comorbidity prescription
+x02v5,zinga,h2-antagonist,comorbidity prescription
+x02v8,zita,h2-antagonist,comorbidity prescription
+x03dL,tagamet dual action liquid,h2-antagonist,comorbidity prescription
+x03n4,raciran,h2-antagonist,comorbidity prescription
+x03ug,peptimax 200,h2-antagonist,comorbidity prescription
+x03uh,peptimax 400,h2-antagonist,comorbidity prescription
+x03ui,peptimax 800,h2-antagonist,comorbidity prescription
+x03yG,tagamet 100,h2-antagonist,comorbidity prescription
+x03yH,tagamet dual action,h2-antagonist,comorbidity prescription
+x047P,acitak 200,h2-antagonist,comorbidity prescription
+x047Q,acitak 400,h2-antagonist,comorbidity prescription
+x047R,acitak 800,h2-antagonist,comorbidity prescription
+x049w,zantac 75,h2-antagonist,comorbidity prescription
+x04cM,zaedoc 150,h2-antagonist,comorbidity prescription
+x04cN,zaedoc 300,h2-antagonist,comorbidity prescription
+x04sG,rantec,h2-antagonist,comorbidity prescription
+x054I,ranitic,h2-antagonist,comorbidity prescription
+x05Er,ranzac,h2-antagonist,comorbidity prescription
+x05G6,histac,h2-antagonist,comorbidity prescription
+x05Xr,ranitil,h2-antagonist,comorbidity prescription
+x05mC,zantac dissolve,h2-antagonist,comorbidity prescription
+x05mn,pepcidtwo,h2-antagonist,comorbidity prescription
+x05pc,gavilast-p,h2-antagonist,comorbidity prescription
+a6h5.,emozul 20mg gastro-resistant capsules,proton pump inhibitor,comorbidity prescription
+a6h6.,emozul 40mg gastro-resistant capsules,proton pump inhibitor,comorbidity prescription
+a6h..,esomeprazole,proton pump inhibitor,comorbidity prescription
+a6h1.,nexium 20mg tablets,proton pump inhibitor,comorbidity prescription
+a6h2.,nexium 40mg tablets,proton pump inhibitor,comorbidity prescription
+a6h4.,nexium 10mg gastro-resistant granules for oral suspension,proton pump inhibitor,comorbidity prescription
+a6hu.,esomeprazole 40mg gastro-resistant capsules,proton pump inhibitor,comorbidity prescription
+a6hv.,esomeprazole 20mg gastro-resistant capsules,proton pump inhibitor,comorbidity prescription
+a6hw.,esomeprazole 10mg gastro-resistant granules for oral susp,proton pump inhibitor,comorbidity prescription
+a6hy.,esomeprazole 40mg tablets,proton pump inhibitor,comorbidity prescription
+a6hz.,esomeprazole 20mg tablets,proton pump inhibitor,comorbidity prescription
+j2cZ.,naproxen+esomeprazole 500mg/20mg m/r tablets,proton pump inhibitor,comorbidity prescription
+a6c..,lansoprazole,proton pump inhibitor,comorbidity prescription
+a6c1.,zoton 30mg capsules,proton pump inhibitor,comorbidity prescription
+a6c2.,lansoprazole 30mg capsules,proton pump inhibitor,comorbidity prescription
+a6c3.,lansoprazole 15mg capsules,proton pump inhibitor,comorbidity prescription
+a6c4.,zoton 15mg capsules,proton pump inhibitor,comorbidity prescription
+a6c5.,lansoprazole 30mg oral suspension,proton pump inhibitor,comorbidity prescription
+a6c6.,zoton 30mg oral suspension,proton pump inhibitor,comorbidity prescription
+a6c7.,lansoprazole 15mg oro-dispersible tablets,proton pump inhibitor,comorbidity prescription
+a6c8.,lansoprazole 30mg oro-dispersible tablets,proton pump inhibitor,comorbidity prescription
+a6c9.,zoton fastab 15mg oro-dispersible tablets,proton pump inhibitor,comorbidity prescription
+a6cA.,zoton fastab 30mg oro-dispersible tablets,proton pump inhibitor,comorbidity prescription
+a6b6.,losec 10mg capsules,proton pump inhibitor,comorbidity prescription
+a6b3.,losec 20mg capsules,proton pump inhibitor,comorbidity prescription
+a6b4.,losec 40mg capsules,proton pump inhibitor,comorbidity prescription
+a6bC.,losec mups 10mg tablets,proton pump inhibitor,comorbidity prescription
+a6bD.,losec mups 20mg tablets,proton pump inhibitor,comorbidity prescription
+a6bE.,losec mups 40mg tablets,proton pump inhibitor,comorbidity prescription
+a6bO.,mepradec 10mg e/c capsules,proton pump inhibitor,comorbidity prescription
+a6bP.,mepradec 20mg e/c capsules,proton pump inhibitor,comorbidity prescription
+a6bQ.,mezzopram 10mg gastro-resistant tablets,proton pump inhibitor,comorbidity prescription
+a6bR.,mezzopram 20mg gastro-resistant tablets,proton pump inhibitor,comorbidity prescription
+a6bS.,mezzopram 40mg gastro-resistant tablets,proton pump inhibitor,comorbidity prescription
+a6b..,omeprazole,proton pump inhibitor,comorbidity prescription
+a6b1.,omeprazole 20mg e/c capsules,proton pump inhibitor,comorbidity prescription
+a6b2.,losec 20mg capsules x28,proton pump inhibitor,comorbidity prescription
+a6b5.,omeprazole 40mg e/c capsules,proton pump inhibitor,comorbidity prescription
+a6b7.,omeprazole 10mg e/c capsules,proton pump inhibitor,comorbidity prescription
+a6bF.,omeran 10mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6bG.,omeran 20mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6bH.,omeran 40mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6bI.,zanprol 10mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6bJ.,galpharm heartburn relief 10mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6bK.,unichem heartburn relief 10mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6bL.,vantage pharmacy heartburn relief 10mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6bM.,care heartburn relief 10mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6bN.,numark heartburn relief 10mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6bu.,omeprazole 10mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6bv.,omeprazole 20mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6bw.,omeprazole 40mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6bx.,omeprazole 10mg tablets,proton pump inhibitor,comorbidity prescription
+a6by.,omeprazole 20mg tablets,proton pump inhibitor,comorbidity prescription
+a6bz.,omeprazole 40mg tablets,proton pump inhibitor,comorbidity prescription
+a6e7.,pantoloc control 20mg gastro-resistant tablets,proton pump inhibitor,comorbidity prescription
+a6e..,pantoprazole,proton pump inhibitor,comorbidity prescription
+a6e1.,pantoprazole 40mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6e2.,protium 40mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6e5.,pantoprazole 20mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6e6.,protium 20mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6f4.,pariet 20mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6f3.,pariet 10mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6f..,rabeprazole sodium,proton pump inhibitor,comorbidity prescription
+a6f1.,rabeprazole sodium 10mg e/c tablets,proton pump inhibitor,comorbidity prescription
+a6f2.,rabeprazole sodium 20mg e/c tablets,proton pump inhibitor,comorbidity prescription
+x02hx,losec,proton pump inhibitor,comorbidity prescription
+x02vD,zoton,proton pump inhibitor,comorbidity prescription
+x03ij,protium,proton pump inhibitor,comorbidity prescription
+x05BT,nexium,proton pump inhibitor,comorbidity prescription
+x05i0,omeran,proton pump inhibitor,comorbidity prescription
+x05sN,zanprol,proton pump inhibitor,comorbidity prescription
+daD..,agomelatine,anti-depressant,comorbidity prescription
+daD2.,agomelatine 25mg tablet,anti-depressant,comorbidity prescription
+x02TH,allegron,anti-depressant,comorbidity prescription
+d7c1.,allegron 10mg tablet,anti-depressant,comorbidity prescription
+d7c2.,allegron 25mg tablet,anti-depressant,comorbidity prescription
+da7e.,alventa xl 150mg m/r capsule,anti-depressant,comorbidity prescription
+da7d.,alventa xl 75mg m/r capsule,anti-depressant,comorbidity prescription
+x01Aw,amitriptyline,anti-depressant,comorbidity prescription
+d71y.,amitriptyline 10mg/5ml oral suspension,anti-depressant,comorbidity prescription
+d71j.,amitriptyline 10mg/5ml sugar free oral solution,anti-depressant,comorbidity prescription
+d71h.,amitriptyline 25mg/5ml s/f oral solution,anti-depressant,comorbidity prescription
+d71i.,amitriptyline 50mg/5ml s/f oral solution,anti-depressant,comorbidity prescription
+d71..,amitriptyline hydrochloride [antidepressant],anti-depressant,comorbidity prescription
+d71z.,amitriptyline hydrochloride 100mg/10ml injection,anti-depressant,comorbidity prescription
+d711.,amitriptyline hydrochloride 10mg tablet,anti-depressant,comorbidity prescription
+d71u.,amitriptyline hydrochloride 25mg m/r capsule,anti-depressant,comorbidity prescription
+d712.,amitriptyline hydrochloride 25mg tablet,anti-depressant,comorbidity prescription
+d71v.,amitriptyline hydrochloride 50mg m/r capsule,anti-depressant,comorbidity prescription
+d713.,amitriptyline hydrochloride 50mg tablet,anti-depressant,comorbidity prescription
+d71w.,amitriptyline hydrochloride 75mg m/r capsule,anti-depressant,comorbidity prescription
+x02Tr,anafranil,anti-depressant,comorbidity prescription
+d731.,anafranil 10mg capsule,anti-depressant,comorbidity prescription
+d732.,anafranil 25mg capsule,anti-depressant,comorbidity prescription
+d735.,anafranil 25mg/2ml injection,anti-depressant,comorbidity prescription
+d734.,anafranil 25mg/5ml syrup,anti-depressant,comorbidity prescription
+d733.,anafranil 50mg capsule,anti-depressant,comorbidity prescription
+x02Ts,anafranil sr,anti-depressant,comorbidity prescription
+d736.,anafranil sr 75mg tablet,anti-depressant,comorbidity prescription
+x02Vn,bolvidon,anti-depressant,comorbidity prescription
+d7b4.,bolvidon 10mg tablet,anti-depressant,comorbidity prescription
+d7b5.,bolvidon 20mg tablet,anti-depressant,comorbidity prescription
+d7b6.,bolvidon 30mg tablet,anti-depressant,comorbidity prescription
+x05dY,cipralex,anti-depressant,comorbidity prescription
+daC2.,cipralex 10mg tablet,anti-depressant,comorbidity prescription
+daC8.,cipralex 10mg/ml oral drops,anti-depressant,comorbidity prescription
+daC4.,cipralex 20mg tablet,anti-depressant,comorbidity prescription
+daC9.,cipralex 20mg/ml oral drops,anti-depressant,comorbidity prescription
+daC6.,cipralex 5mg tablet,anti-depressant,comorbidity prescription
+x02XO,cipramil,anti-depressant,comorbidity prescription
+da94.,cipramil 10mg tablet,anti-depressant,comorbidity prescription
+da92.,cipramil 20mg tablet,anti-depressant,comorbidity prescription
+da96.,cipramil 40mg tablet,anti-depressant,comorbidity prescription
+x054r,cipramil 40mg/ml oral drops,anti-depressant,comorbidity prescription
+da97.,cipramil 40mg/ml oral drops 15ml,anti-depressant,comorbidity prescription
+da9..,citalopram,anti-depressant,comorbidity prescription
+da93.,citalopram 10mg tablet,anti-depressant,comorbidity prescription
+da91.,citalopram 20mg tablet,anti-depressant,comorbidity prescription
+da95.,citalopram 40mg tablet,anti-depressant,comorbidity prescription
+da9z.,citalopram 40mg/ml oral drops,anti-depressant,comorbidity prescription
+x01Ax,clomipramine,anti-depressant,comorbidity prescription
+d73..,clomipramine hydrochloride,anti-depressant,comorbidity prescription
+d73u.,clomipramine hydrochloride 10mg capsule,anti-depressant,comorbidity prescription
+d73s.,clomipramine hydrochloride 10mg tablet,anti-depressant,comorbidity prescription
+d73v.,clomipramine hydrochloride 25mg capsule,anti-depressant,comorbidity prescription
+d73t.,clomipramine hydrochloride 25mg tablet,anti-depressant,comorbidity prescription
+d73y.,clomipramine hydrochloride 25mg/2ml injection,anti-depressant,comorbidity prescription
+d73x.,clomipramine hydrochloride 25mg/5ml syrup,anti-depressant,comorbidity prescription
+d73w.,clomipramine hydrochloride 50mg capsule,anti-depressant,comorbidity prescription
+d73r.,clomipramine hydrochloride 50mg tablet,anti-depressant,comorbidity prescription
+d73z.,clomipramine hydrochloride 75mg m/r tablet,anti-depressant,comorbidity prescription
+da7o.,depefex xl 150mg m/r capsule,anti-depressant,comorbidity prescription
+da7n.,depefex xl 75mg m/r capsule,anti-depressant,comorbidity prescription
+x02aM,domical,anti-depressant,comorbidity prescription
+d714.,domical 10mg tablet,anti-depressant,comorbidity prescription
+d715.,domical 25mg tablet,anti-depressant,comorbidity prescription
+d716.,domical 50mg tablet,anti-depressant,comorbidity prescription
+x01Az,dosulepin,anti-depressant,comorbidity prescription
+d75y.,dosulepin hydrochloride 25mg capsule,anti-depressant,comorbidity prescription
+d757.,dosulepin hydrochloride 25mg/5ml s/f elixir,anti-depressant,comorbidity prescription
+d75z.,dosulepin hydrochloride 75mg tablet,anti-depressant,comorbidity prescription
+d758.,dosulepin hydrochloride 75mg/5ml s/f elixir,anti-depressant,comorbidity prescription
+x02aS,dothapax,anti-depressant,comorbidity prescription
+d755.,dothapax 25mg capsule,anti-depressant,comorbidity prescription
+d756.,dothapax 75mg tablet,anti-depressant,comorbidity prescription
+d76..,doxepin,anti-depressant,comorbidity prescription
+d76w.,doxepin 10mg capsule,anti-depressant,comorbidity prescription
+d76x.,doxepin 25mg capsule,anti-depressant,comorbidity prescription
+d76y.,doxepin 50mg capsule,anti-depressant,comorbidity prescription
+d76z.,doxepin 75mg capsule,anti-depressant,comorbidity prescription
+gdex.,duloxetine 30mg gastro-resistant capsule,anti-depressant,comorbidity prescription
+gdew.,duloxetine 60mg gastro-resistant capsule,anti-depressant,comorbidity prescription
+x03nk,edronax,anti-depressant,comorbidity prescription
+daA2.,edronax 4mg tablet,anti-depressant,comorbidity prescription
+x02b1,efexor,anti-depressant,comorbidity prescription
+da73.,efexor 37.5mg tablet,anti-depressant,comorbidity prescription
+da76.,efexor 50mg tablet,anti-depressant,comorbidity prescription
+da74.,efexor 75mg tablet,anti-depressant,comorbidity prescription
+x03oQ,efexor xl,anti-depressant,comorbidity prescription
+da7A.,efexor xl 150mg m/r capsule,anti-depressant,comorbidity prescription
+da7v.,efexor xl 225mg m/r capsule,anti-depressant,comorbidity prescription
+da78.,efexor xl 75mg m/r capsule,anti-depressant,comorbidity prescription
+d717.,elavil 10mg tablet,anti-depressant,comorbidity prescription
+daC..,escitalopram,anti-depressant,comorbidity prescription
+daC1.,escitalopram 10mg tablet,anti-depressant,comorbidity prescription
+daC7.,escitalopram 10mg/ml oral drops,anti-depressant,comorbidity prescription
+daC3.,escitalopram 20mg tablet,anti-depressant,comorbidity prescription
+daCA.,escitalopram 20mg/ml oral drops,anti-depressant,comorbidity prescription
+daC5.,escitalopram 5mg tablet,anti-depressant,comorbidity prescription
+x02c8,faverin,anti-depressant,comorbidity prescription
+da33.,faverin 100mg tablet,anti-depressant,comorbidity prescription
+da31.,faverin 50mg tablet,anti-depressant,comorbidity prescription
+x055r,felicium,anti-depressant,comorbidity prescription
+da48.,felicium 20mg capsule,anti-depressant,comorbidity prescription
+x02cz,fluanxol,anti-depressant,comorbidity prescription
+da12.,fluanxol 1mg tablet,anti-depressant,comorbidity prescription
+da11.,fluanxol 500mcg tablet,anti-depressant,comorbidity prescription
+x01Ar,fluoxetine,anti-depressant,comorbidity prescription
+da41.,fluoxetine 20mg capsule,anti-depressant,comorbidity prescription
+da4E.,fluoxetine 20mg dispersible tablet,anti-depressant,comorbidity prescription
+da43.,fluoxetine 20mg/5ml oral liquid,anti-depressant,comorbidity prescription
+da46.,fluoxetine 60mg capsule,anti-depressant,comorbidity prescription
+da4..,fluoxetine hydrochloride,anti-depressant,comorbidity prescription
+d91A.,fluphenazine hcl+nortriptyline 500mcg/10mg tablet,anti-depressant,comorbidity prescription
+x01As,fluvoxamine,anti-depressant,comorbidity prescription
+da3..,fluvoxamine maleate,anti-depressant,comorbidity prescription
+da34.,fluvoxamine maleate 100mg tablet,anti-depressant,comorbidity prescription
+da32.,fluvoxamine maleate 50mg tablet,anti-depressant,comorbidity prescription
+da7l.,foraven xl 75mg m/r capsule,anti-depressant,comorbidity prescription
+x042s,gamanil,anti-depressant,comorbidity prescription
+d794.,gamanil 70mg tablet,anti-depressant,comorbidity prescription
+d791.,gamanil 70mg tablet x56cp,anti-depressant,comorbidity prescription
+x01B0,imipramine,anti-depressant,comorbidity prescription
+d77..,imipramine hydrochloride [antidepressant],anti-depressant,comorbidity prescription
+d771.,imipramine hydrochloride 10mg tablet,anti-depressant,comorbidity prescription
+d772.,imipramine hydrochloride 25mg tablet,anti-depressant,comorbidity prescription
+d77w.,imipramine hydrochloride 25mg/5ml oral solution,anti-depressant,comorbidity prescription
+d77z.,imipramine hydrochloride 25mg/5ml syrup,anti-depressant,comorbidity prescription
+d83..,isocarboxazid,anti-depressant,comorbidity prescription
+d83z.,isocarboxazid 10mg tablet,anti-depressant,comorbidity prescription
+d912.,limbitrol 10 capsule,anti-depressant,comorbidity prescription
+d911.,limbitrol-5 capsule,anti-depressant,comorbidity prescription
+d79..,lofepramine,anti-depressant,comorbidity prescription
+d79z.,lofepramine 70mg tablet,anti-depressant,comorbidity prescription
+d79y.,lofepramine 70mg/5ml s/f suspension,anti-depressant,comorbidity prescription
+x03jc,lomont,anti-depressant,comorbidity prescription
+d792.,lomont 70mg/5ml s/f suspension,anti-depressant,comorbidity prescription
+x02i2,lustral,anti-depressant,comorbidity prescription
+da54.,lustral 100mg tablet,anti-depressant,comorbidity prescription
+da53.,lustral 50mg tablet,anti-depressant,comorbidity prescription
+x02iD,manerix,anti-depressant,comorbidity prescription
+d851.,manerix 150mg tablet,anti-depressant,comorbidity prescription
+d853.,manerix 300mg tablet,anti-depressant,comorbidity prescription
+x02iG,marplan,anti-depressant,comorbidity prescription
+d831.,marplan 10mg tablet,anti-depressant,comorbidity prescription
+x01Av,mianserin,anti-depressant,comorbidity prescription
+d7b..,mianserin hydrochloride,anti-depressant,comorbidity prescription
+d7b1.,mianserin hydrochloride 10mg tablet,anti-depressant,comorbidity prescription
+d7b2.,mianserin hydrochloride 20mg tablet,anti-depressant,comorbidity prescription
+d7b3.,mianserin hydrochloride 30mg tablet,anti-depressant,comorbidity prescription
+daB..,mirtazapine,anti-depressant,comorbidity prescription
+daB5.,mirtazapine 15mg oro-dispersible tablet,anti-depressant,comorbidity prescription
+daBz.,mirtazapine 15mg tablet,anti-depressant,comorbidity prescription
+daB3.,mirtazapine 30mg oro-dispersible tablet,anti-depressant,comorbidity prescription
+daB1.,mirtazapine 30mg tablet,anti-depressant,comorbidity prescription
+daB7.,mirtazapine 45mg oro-dispersible tablet,anti-depressant,comorbidity prescription
+daBy.,mirtazapine 45mg tablet,anti-depressant,comorbidity prescription
+d85..,moclobemide,anti-depressant,comorbidity prescription
+d852.,moclobemide 150mg tablet,anti-depressant,comorbidity prescription
+d854.,moclobemide 300mg tablet,anti-depressant,comorbidity prescription
+x02jl,molipaxin,anti-depressant,comorbidity prescription
+x00E5,molipaxin 100mg capsule,anti-depressant,comorbidity prescription
+d7e2.,molipaxin 100mg capsule x56cp,anti-depressant,comorbidity prescription
+x00fa,molipaxin 150mg tablet,anti-depressant,comorbidity prescription
+d7e4.,molipaxin 150mg tablet x28cp,anti-depressant,comorbidity prescription
+x00E4,molipaxin 50mg capsule,anti-depressant,comorbidity prescription
+d7e1.,molipaxin 50mg capsule x84cp,anti-depressant,comorbidity prescription
+d7e3.,molipaxin 50mg/5ml liquid,anti-depressant,comorbidity prescription
+x03sq,molipaxin cr,anti-depressant,comorbidity prescription
+d7e6.,molipaxin cr 150mg m/r tablet x28,anti-depressant,comorbidity prescription
+x00fb,molipaxin cr 150mg tablet,anti-depressant,comorbidity prescription
+x02kQ,nardil,anti-depressant,comorbidity prescription
+d811.,nardil 15mg tablet,anti-depressant,comorbidity prescription
+d7c..,nortriptyline,anti-depressant,comorbidity prescription
+d7c9.,nortriptyline 10mg capsule,anti-depressant,comorbidity prescription
+d7c6.,nortriptyline 10mg tablet,anti-depressant,comorbidity prescription
+d7c7.,nortriptyline 10mg/5ml liquid,anti-depressant,comorbidity prescription
+d7cy.,nortriptyline 25mg capsule,anti-depressant,comorbidity prescription
+d7c8.,nortriptyline 25mg tablet,anti-depressant,comorbidity prescription
+d7b7.,norval 10mg tablet,anti-depressant,comorbidity prescription
+d7b8.,norval 20mg tablet,anti-depressant,comorbidity prescription
+d7b9.,norval 30mg tablet,anti-depressant,comorbidity prescription
+x02lx,optimax,anti-depressant,comorbidity prescription
+da22.,optimax 1g/6g powder,anti-depressant,comorbidity prescription
+da21.,optimax 500mg tablet,anti-depressant,comorbidity prescription
+da23.,optimax wv 500mg tablet,anti-depressant,comorbidity prescription
+x05JP,oxactin,anti-depressant,comorbidity prescription
+da49.,oxactin 20mg capsule,anti-depressant,comorbidity prescription
+da24.,pacitron 500mg tablet,anti-depressant,comorbidity prescription
+x02mv,parnate,anti-depressant,comorbidity prescription
+d841.,parnate 10mg tablet,anti-depressant,comorbidity prescription
+da6..,paroxetine,anti-depressant,comorbidity prescription
+da67.,paroxetine 10mg tablet,anti-depressant,comorbidity prescription
+da65.,paroxetine 10mg/5ml s/f liquid,anti-depressant,comorbidity prescription
+da61.,paroxetine 20mg tablet,anti-depressant,comorbidity prescription
+da63.,paroxetine 30mg tablet,anti-depressant,comorbidity prescription
+x02mx,parstelin,anti-depressant,comorbidity prescription
+d915.,parstelin tablet,anti-depressant,comorbidity prescription
+x05vF,paxoran,anti-depressant,comorbidity prescription
+da98.,paxoran 10mg tablet,anti-depressant,comorbidity prescription
+da99.,paxoran 20mg tablet,anti-depressant,comorbidity prescription
+da9A.,paxoran 40mg tablet,anti-depressant,comorbidity prescription
+d81..,phenelzine,anti-depressant,comorbidity prescription
+d81z.,phenelzine 15mg tablet,anti-depressant,comorbidity prescription
+d773.,praminil 10mg tablet,anti-depressant,comorbidity prescription
+x02o5,prepadine,anti-depressant,comorbidity prescription
+d753.,prepadine 25mg capsule,anti-depressant,comorbidity prescription
+d754.,prepadine 75mg tablet,anti-depressant,comorbidity prescription
+x02oe,prothiaden,anti-depressant,comorbidity prescription
+d751.,prothiaden 25mg capsule,anti-depressant,comorbidity prescription
+d752.,prothiaden 75mg tablet,anti-depressant,comorbidity prescription
+x02oh,prozac,anti-depressant,comorbidity prescription
+da45.,prozac 20mg capsule,anti-depressant,comorbidity prescription
+da42.,prozac 20mg capsule x30,anti-depressant,comorbidity prescription
+da44.,prozac 20mg/5ml liquid,anti-depressant,comorbidity prescription
+da47.,prozac 60mg capsule,anti-depressant,comorbidity prescription
+da4C.,prozep 20mg/5ml oral solution,anti-depressant,comorbidity prescription
+x05pd,prozit,anti-depressant,comorbidity prescription
+da4B.,prozit 20mg/5ml oral solution,anti-depressant,comorbidity prescription
+da7g.,ranfaxine xl 75mg m/r capsule,anti-depressant,comorbidity prescription
+x05ZY,ranflutin,anti-depressant,comorbidity prescription
+da4A.,ranflutin 20mg capsule,anti-depressant,comorbidity prescription
+daA..,reboxetine,anti-depressant,comorbidity prescription
+daA1.,reboxetine 4mg tablet,anti-depressant,comorbidity prescription
+da7C.,rodomel xl 150mg m/r capsule,anti-depressant,comorbidity prescription
+da7B.,rodomel xl 75mg m/r capsule,anti-depressant,comorbidity prescription
+x03h0,seroxat,anti-depressant,comorbidity prescription
+da68.,seroxat 10mg tablet,anti-depressant,comorbidity prescription
+da66.,seroxat 10mg/5ml s/f liquid,anti-depressant,comorbidity prescription
+x00fz,seroxat 20mg tablet,anti-depressant,comorbidity prescription
+da62.,seroxat 20mg tablet x30,anti-depressant,comorbidity prescription
+x00g0,seroxat 30mg tablet,anti-depressant,comorbidity prescription
+da64.,seroxat 30mg tablet x30,anti-depressant,comorbidity prescription
+da5..,sertraline,anti-depressant,comorbidity prescription
+da52.,sertraline 100mg tablet,anti-depressant,comorbidity prescription
+da51.,sertraline 50mg tablet,anti-depressant,comorbidity prescription
+d765.,sinepin 25mg capsule,anti-depressant,comorbidity prescription
+d766.,sinepin 50mg capsule,anti-depressant,comorbidity prescription
+x03w4,sinequan,anti-depressant,comorbidity prescription
+x00E9,sinequan 10mg capsule,anti-depressant,comorbidity prescription
+d761.,sinequan 10mg capsule x56cp,anti-depressant,comorbidity prescription
+x00EA,sinequan 25mg capsule,anti-depressant,comorbidity prescription
+d762.,sinequan 25mg capsule x28cp,anti-depressant,comorbidity prescription
+x00EB,sinequan 50mg capsule,anti-depressant,comorbidity prescription
+d763.,sinequan 50mg capsule x28cp,anti-depressant,comorbidity prescription
+x00EC,sinequan 75mg capsule,anti-depressant,comorbidity prescription
+d764.,sinequan 75mg capsule x28cp,anti-depressant,comorbidity prescription
+x02rr,surmontil,anti-depressant,comorbidity prescription
+d7f2.,surmontil 10mg tablet,anti-depressant,comorbidity prescription
+d7f3.,surmontil 25mg tablet,anti-depressant,comorbidity prescription
+x00ED,surmontil 50mg capsule,anti-depressant,comorbidity prescription
+d7f1.,surmontil 50mg capsule x28cp,anti-depressant,comorbidity prescription
+da7M.,tardcaps xl 150mg m/r capsule,anti-depressant,comorbidity prescription
+da7L.,tardcaps xl 75mg m/r capsule,anti-depressant,comorbidity prescription
+x05Cq,thaden,anti-depressant,comorbidity prescription
+d759.,thaden 25mg capsule,anti-depressant,comorbidity prescription
+d75A.,thaden 75mg tablet,anti-depressant,comorbidity prescription
+da7S.,tifaxin xl 150mg m/r capsule,anti-depressant,comorbidity prescription
+da7R.,tifaxin xl 75mg m/r capsule,anti-depressant,comorbidity prescription
+d775.,tofranil 10mg tablet,anti-depressant,comorbidity prescription
+d776.,tofranil 25mg tablet,anti-depressant,comorbidity prescription
+d777.,tofranil 25mg/5ml syrup,anti-depressant,comorbidity prescription
+da7k.,tonpular xl 150mg m/r capsule,anti-depressant,comorbidity prescription
+da7j.,tonpular xl 75mg m/r capsule,anti-depressant,comorbidity prescription
+d84..,tranylcypromine,anti-depressant,comorbidity prescription
+d84z.,tranylcypromine 10mg tablet,anti-depressant,comorbidity prescription
+d91B.,tranylcypromine+trifluoperazine 10mg/1mg tablet,anti-depressant,comorbidity prescription
+x01B2,trazodone,anti-depressant,comorbidity prescription
+d7e..,trazodone hydrochloride,anti-depressant,comorbidity prescription
+d7ew.,trazodone hydrochloride 100mg capsule,anti-depressant,comorbidity prescription
+d7e7.,trazodone hydrochloride 150mg m/r tablet,anti-depressant,comorbidity prescription
+d7e5.,trazodone hydrochloride 150mg tablet,anti-depressant,comorbidity prescription
+d7ex.,trazodone hydrochloride 50mg capsule,anti-depressant,comorbidity prescription
+d7ez.,trazodone hydrochloride 50mg/5ml liquid,anti-depressant,comorbidity prescription
+d7f..,trimipramine,anti-depressant,comorbidity prescription
+d7fy.,trimipramine 10mg tablet,anti-depressant,comorbidity prescription
+d7fz.,trimipramine 25mg tablet,anti-depressant,comorbidity prescription
+d7fx.,trimipramine 50mg capsule,anti-depressant,comorbidity prescription
+x02tO,triptafen,anti-depressant,comorbidity prescription
+d916.,triptafen tablet,anti-depressant,comorbidity prescription
+x02tP,triptafen-m,anti-depressant,comorbidity prescription
+d917.,triptafen-m tablet,anti-depressant,comorbidity prescription
+x02tX,tryptizol,anti-depressant,comorbidity prescription
+d71g.,tryptizol 100mg/10ml injection,anti-depressant,comorbidity prescription
+d71c.,tryptizol 10mg tablet,anti-depressant,comorbidity prescription
+d71f.,tryptizol 10mg/5ml mixture,anti-depressant,comorbidity prescription
+d71d.,tryptizol 25mg tablet,anti-depressant,comorbidity prescription
+d71e.,tryptizol 50mg tablet,anti-depressant,comorbidity prescription
+d71b.,tryptizol 75mg m/r capsule,anti-depressant,comorbidity prescription
+da2y.,tryptophan 500mg tablet,anti-depressant,comorbidity prescription
+daD1.,valdoxan 25mg tablet,anti-depressant,comorbidity prescription
+da7a.,venaxx xl 150mg m/r capsule,anti-depressant,comorbidity prescription
+da7Z.,venaxx xl 75mg m/r capsule,anti-depressant,comorbidity prescription
+da7..,venlafaxine,anti-depressant,comorbidity prescription
+da79.,venlafaxine 150mg m/r capsule,anti-depressant,comorbidity prescription
+da7K.,venlafaxine 150mg m/r tablet,anti-depressant,comorbidity prescription
+da7w.,venlafaxine 225mg m/r capsule,anti-depressant,comorbidity prescription
+da7Y.,venlafaxine 225mg m/r tablet,anti-depressant,comorbidity prescription
+da7q.,venlafaxine 37.5mg m/r tablet,anti-depressant,comorbidity prescription
+da71.,venlafaxine 37.5mg tablet,anti-depressant,comorbidity prescription
+da75.,venlafaxine 50mg tablet,anti-depressant,comorbidity prescription
+da77.,venlafaxine 75mg m/r capsule,anti-depressant,comorbidity prescription
+da7I.,venlafaxine 75mg m/r tablet,anti-depressant,comorbidity prescription
+da72.,venlafaxine 75mg tablet,anti-depressant,comorbidity prescription
+da7W.,venlalic xl 150mg m/r tablet,anti-depressant,comorbidity prescription
+da7X.,venlalic xl 225mg m/r tablet,anti-depressant,comorbidity prescription
+da7p.,venlalic xl 37.5mg m/r tablet,anti-depressant,comorbidity prescription
+da7V.,venlalic xl 75mg m/r tablet,anti-depressant,comorbidity prescription
+da7Q.,vensir xl 150mg m/r capsule,anti-depressant,comorbidity prescription
+da7P.,vensir xl 75mg m/r capsule,anti-depressant,comorbidity prescription
+da7U.,vexarin xl 150mg m/r capsule,anti-depressant,comorbidity prescription
+da7T.,vexarin xl 75mg m/r capsule,anti-depressant,comorbidity prescription
+da7N.,viepax 37.5mg tablet,anti-depressant,comorbidity prescription
+da7O.,viepax 75mg tablet,anti-depressant,comorbidity prescription
+da7J.,viepax xl 150mg m/r tablet,anti-depressant,comorbidity prescription
+da7H.,viepax xl 75mg m/r tablet,anti-depressant,comorbidity prescription
+x03q9,zispin,anti-depressant,comorbidity prescription
+daB2.,zispin 30mg tablet,anti-depressant,comorbidity prescription
+daB6.,zispin soltab 15mg oro-dispersible tablet,anti-depressant,comorbidity prescription
+daB4.,zispin soltab 30mg oro-dispersible tablet,anti-depressant,comorbidity prescription
+daB8.,zispin soltab 45mg oro-dispersible tablet,anti-depressant,comorbidity prescription
+d22..,alprazolam,anti-anxiety,comorbidity prescription
+x05KZ,alprazolam - chemical,anti-anxiety,comorbidity prescription
+d22y.,alprazolam 250mcg tablet,anti-anxiety,comorbidity prescription
+d22z.,alprazolam 500mcg tablet,anti-anxiety,comorbidity prescription
+d21c.,atensine 10mg tablet,anti-anxiety,comorbidity prescription
+x02Ui,ativan,anti-anxiety,comorbidity prescription
+do41.,ativan [ep] 4mg/ml injection,anti-anxiety,comorbidity prescription
+d2a5.,ativan 1mg tablet,anti-anxiety,comorbidity prescription
+d2a6.,ativan 2.5mg tablet,anti-anxiety,comorbidity prescription
+d2a7.,ativan 4mg/1ml injection,anti-anxiety,comorbidity prescription
+x02WF,buspar,anti-anxiety,comorbidity prescription
+d2f4.,buspar 10mg tablet,anti-anxiety,comorbidity prescription
+d2f2.,buspar 5mg tablet,anti-anxiety,comorbidity prescription
+d2f3.,buspar 5mg tablet x126,anti-anxiety,comorbidity prescription
+d2f..,buspirone,anti-anxiety,comorbidity prescription
+x01BH,buspirone,anti-anxiety,comorbidity prescription
+d2f5.,buspirone 10mg tablet,anti-anxiety,comorbidity prescription
+d2f1.,buspirone 5mg tablet,anti-anxiety,comorbidity prescription
+d12v.,clomethiazole 192mg capsule,anti-anxiety,comorbidity prescription
+d215.,diazepam 10mg tablet,anti-anxiety,comorbidity prescription
+d211.,diazepam 2mg capsule,anti-anxiety,comorbidity prescription
+d213.,diazepam 2mg tablet,anti-anxiety,comorbidity prescription
+d212.,diazepam 5mg capsule,anti-anxiety,comorbidity prescription
+d214.,diazepam 5mg tablet,anti-anxiety,comorbidity prescription
+d1an.,euhypnos 10mg/5ml oral solution,anti-anxiety,comorbidity prescription
+d1al.,euhypnos 10mg/sachet oral solution,anti-anxiety,comorbidity prescription
+d1am.,euhypnos 20mg/sachet oral solution,anti-anxiety,comorbidity prescription
+d21f.,evacalm 5mg tablet,anti-anxiety,comorbidity prescription
+x02hT,librium,anti-anxiety,comorbidity prescription
+d24e.,librium 100mg injection,anti-anxiety,comorbidity prescription
+d24a.,librium 10mg capsule,anti-anxiety,comorbidity prescription
+d24c.,librium 10mg tablet,anti-anxiety,comorbidity prescription
+d24d.,librium 25mg tablet,anti-anxiety,comorbidity prescription
+d249.,librium 5mg capsule,anti-anxiety,comorbidity prescription
+d24b.,librium 5mg tablet,anti-anxiety,comorbidity prescription
+d2a..,lorazepam [anxiolytic],anti-anxiety,comorbidity prescription
+d2a1.,lorazepam 1mg tablet,anti-anxiety,comorbidity prescription
+d2a2.,lorazepam 2.5mg tablet,anti-anxiety,comorbidity prescription
+d2az.,lorazepam 4mg/1ml injection,anti-anxiety,comorbidity prescription
+d17..,lormetazepam,anti-anxiety,comorbidity prescription
+d172.,lormetazepam 1mg tablet,anti-anxiety,comorbidity prescription
+d171.,lormetazepam 500mcg tablet,anti-anxiety,comorbidity prescription
+d2c2.,meprobamate 400mg tablet,anti-anxiety,comorbidity prescription
+x02jk,mogadon,anti-anxiety,comorbidity prescription
+d185.,mogadon 5mg capsule,anti-anxiety,comorbidity prescription
+d186.,mogadon 5mg tablet,anti-anxiety,comorbidity prescription
+x02jl,molipaxin,anti-anxiety,comorbidity prescription
+x00E5,molipaxin 100mg capsule,anti-anxiety,comorbidity prescription
+d7e2.,molipaxin 100mg capsule x56cp,anti-anxiety,comorbidity prescription
+x00fa,molipaxin 150mg tablet,anti-anxiety,comorbidity prescription
+d7e4.,molipaxin 150mg tablet x28cp,anti-anxiety,comorbidity prescription
+x00E4,molipaxin 50mg capsule,anti-anxiety,comorbidity prescription
+d7e1.,molipaxin 50mg capsule x84cp,anti-anxiety,comorbidity prescription
+d7e3.,molipaxin 50mg/5ml liquid,anti-anxiety,comorbidity prescription
+x03sq,molipaxin cr,anti-anxiety,comorbidity prescription
+d7e6.,molipaxin cr 150mg m/r tablet x28,anti-anxiety,comorbidity prescription
+x00fb,molipaxin cr 150mg tablet,anti-anxiety,comorbidity prescription
+d187.,nitrados 5mg tablet,anti-anxiety,comorbidity prescription
+d183.,nitrazepam 10mg tablet,anti-anxiety,comorbidity prescription
+d184.,nitrazepam 2.5mg/5ml suspension,anti-anxiety,comorbidity prescription
+d181.,nitrazepam 5mg capsule,anti-anxiety,comorbidity prescription
+d182.,nitrazepam 5mg tablet,anti-anxiety,comorbidity prescription
+d18f.,nitrazepam 5mg/5ml suspension,anti-anxiety,comorbidity prescription
+d174.,noctamid 1mg tablet,anti-anxiety,comorbidity prescription
+d173.,noctamid 500mcg tablet,anti-anxiety,comorbidity prescription
+x02lI,normison,anti-anxiety,comorbidity prescription
+d1a6.,normison 10mg capsule,anti-anxiety,comorbidity prescription
+d1a7.,normison 20mg capsule,anti-anxiety,comorbidity prescription
+x01BD,oral lorazepam,anti-anxiety,comorbidity prescription
+d2d5.,oxanid 10mg tablet,anti-anxiety,comorbidity prescription
+d2d2.,oxazepam 10mg tablet,anti-anxiety,comorbidity prescription
+d2d3.,oxazepam 15mg tablet,anti-anxiety,comorbidity prescription
+d2d1.,oxazepam 30mg capsule,anti-anxiety,comorbidity prescription
+d2d4.,oxazepam 30mg tablet,anti-anxiety,comorbidity prescription
+x01BE,parenteral lorazepam,anti-anxiety,comorbidity prescription
+d18a.,remnos 10mg tablet,anti-anxiety,comorbidity prescription
+d21g.,solis 2mg capsule,anti-anxiety,comorbidity prescription
+d21h.,solis 5mg capsule,anti-anxiety,comorbidity prescription
+x02rF,somnite,anti-anxiety,comorbidity prescription
+d18c.,somnite 2.5mg/5ml suspension,anti-anxiety,comorbidity prescription
+d18b.,somnite 5mg tablet,anti-anxiety,comorbidity prescription
+x056Q,sonata,anti-anxiety,comorbidity prescription
+d1g2.,sonata 10mg capsule,anti-anxiety,comorbidity prescription
+d1g1.,sonata 5mg capsule,anti-anxiety,comorbidity prescription
+x02ra,stilnoct,anti-anxiety,comorbidity prescription
+d1f4.,stilnoct 10mg tablet,anti-anxiety,comorbidity prescription
+d1f1.,stilnoct 5mg tablet,anti-anxiety,comorbidity prescription
+d18d.,surem 5mg capsule,anti-anxiety,comorbidity prescription
+d1a1.,temazepam 10mg capsule,anti-anxiety,comorbidity prescription
+d1a9.,temazepam 10mg tablet,anti-anxiety,comorbidity prescription
+d1af.,temazepam 10mg thick gel capsule,anti-anxiety,comorbidity prescription
+d1a5.,temazepam 10mg/5ml oral solution,anti-anxiety,comorbidity prescription
+d1ao.,temazepam 10mg/5ml s/f oral solution,anti-anxiety,comorbidity prescription
+d1aj.,temazepam 10mg/sachet oral solution,anti-anxiety,comorbidity prescription
+d1a2.,temazepam 15mg capsule,anti-anxiety,comorbidity prescription
+d1ah.,temazepam 15mg thick gel capsule,anti-anxiety,comorbidity prescription
+d1aa.,temazepam 20mg tablet,anti-anxiety,comorbidity prescription
+d1ag.,temazepam 20mg thick gel capsule,anti-anxiety,comorbidity prescription
+d1a4.,temazepam 30mg capsule,anti-anxiety,comorbidity prescription
+d1ai.,temazepam 30mg thick gel capsule,anti-anxiety,comorbidity prescription
+d1ab.,temazepam gelthix 10mg capsule,anti-anxiety,comorbidity prescription
+d1ad.,temazepam gelthix 15mg capsule,anti-anxiety,comorbidity prescription
+d1ac.,temazepam gelthix 20mg capsule,anti-anxiety,comorbidity prescription
+d1ae.,temazepam gelthix 30mg capsule,anti-anxiety,comorbidity prescription
+d1a8.,temazepam planpak capsule,anti-anxiety,comorbidity prescription
+d7ew.,trazodone 100mg capsule,anti-anxiety,comorbidity prescription
+d7e7.,trazodone 150mg m/r tablet,anti-anxiety,comorbidity prescription
+d7e5.,trazodone 150mg tablet,anti-anxiety,comorbidity prescription
+d7ex.,trazodone 50mg capsule,anti-anxiety,comorbidity prescription
+d7ez.,trazodone 50mg/5ml liquid,anti-anxiety,comorbidity prescription
+d21t.,valium 10mg tablet,anti-anxiety,comorbidity prescription
+d21p.,valium 2mg capsule,anti-anxiety,comorbidity prescription
+d21r.,valium 2mg tablet,anti-anxiety,comorbidity prescription
+d21u.,valium 2mg/5ml syrup,anti-anxiety,comorbidity prescription
+d21q.,valium 5mg capsule,anti-anxiety,comorbidity prescription
+d21s.,valium 5mg tablet,anti-anxiety,comorbidity prescription
+x02uj,xanax,anti-anxiety,comorbidity prescription
+d221.,xanax 250mcg tablet,anti-anxiety,comorbidity prescription
+d222.,xanax 500mcg tablet,anti-anxiety,comorbidity prescription
+d1g..,zaleplon,anti-anxiety,comorbidity prescription
+d1gz.,zaleplon 10mg capsule,anti-anxiety,comorbidity prescription
+d1gy.,zaleplon 5mg capsule,anti-anxiety,comorbidity prescription
+x04bE,zileze 3.75,anti-anxiety,comorbidity prescription
+d1d6.,zileze 3.75 tablet,anti-anxiety,comorbidity prescription
+x04bF,zileze 7.5,anti-anxiety,comorbidity prescription
+d1d5.,zileze 7.5 tablet,anti-anxiety,comorbidity prescription
+x02v0,zimovane,anti-anxiety,comorbidity prescription
+d1d2.,zimovane 7.5mg tablet,anti-anxiety,comorbidity prescription
+x03ha,zimovane ls,anti-anxiety,comorbidity prescription
+d1d4.,zimovane ls 3.75mg tablet,anti-anxiety,comorbidity prescription
+d1f..,zolpidem,anti-anxiety,comorbidity prescription
+d1d..,zopiclone,anti-anxiety,comorbidity prescription
+d1d3.,zopiclone 3.75mg tablet,anti-anxiety,comorbidity prescription
+d1d1.,zopiclone 7.5mg tablet,anti-anxiety,comorbidity prescription

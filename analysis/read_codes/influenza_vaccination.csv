@@ -1,0 +1,90 @@
+read_code,read_term,cat1,cat2
+65E20,Seasonal influenza vaccination given by other healthcare provider,influenza_vaccination,NA
+65E21,First intranasal seasonal influenza vaccination given by other healthcare provider,influenza_vaccination,NA
+65E22,Second intranasal seasonal influenza vaccination given by other healthcare provider,influenza_vaccination,NA
+65E23,Second intramuscular seasonal influenza vaccination given by other healthcare provider,influenza_vaccination,NA
+65E24,First intramuscular seasonal influenza vaccination given by other healthcare provider,influenza_vaccination,NA
+65ED.,Seasonal influenza vaccination,influenza_vaccination,NA
+65ED0,Seasonal influenza vaccination given by pharmacist,influenza_vaccination,NA
+65ED1,Administration of first intranasal seasonal influenza vaccination,influenza_vaccination,NA
+65ED2,Seasonal influenza vaccination given while hospital inpatient,influenza_vaccination,NA
+65ED3,Administration of second intranasal seasonal influenza vaccination,influenza_vaccination,NA
+65ED4,Administration of first inactivated seasonal influenza vaccination,influenza_vaccination,NA
+65ED5,Administration of second inactivated seasonal influenza vaccination,influenza_vaccination,NA
+65ED6,First intranasal seasonal influenza vaccination given by pharmacist,influenza_vaccination,NA
+65ED7,Second intranasal seasonal influenza vaccination given by pharmacist,influenza_vaccination,NA
+65ED8,First inactivated seasonal influenza vaccination given by pharmacist,influenza_vaccination,NA
+65ED9,Second inactivated seasonal influenza vaccination given by pharmacist,influenza_vaccination,NA
+n47..,INFLUENZA VACCINES,influenza_vaccination,NA
+n471.,FLUVIRIN prefilled syringe 0.5mL,influenza_vaccination,NA
+n472.,INFLUVAC SUB-UNIT prefilled syringe 0.5mL,influenza_vaccination,NA
+n473.,INFLUVAC SUB-UNIT prefilled syringe 0.5mL,influenza_vaccination,NA
+n474.,*INFLUVAC SUB-UNIT vials 5mL,influenza_vaccination,NA
+n475.,*INFLUVAC SUB-UNIT vials 25mL,influenza_vaccination,NA
+n476.,MFV-JECT prefilled syringe 0.5mL,influenza_vaccination,NA
+n477.,INACTIVATED INFLUENZA VACCINE injection 0.5mL,influenza_vaccination,NA
+n478.,INACTIVATED INFLUENZA VACCINE prefilled syringe 0.5mL,influenza_vaccination,NA
+n479.,*INFLUENZA VACCINE vials 5mL,influenza_vaccination,NA
+n47a.,*INFLUENZA VACCINE vials 25mL,influenza_vaccination,NA
+n47b.,FLUZONE prefilled syringe 0.5mL,influenza_vaccination,NA
+n47c.,*FLUZONE vials 5mL,influenza_vaccination,NA
+n47C.,PREFLUCEL suspension for injection prefilled syringe 0.5mL,influenza_vaccination,NA
+n47d.,FLUARIX VACCINE prefilled syringe,influenza_vaccination,NA
+n47e.,BEGRIVAC VACCINE prefilled syringe 0.5mL,influenza_vaccination,NA
+n47E.,INFLUENZA VACCINE (LIVE ATTENUATED) nasal suspension 0.2mL,influenza_vaccination,NA
+n47f.,AGRIPPAL VACCINE prefilled syringe 0.5mL,influenza_vaccination,NA
+n47g.,INACTIVATED INFLUENZA VACCINE (SPLIT VIRION) prefilled syringe 0.5mL,influenza_vaccination,NA
+n47h.,INACTIVATED INFLUENZA VACCINE (SURFACE ANTIGEN SUB-UNIT) prefilled syringe 0.5mL,influenza_vaccination,NA
+n47H.,FLUARIX TETRA suspension for injection prefill syringe 0.5mL,influenza_vaccination,NA
+n47i.,INFLEXAL BERNA V prefilled syringe 0.5mL,influenza_vaccination,NA
+n47I.,FLUENZ TETRA nasal spray suspension 0.2mL,influenza_vaccination,NA
+n47j.,MASTAFLU prefilled syringe 0.5mL,influenza_vaccination,NA
+n47k.,INFLEXAL V prefilled syringe 0.5mL,influenza_vaccination,NA
+n47l.,INVIVAC prefilled syringe 0.5mL,influenza_vaccination,NA
+n47m.,ENZIRA prefilled syringe 0.5mL,influenza_vaccination,NA
+n47n.,VIROFLU prefilled syringe 0.5mL,influenza_vaccination,NA
+n47o.,IMUVAC prefilled syringe 0.5mL,influenza_vaccination,NA
+n47p.,INTANZA 15micrograms/strain susp for inj pfs 0.1mL,influenza_vaccination,NA
+n47q.,INACT INFLUENZA VACC (SPLIT VIRION) 15mcg/strain pfs 0.1mL,influenza_vaccination,NA
+n47v.,INACT INFLUENZA VACC (SPLIT VIRION) 9mcg/strain pfs 0.1mL,influenza_vaccination,NA
+n47y.,INACTIVATED INFLUENZA VACCINE (SPLIT VIRION) prefilled syringe 0.25mL,influenza_vaccination,NA
+n47z.,INACTIVATED INFLUENZA VACCINE (SURFACE ANTIGEN VIROSOME) prefilled syringe 0.5mL,influenza_vaccination,NA
+x006a,Inactivated Influenza surface antigen sub-unit vaccine,influenza_vaccination,NA
+x006Z,Inactivated Influenza split virion vaccine,influenza_vaccination,NA
+x00Yd,Fluvirin vaccine prefilled syringe,influenza_vaccination,NA
+x00Ye,Fluzone vaccine prefilled syringe,influenza_vaccination,NA
+x00Yi,Inactivated Influenza (split virion) vaccine prefilled syringe,influenza_vaccination,NA
+x00Yj,Inactivated Influenza (surface antigen sub-unit ) vaccine prefilled syringe,influenza_vaccination,NA
+x00Yk,Influvac Sub-unit vaccine prefilled syringe,influenza_vaccination,NA
+x00Yp,MFV-Ject vaccine prefilled syringe,influenza_vaccination,NA
+x01LF,Influvac Sub-unit injection,influenza_vaccination,NA
+x01LG,Fluzone injection vial,influenza_vaccination,NA
+x03qt,Begrivac vaccine prefilled syringe,influenza_vaccination,NA
+x05cg,Inflexal Berna V prefilled syringe,influenza_vaccination,NA
+x05oa,MASTAFLU prefilled syringe,influenza_vaccination,NA
+x05pY,Inflexal V prefilled syringe,influenza_vaccination,NA
+x05vU,Invivac vaccine prefilled syringe,influenza_vaccination,NA
+x05Y1,Agrippal vaccine prefilled syringe,influenza_vaccination,NA
+x05yK,Enzira vaccine prefilled syringe,influenza_vaccination,NA
+x05yO,Inactivated Influenza surface antigen virosome vaccine prefilled syringe,influenza_vaccination,NA
+x05yP,Inactivated Influenza surface antigen virosome vaccine,influenza_vaccination,NA
+x05zC,Viroflu prefilled syringe,influenza_vaccination,NA
+Xaac3,Administration of first intranasal seasonal influenza vaccination,influenza_vaccination,NA
+Xaac4,Administration of second intranasal seasonal influenza vaccination,influenza_vaccination,NA
+Xaac7,First intranasal seasonal influenza vaccination given by other healthcare provider,influenza_vaccination,NA
+Xaac8,Second intranasal seasonal influenza vaccination given by other healthcare provider,influenza_vaccination,NA
+XaaZp,Seasonal influenza vaccination given while hospital inpatient,influenza_vaccination,NA
+XabvT,Second intramuscular seasonal influenza vaccination given by other healthcare provider,influenza_vaccination,NA
+Xac5J,First intramuscular seasonal influenza vaccination given by other healthcare provider,influenza_vaccination,NA
+Xad9j,Administration of first inactivated seasonal influenza vaccination,influenza_vaccination,NA
+Xad9k,Administration of second inactivated seasonal influenza vaccination,influenza_vaccination,NA
+Xaeet,First intranasal seasonal influenza vaccination given by pharmacist,influenza_vaccination,NA
+Xaeeu,Second intranasal seasonal influenza vaccination given by pharmacist,influenza_vaccination,NA
+Xaeev,First inactivated seasonal influenza vaccination given by pharmacist,influenza_vaccination,NA
+Xaeew,Second inactivated seasonal influenza vaccination given by pharmacist,influenza_vaccination,NA
+XaZ0d,Seasonal influenza vaccination,influenza_vaccination,NA
+XaZ0e,Seasonal influenza vaccination given by other healthcare provider,influenza_vaccination,NA
+XaZfY,Seasonal influenza vaccination given by pharmacist,influenza_vaccination,NA
+XafhP,Seasonal influenza vaccination given by midwife,influenza_vaccination,NA
+XafhQ,First inactivated seasonal influenza vaccination given by midwife,influenza_vaccination,NA
+XafhR,Second inactivated seasonal influenza vaccination given by midwife,influenza_vaccination,NA

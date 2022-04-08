@@ -1,0 +1,50 @@
+read_code,read_term,cat2,QOF,score,cat1
+663q.,Asthma daytime symptoms,day,Yes,1,RCP3Q
+663s.,Asthma never causes daytime symptoms,day,Yes,0,RCP3Q
+663t.,Asthma causes daytime symptoms 1 to 2 times per month,day,Yes,1,RCP3Q
+663u.,Asthma causes daytime symptoms 1 to 2 times per week,day,Yes,1,RCP3Q
+663v.,Asthma causes daytime symptoms most days,day,Yes,1,RCP3Q
+6635.,Increasing exercise wheeze,activities,Yes,1,RCP3Q
+663e.,Asthma restricts exercise,activities,Yes,1,RCP3Q
+663e0,Asthma sometimes restricts exercise,activities,Yes,1,RCP3Q
+663e1,Asthma severely restricts exercise,activities,Yes,1,RCP3Q
+663f.,Asthma never restricts exercise,activities,Yes,0,RCP3Q
+663P.,Asthma limiting activities,activities,Yes,1,RCP3Q
+663P0,Asthma limits activities 1 to 2 times per month,activities,Yes,1,RCP3Q
+663P1,Asthma limits activities 1 to 2 times per week,activities,Yes,1,RCP3Q
+663P2,Asthma limits activities most days,activities,Yes,1,RCP3Q
+663Q.,Asthma not limiting activities,activities,Yes,0,RCP3Q
+663w.,Asthma limits walking up hills or stairs,activities,Yes,1,RCP3Q
+663x.,Asthma limits walking on the flat,activities,Yes,1,RCP3Q
+663N.,Asthma disturbing sleep,sleep,Yes,1,RCP3Q
+663N0,Asthma causing night waking,sleep,Yes,1,RCP3Q
+663N1,Asthma disturbs sleep weekly,sleep,Yes,1,RCP3Q
+663N2,Asthma disturbs sleep frequently,sleep,Yes,1,RCP3Q
+663O.,Asthma not disturbing sleep,sleep,Yes,0,RCP3Q
+663O0,Asthma never disturbs sleep,sleep,Yes,0,RCP3Q
+663r.,Asthma causes night symptoms 1 to 2 times per month,sleep,Yes,1,RCP3Q
+66YP.,Asthma night-time symptoms,sleep,Yes,1,RCP3Q
+66Yq.,Asthma causes night time symptoms 1 to 2 times per week,sleep,Yes,1,RCP3Q
+66Yr.,Asthma causes symptoms most nights,sleep,Yes,1,RCP3Q
+66Ys.,Asthma never causes night symptoms,sleep,Yes,0,RCP3Q
+XaIIZ,Asthma daytime symptoms,day,Yes,1,RCP3Q
+XaINa,Asthma never causes daytime symptoms,day,Yes,0,RCP3Q
+XaINb,Asthma causes daytime symptoms 1 to 2 times per month,day,Yes,1,RCP3Q
+XaINc,Asthma causes daytime symptoms 1 to 2 times per week,day,Yes,1,RCP3Q
+XaINd,Asthma causes daytime symptoms most days,day,Yes,1,RCP3Q
+XaINf,Asthma limits walking up hills or stairs,activities,Yes,1,RCP3Q
+XaINg,Asthma limits walking on the flat,activities,Yes,1,RCP3Q
+XaXZs,Asthma limits activities 1 to 2 times per month,activities,Yes,1,RCP3Q
+XaXZu,Asthma limits activities 1 to 2 times per week,activities,Yes,1,RCP3Q
+XaXZx,Asthma limits activities most days,activities,Yes,1,RCP3Q
+XaINZ,Asthma causes night symptoms 1 to 2 times per month,sleep,Yes,1,RCP3Q
+XaIoE,Asthma night-time symptoms,sleep,Yes,1,RCP3Q
+XaXZm,Asthma causes night time symptoms 1 to 2 times per week,sleep,Yes,1,RCP3Q
+XaXZp,Asthma causes symptoms most nights,sleep,Yes,1,RCP3Q
+XaY2V,Asthma never causes night symptoms,sleep,Yes,0,RCP3Q
+XaXa0,Royal College of Physicians asthma assessment three questions score,general,No,NA,RCP3Q
+XaNKw,RCP (Royal College of Physicians) three questions,general,No,NA,RCP3Q
+XaX3n,Asthma review using Royal College of Physicians three questions,general,No,NA,RCP3Q
+388t0,Royal College of Physicians asthma assessment three questions score,general,No,NA,RCP3Q
+388t.,Royal College of Physicians asthma assessment,general,No,NA,RCP3Q
+66Yp.,Asthma review using Royal College of Physicians three questions,general,No,NA,RCP3Q

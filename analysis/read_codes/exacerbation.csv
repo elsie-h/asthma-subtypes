@@ -1,0 +1,24 @@
+read_code,cat1,cat2,read_term
+H333.,exacerbation,NA,Exacerbation of asthma
+663y.,exacerbation,number,Number of asthma exacerbations in past year
+XaINh,exacerbation,number,Number of asthma exacerbations in past year
+Xafdj,exacerbation,NA,Acute severe exacerbation of asthma
+Xafdy,exacerbation,NA,Moderate acute exacerbation of asthma
+Xafdz,exacerbation,NA,Life threatening acute exacerbation of asthma
+Xa1hD,exacerbation,NA,Exacerbation of asthma
+X101y,exacerbation,NA,Extrinsic asthma with asthma attack
+X1022,exacerbation,NA,Intrinsic asthma with asthma attack
+XE0YW,exacerbation,NA,Asthma attack
+XM0s2,exacerbation,NA,Asthma attack NOS
+H3301,exacerbation,NA,Extrinsic asthma with asthma attack
+H3311,exacerbation,NA,Intrinsic asthma with asthma attack
+H33z0,exacerbation,NA,Severe asthma attack
+H33z1,exacerbation,NA,Asthma attack NOS
+XE0ZT,exacerbation,NA,Asthma: [NOS] or [attack]
+Y138a,exacerbation,NA,Indicators - asthma attack
+Y139d,exacerbation,NA,Indicators - asthma attack
+Y13a8,exacerbation,NA,Asthma attack - reliever use more frequent than every
+Y13a9,exacerbation,NA,Asthma attack - peak flow less than
+XE0YV,exacerbation,NA,Status asthmaticus NOS
+XE0YS,exacerbation,NA,Extrinsic asthma with status asthmaticus
+XE0YU,exacerbation,NA,Intrinsic asthma with status asthmaticus

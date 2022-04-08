@@ -1,0 +1,65 @@
+read_code,read_term,cat1,cat2
+p461.,*STANDARD PEAK FLOW meter,peak_flow_meters,NA
+p462.,*LOW RANGE PEAK FLOW meter,peak_flow_meters,NA
+p463.,*ADULT PEAK FLOW mouthpiece,peak_flow_meters,NA
+p464.,*SMALL PEAK FLOW mouthpiece,peak_flow_meters,NA
+p465.,PEAK FLOW mouthpiece adaptor,peak_flow_meters,NA
+p466.,PEAK FLOW METER mouthpiece,peak_flow_meters,NA
+p467.,MINI WRIGHT standard peak flow meter,peak_flow_meters,NA
+p468.,MINI WRIGHT low range peak flow meter,peak_flow_meters,NA
+p469.,*MINI WRIGHT ADULT mouthpiece,peak_flow_meters,NA
+p46A.,MINI-WRIGHT 3104708 low range peak flow meter,peak_flow_meters,NA
+p46B.,VITALOGRAPH 43602 standard range peak flow meter,peak_flow_meters,NA
+p46C.,VITALOGRAPH CHILD 43703 standard range peak flow meter,peak_flow_meters,NA
+p46D.,VITALOGRAPH 43704 low range peak flow meter,peak_flow_meters,NA
+p46E.,STANDARD RANGE EN13826 peak flow meter,peak_flow_meters,NA
+p46F.,LOW RANGE EN13826 peak flow meter,peak_flow_meters,NA
+p46G.,MICROPEAK MPE8200EU standard range peak flow meter,peak_flow_meters,NA
+p46H.,RESPIRONICS PERSONAL BEST 755EU standard range peak flow meter,peak_flow_meters,NA
+p46I.,RESPIRONICS PERSONAL BEST 756EU low range peak flow meter,peak_flow_meters,NA
+p46J.,AIRZONE 3130160 standard range peak flow meter,peak_flow_meters,NA
+p46K.,VITALOGRAPH ASMA-1 40000 peak flow meter,peak_flow_meters,NA
+p46L.,FYNE DYNAMICS PINNACLE 72000EU standard peak flow meter,peak_flow_meters,NA
+p46M.,PERSONALBEST 1022973 standard range peak flow meter,peak_flow_meters,NA
+p46N.,MEDI 60482 standard range peak flow meter,peak_flow_meters,NA
+p46O.,MEDI 60536 low range peak flow meter,peak_flow_meters,NA
+p46P.,VITALOGRAPH MYPEF 43950 standard range peak flow meter,peak_flow_meters,NA
+p46a.,*MINI WRIGHT SMALL mouthpiece,peak_flow_meters,NA
+p46b.,MINI WRIGHT MOUTHPIECE adaptor,peak_flow_meters,NA
+p46c.,VITALOGRAPH PULMO-AIDE standard peak flow meter,peak_flow_meters,NA
+p46d.,VITALOGRAPH PULMO-AIDE low range peak flow meter,peak_flow_meters,NA
+p46e.,VITALOGRAPH PULMO-AIDE mouthpiece,peak_flow_meters,NA
+p46f.,FERRARIS 206 standard peak flow meter,peak_flow_meters,NA
+p46g.,*FERRARIS PF mouthpiece,peak_flow_meters,NA
+p46h.,FERRARIS 207 low range peak flow meter,peak_flow_meters,NA
+p46i.,FERRARIS PF paediatric mouthpiece,peak_flow_meters,NA
+p46j.,MINI WRIGHT universal mouthpiece,peak_flow_meters,NA
+p46k.,FERRARIS PF standard mouthpiece,peak_flow_meters,NA
+p46m.,ASMAPLAN standard peak flow meter,peak_flow_meters,NA
+p46n.,MINI WRIGHT Aerodynamic Flow System low range peak flow meter,peak_flow_meters,NA
+p46p.,FERRARIS POCKETPEAK 208 standard peak flow meter,peak_flow_meters,NA
+p46q.,FERRARIS POCKETPEAK 209 low range peak flow meter,peak_flow_meters,NA
+p46r.,FERRARIS POCKETPEAK peak flow meter universal mouthpiece,peak_flow_meters,NA
+p46s.,PERSONAL BEST standard range peak flow meter,peak_flow_meters,NA
+p46t.,PERSONAL BEST low range peak flow meter,peak_flow_meters,NA
+p46u.,MICROPEAK MPE7200 standard range peak flow meter,peak_flow_meters,NA
+p46v.,MICROPEAK PSA2200 peak flow meter universal mouthpiece,peak_flow_meters,NA
+p46w.,PIKO-1 346005-EU electronic standard range peak flow meter,peak_flow_meters,NA
+p46x.,POCKETPEAK 208(EU)/F standard range peak flow meter,peak_flow_meters,NA
+p46y.,POCKETPEAK 209(EU)/F low range peak flow meter,peak_flow_meters,NA
+p46z.,MINI-WRIGHT 3103388 standard range peak flow meter,peak_flow_meters,NA
+p466.,Peak flow meter mouthpiece,peak_flow_meters,NA
+p46r.,Ferraris Pocketpeak peak flow meter universal mouthpiece,peak_flow_meters,NA
+p46k.,Ferraris PF standard mouthpiece,peak_flow_meters,NA
+p46g.,Ferraris PF mouthpiece,peak_flow_meters,NA
+p46v.,MicroPeak PSA2200 peak flow meter universal mouthpiece,peak_flow_meters,NA
+p46j.,Mini Wright mouthpiece,peak_flow_meters,NA
+p469.,Mini Wright adult mouthpiece,peak_flow_meters,NA
+p46a.,Mini Wright small mouthpiece,peak_flow_meters,NA
+p46e.,Vitalograph Pulmo-Aide mouthpiece,peak_flow_meters,NA
+p46i.,Ferraris PF paediatric mouthpiece,peak_flow_meters,NA
+p463.,Adult peak flow mouthpiece,peak_flow_meters,NA
+p464.,Small peak flow meter mouthpiece,peak_flow_meters,NA
+p465.,Peak flow meter mouthpiece adaptor,peak_flow_meters,NA
+p46b.,Mini Wright mouthpiece adaptor,peak_flow_meters,NA
+x01UG,Replacement parts for peak flow meters,peak_flow_meters,NA

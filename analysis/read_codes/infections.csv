@@ -1,0 +1,845 @@
+read_code,read_term,cat2,cat1
+16L..,Influenza-like symptoms,URTI,infections
+171..,Cough,URTI,infections
+1712.,Dry cough,URTI,infections
+1713.,Productive cough -clear sputum,URTI,infections
+1714.,Productive cough -green sputum,URTI,infections
+1715.,Productive cough-yellow sputum,URTI,infections
+1716.,Productive cough NOS,URTI,infections
+1719.,Chesty cough,URTI,infections
+171B.,Persistent cough,URTI,infections
+171F.,Cough with fever,URTI,infections
+171Z.,Cough symptom NOS,URTI,infections
+1C9..,Sore throat symptom,URTI,infections
+1C9Z.,Sore throat symptom NOS,URTI,infections
+A33..,Whooping cough,URTI,infections
+A34..,Streptococcal sore throat and scarlatina,URTI,infections
+A340.,Streptococcal sore throat,URTI,infections
+A3400,Streptococcal angina,URTI,infections
+A3401,Streptococcal laryngitis,URTI,infections
+A3402,Streptococcal pharyngitis,URTI,infections
+A3403,Streptococcal tonsillitis,URTI,infections
+A340z,Streptococcal sore throat NOS,URTI,infections
+A341.,Scarlet fever - scarlatina,URTI,infections
+A34z.,Streptococcal sore throat with scarlatina NOS,URTI,infections
+AA1..,Vincent's angina,URTI,infections
+AA10.,Vincent's stomatitis,URTI,infections
+AA11.,Vincent's gingivitis,URTI,infections
+AA12.,Vincent's pharyngitis,URTI,infections
+AA1z.,Vincent's angina NOS,URTI,infections
+H0...,Acute respiratory infections,URTI,infections
+H00..,Acute nasopharyngitis,URTI,infections
+H02..,Acute pharyngitis,URTI,infections
+H021.,Acute phlegmonous pharyngitis,URTI,infections
+H022.,Acute ulcerative pharyngitis,URTI,infections
+H023.,Acute bacterial pharyngitis,URTI,infections
+H023z,Acute bacterial pharyngitis NOS,URTI,infections
+H02z.,Acute pharyngitis NOS,URTI,infections
+H03..,Acute tonsillitis,URTI,infections
+H030.,Acute erythematous tonsillitis,URTI,infections
+H031.,Acute follicular tonsillitis,URTI,infections
+H032.,Acute ulcerative tonsillitis,URTI,infections
+H033.,Acute catarrhal tonsillitis,URTI,infections
+H035.,Acute bacterial tonsillitis,URTI,infections
+H0351,Acute staphylococcal tonsillitis,URTI,infections
+H035z,Acute bacterial tonsillitis NOS,URTI,infections
+H037.,Recurrent acute tonsillitis,URTI,infections
+H03z.,Acute tonsillitis NOS,URTI,infections
+H04..,Acute laryngitis and tracheitis,URTI,infections
+H040.,Acute laryngitis,URTI,infections
+H0400,Acute oedematous laryngitis,URTI,infections
+H0401,Acute ulcerative laryngitis,URTI,infections
+H0402,Acute catarrhal laryngitis,URTI,infections
+H0403,Acute phlegmonous laryngitis,URTI,infections
+H0406,Acute suppurative laryngitis,URTI,infections
+H040x,Acute bacterial laryngitis unspecified,URTI,infections
+H040z,Acute laryngitis NOS,URTI,infections
+H041.,Acute tracheitis,URTI,infections
+H0410,Acute tracheitis without obstruction,URTI,infections
+H0411,Acute tracheitis with obstruction,URTI,infections
+H041z,Acute tracheitis NOS,URTI,infections
+H042.,Acute laryngotracheitis,URTI,infections
+H0420,Acute laryngotracheitis without obstruction,URTI,infections
+H0421,Acute laryngotracheitis with obstruction,URTI,infections
+H042z,Acute laryngotracheitis NOS,URTI,infections
+H043.,Acute epiglottitis (non strep),URTI,infections
+H0430,Acute epiglottitis without obstruction,URTI,infections
+H0432,Acute obstructive laryngitis,URTI,infections
+H043z,Acute epiglottitis NOS,URTI,infections
+H04z.,Acute laryngitis and tracheitis NOS,URTI,infections
+H05..,Other acute upper respiratory infections,URTI,infections
+H050.,Acute laryngopharyngitis,URTI,infections
+H051.,Acute upper respiratory tract infection,URTI,infections
+H052.,Pharyngotracheitis,URTI,infections
+H053.,Tracheopharyngitis,URTI,infections
+H054.,Recurrent upper respiratory tract infection,URTI,infections
+H055.,Pharyngolaryngitis,URTI,infections
+H05y.,Other upper respiratory infections of multiple sites,URTI,infections
+H05z.,Upper respiratory infection NOS,URTI,infections
+H07..,Chest cold,URTI,infections
+H0y..,Other specified acute respiratory infections,URTI,infections
+H0z..,Acute respiratory infection NOS,URTI,infections
+H14y5,Caseous tonsillitis,URTI,infections
+H14y6,Lingular tonsillitis,URTI,infections
+H1601,Chronic catarrhal laryngitis,URTI,infections
+H27z.,Flu like illness,URTI,infections
+Hyu0.,[X]Acute upper respiratory infections,URTI,infections
+Hyu01,[X]Acute pharyngitis due to other specified organisms,URTI,infections
+Hyu02,[X]Acute tonsillitis due to other specified organisms,URTI,infections
+J083.,Oral cellulitis and abscess,URTI,infections
+J0836,Uvulitis,URTI,infections
+R041.,[D]Throat pain,URTI,infections
+R062.,[D]Cough,URTI,infections
+R2...,cold,URTI,infections
+H27..,Influenza,influenza,infections
+H270.,Influenza with pneumonia,influenza,infections
+H2700,Influenza with bronchopneumonia,influenza,infections
+H2701,"Influenza with pneumonia, influenza virus identified",influenza,infections
+H270z,Influenza with pneumonia NOS,influenza,infections
+H271.,Influenza with other respiratory manifestation,influenza,infections
+H2710,Influenza with laryngitis,influenza,infections
+H2711,Influenza with pharyngitis,influenza,infections
+H271z,Influenza with respiratory manifestations NOS,influenza,infections
+H27y.,Influenza with other manifestations,influenza,infections
+H27y0,Influenza with encephalopathy,influenza,infections
+H27y1,Influenza with gastrointestinal tract involvement,influenza,infections
+H27yz,Influenza with other manifestations NOS,influenza,infections
+H27z.,Influenza NOS,influenza,infections
+H29..,Avian influenza,influenza,infections
+H27z.,Influenza like illness,influenza,infections
+16L..,Influenza-like symptoms,influenza,infections
+H00..,(Acute nasopharyngitis or rhinitis) or (common cold),URTI,infections
+X73mX,Rhinovirus,URTI,infections
+X73mY,Human rhinovirus,URTI,infections
+XE0Xl,Common cold,URTI,infections
+XE0Yn,(Ac nasopharyng)/(com cold)/(ac coryza)/(ac rhinit)/(sniffl),URTI,infections
+1716.,(Coughing up phlegm) or (productive cough NOS),URTI,infections
+1717.,Night cough present,URTI,infections
+171A.,Chronic cough,URTI,infections
+171C.,Morning cough,URTI,infections
+171D.,Evening cough,URTI,infections
+173B.,Nocturnal cough / wheeze,URTI,infections
+A33..,(Whooping cough) or (Bordetella),URTI,infections
+A33y.,Whooping cough - other specified organism,URTI,infections
+A33yz,Other whooping cough NOS,URTI,infections
+A33z.,Whooping cough NOS,URTI,infections
+Ayu39,[X]Whooping cough due to other Bordetella species,URTI,infections
+Ayu3A,"[X]Whooping cough, unspecified",URTI,infections
+H243.,Pertussis pneumonia,LRTI,infections
+X76Hy,Productive cough,URTI,infections
+X76Hz,Nocturnal cough,URTI,infections
+XE0Qw,Whooping cough,URTI,infections
+XE0qn,Cough,URTI,infections
+XE0qo,Productive cough NOS,URTI,infections
+XM0Ch,C/O - cough,URTI,infections
+Xa2kc,Persistent cough,URTI,infections
+Xa4fM,Croupy cough,URTI,infections
+Xa4fN,Barking cough,URTI,infections
+Xa6a9,Increasing frequency of cough,URTI,infections
+Xa7u9,Brassy cough,URTI,infections
+Xa7uA,Bovine cough,URTI,infections
+Xa7uB,Effective cough,URTI,infections
+XaFwR,Unexplained cough,URTI,infections
+XaIO1,Cough with fever,URTI,infections
+Y01ed,Acute cough,URTI,infections
+Y9896,Whooping cough - pertussis,URTI,infections
+Y9897,Whooping cough pneumonia,URTI,infections
+.A22.,Pulmonary tuberculosis,LRTI,infections
+A0222,Salmonella pneumonia,LRTI,infections
+A054.,Amoebic lung abscess,LRTI,infections
+A11..,Pulmonary tuberculosis,LRTI,infections
+A110.,Infiltrative lung tuberculosis,LRTI,infections
+A111.,Nodular lung tuberculosis,LRTI,infections
+A112.,Tuberculosis of lung with cavitation,LRTI,infections
+A113.,Tuberculosis of bronchus,LRTI,infections
+A114.,Tuberculous fibrosis of lung,LRTI,infections
+A115.,Tuberculous bronchiectasis,LRTI,infections
+A116.,Tuberculous pneumonia,LRTI,infections
+A117.,Tuberculous pneumothorax,LRTI,infections
+A11y.,Other specified pulmonary tuberculosis,LRTI,infections
+A11z.,Pulmonary tuberculosis NOS,LRTI,infections
+A120.,Tuberculosis of pleura,LRTI,infections
+A1202,Tuberculous hydrothorax,LRTI,infections
+A120z,Tuberculous pleurisy NOS,LRTI,infections
+A1220,Isolated tracheal tuberculosis,LRTI,infections
+A1221,Isolated bronchial tuberculosis,LRTI,infections
+A1240,TB lung confirm sputum microscopy with or without culture,LRTI,infections
+A1241,"Tuberculosis of lung, confirmed by culture only",LRTI,infections
+A1242,"Tuberculosis of lung, confirmed histologically",LRTI,infections
+A1243,"Tuberculosis of lung, confirmed by unspecified means",LRTI,infections
+A1246,"Tuberculous pleurisy, conf bacteriologically/histologically",LRTI,infections
+A1251,Tuberculosis lung bact and histological examin not done,LRTI,infections
+A203.,Primary pneumonic plague,LRTI,infections
+A204.,Secondary pneumonic plague,LRTI,infections
+A205.,"Pneumonic plague, unspecified",LRTI,infections
+A33y.,Whooping cough - other specified organism,LRTI,infections
+A33yz,Other whooping cough NOS,LRTI,infections
+A33z.,Whooping cough NOS,LRTI,infections
+A3By1,Eaton's agent infection,LRTI,infections
+A3By4,Mycoplasmal pneumonia,LRTI,infections
+A521.,Chickenpox pneumonia,LRTI,infections
+A73x.,Ornithosis with other specified complications,LRTI,infections
+A73y.,Ornithosis with unspecified complications,LRTI,infections
+A73z.,Unspecified Ornithosis,LRTI,infections
+AB30.,Primary pulmonary coccidioidomycosis,LRTI,infections
+AB405,Histoplasma capsulatum with pneumonia,LRTI,infections
+AB415,Pulmonary African histoplasmosis,LRTI,infections
+AB501,Primary pulmonary blastomycosis,LRTI,infections
+AB504,Acute pulmonary blastomycosis,LRTI,infections
+AB511,Pulmonary paracoccidioidomycosis,LRTI,infections
+AD04.,Toxoplasma pneumonitis,LRTI,infections
+Ayu39,[X]Whooping cough due to other Bordetella species,LRTI,infections
+Ayu3A,"[X]Whooping cough, unspecified",LRTI,infections
+H06..,Acute bronchitis and bronchiolitis,LRTI,infections
+H0603,Acute purulent bronchitis,LRTI,infections
+H0606,Acute pneumococcal bronchitis,LRTI,infections
+H0607,Acute streptococcal bronchitis,LRTI,infections
+H0608,Acute haemophilus influenzae bronchitis,LRTI,infections
+H0609,Acute Neisseria catarrhalis bronchitis,LRTI,infections
+H060B,Acute coxsackievirus bronchitis,LRTI,infections
+H060C,Acute parainfluenza virus bronchitis,LRTI,infections
+H060D,Acute respiratory syncytial virus bronchitis,LRTI,infections
+H060E,Acute bronchitis due to rhinovirus,LRTI,infections
+H060F,Acute echovirus bronchitis,LRTI,infections
+H060w,Acute viral bronchitis unspecified,LRTI,infections
+H060x,Acute bacterial bronchitis unspecified,LRTI,infections
+H061.,Acute bronchiolitis,LRTI,infections
+H0610,Acute capillary bronchiolitis,LRTI,infections
+H0611,Acute obliterating bronchiolitis,LRTI,infections
+H0612,Acute bronchiolitis with bronchospasm,LRTI,infections
+H0613,Acute exudative bronchiolitis,LRTI,infections
+H0614,Obliterating fibrous bronchiolitis,LRTI,infections
+H0615,Acute bronchiolitis due to respiratory syncytial virus,LRTI,infections
+H0616,Acute bronchiolitis due to other specified organisms,LRTI,infections
+H061z,Acute bronchiolitis NOS,LRTI,infections
+H06z.,Acute bronchitis or bronchiolitis NOS,LRTI,infections
+H06z0,Chest infection (& NOS),LRTI,infections
+H07..,Chest cold,LRTI,infections
+H1yz0,Tracheal abscess,LRTI,infections
+H2...,Pneumonia and influenza,LRTI,infections
+H20..,Viral pneumonia (& chest infection),LRTI,infections
+H200.,Adenoviral pneumonia,LRTI,infections
+H201.,Pneumonia due to respiratory syncytial virus,LRTI,infections
+H202.,Parainfluenzal pneumonia,LRTI,infections
+H20y.,Viral pneumonia NEC,LRTI,infections
+H20z.,Viral pneumonia NOS,LRTI,infections
+H21..,Pneumococcal pneumonia (& lobar),LRTI,infections
+H22..,Other bacterial pneumonia,LRTI,infections
+H220.,Pneumonia due to Klebsiella pneumoniae,LRTI,infections
+H221.,Pseudomonal pneumonia,LRTI,infections
+H222.,Haemophilus influenzae pneumonia,LRTI,infections
+H223.,Streptococcal pneumonia,LRTI,infections
+H2230,Group B streptococcal pneumonia,LRTI,infections
+H224.,Staphylococcal pneumonia,LRTI,infections
+H22y.,Pneumonia due to other specified bacteria,LRTI,infections
+H22y0,Escherichia coli pneumonia,LRTI,infections
+H22y1,Proteus pneumonia,LRTI,infections
+H22y2,Legionella pneumonia,LRTI,infections
+H22yz,Pneumonia due to bacteria NOS,LRTI,infections
+H22z.,Bacterial pneumonia NOS,LRTI,infections
+H23..,Pneumonia due to other specified organisms,LRTI,infections
+H231.,Mycoplasmal pneumonia,LRTI,infections
+H232.,Pneumonia due to pleuropneumonia-like organism,LRTI,infections
+H23z.,Pneumonia due to specified organism NOS,LRTI,infections
+H24..,(Pneumonia) or (chest infection) with infectious diseases EC,LRTI,infections
+H240.,Measles pneumonia,LRTI,infections
+H241.,Cytomegalovirus pneumonia,LRTI,infections
+H243.,Pertussis pneumonia,LRTI,infections
+H244.,Tularaemia pneumonia,LRTI,infections
+H245.,Anthrax pneumonia,LRTI,infections
+H246.,Pneumonia with aspergillosis,LRTI,infections
+H247.,Pneumonia with other systemic mycoses,LRTI,infections
+H2470,Candidal pneumonia,LRTI,infections
+H247z,Pneumonia with systemic mycosis NOS,LRTI,infections
+H24y.,Pneumonia with other infectious diseases EC,LRTI,infections
+H24y0,Actinomycotic pneumonia,LRTI,infections
+H24y1,Nocardial pneumonia,LRTI,infections
+H24y2,Pneumocystis carinii pneumonia,LRTI,infections
+H24y5,Toxoplasma pneumonia,LRTI,infections
+H24y6,Typhoid pneumonia,LRTI,infections
+H24y7,Chickenpox pneumonia,LRTI,infections
+H24yz,Pneumonia with other infectious diseases EC NOS,LRTI,infections
+H24z.,Pneumonia with infectious diseases EC NOS,LRTI,infections
+H26..,Pneumonia due to unspecified organism,LRTI,infections
+H260.,Lobar pneumonia due to unspecified organism,LRTI,infections
+H261.,Basal pneumonia due to unspecified organism,LRTI,infections
+H270.,Influenzal pneumonia,LRTI,infections
+H2700,Influenza with bronchopneumonia,LRTI,infections
+H2701,"Influenza with pneumonia, influenza virus identified",LRTI,infections
+H270z,Influenza with pneumonia NOS,LRTI,infections
+H2y..,Other specified pneumonia or influenza,LRTI,infections
+H2z..,Pneumonia or influenza NOS,LRTI,infections
+H311.,Mucopurulent chronic bronchitis,LRTI,infections
+H3110,Purulent chronic bronchitis,LRTI,infections
+H311z,Mucopurulent chronic bronchitis NOS,LRTI,infections
+H313.,Mixed simple and mucopurulent chronic bronchitis,LRTI,infections
+H341.,Post-infective bronchiectasis,LRTI,infections
+H5109,Pneumococcal pleurisy,LRTI,infections
+H510A,Staphylococcal pleurisy,LRTI,infections
+H510B,Streptococcal pleurisy,LRTI,infections
+H530.,Lung abscess,LRTI,infections
+H5300,Single lung abscess,LRTI,infections
+H5301,Multiple lung abscesses,LRTI,infections
+H5303,Abscess of lung with pneumonia,LRTI,infections
+H530z,Abscess of lung NOS,LRTI,infections
+Hyu08,[X]Other viral pneumonia,LRTI,infections
+Hyu09,[X]Pneumonia due to other aerobic gram-negative bacteria,LRTI,infections
+Hyu0A,[X]Other bacterial pneumonia,LRTI,infections
+Hyu0B,[X]Pneumonia due to other specified infectious organisms,LRTI,infections
+Hyu0C,[X]Pneumonia in bacterial diseases classified elsewhere,LRTI,infections
+Hyu0D,[X]Pneumonia in viral diseases classified elsewhere,LRTI,infections
+Hyu0E,[X]Pneumonia in mycoses classified elsewhere,LRTI,infections
+Hyu0F,[X]Pneumonia in parasitic diseases classified elsewhere,LRTI,infections
+Hyu0H,"[X]Other pneumonia, organism unspecified",LRTI,infections
+Hyu1.,[X]Other acute lower respiratory infections,LRTI,infections
+Hyu10,[X]Acute bronchitis due to other specified organisms,LRTI,infections
+Hyu11,[X]Acute bronchiolitis due to other specified organisms,LRTI,infections
+Q3100,Congenital staphylococcal pneumonia,LRTI,infections
+Q3101,Congenital group A haemolytic streptococcal pneumonia,LRTI,infections
+Q3102,Congenital group B haemolytic streptococcal pneumonia,LRTI,infections
+Q3103,Congenital Escherichia coli pneumonia,LRTI,infections
+Q3104,Congenital pseudomonal pneumonia,LRTI,infections
+Q3106,Congenital chlamydial pneumonia,LRTI,infections
+Qyu31,[X]Congenital pneumonia due to other bacterial agents,LRTI,infections
+Qyu32,[X]Congenital pneumonia due to other organisms,LRTI,infections
+SP132,Postoperative chest infection,LRTI,infections
+X1004,Infection of lower respiratory tract,LRTI,infections
+X1006,Chest infection - unspecified bronchitis,LRTI,infections
+X1007,Acute bacterial bronchitis,LRTI,infections
+X1009,Acute mycoplasmal bronchitis,LRTI,infections
+X100A,Acute chlamydial bronchitis,LRTI,infections
+X100B,Acute viral bronchitis,LRTI,infections
+X100C,Acute viral bronchiolitis,LRTI,infections
+X100D,Acute bronchiolitis due to adenovirus,LRTI,infections
+X100G,Atypical pneumonia,LRTI,infections
+X100H,Bacterial pneumonia,LRTI,infections
+X100J,Pneumococcal pneumonia,LRTI,infections
+X100K,Pneumonic plague,LRTI,infections
+X100L,Meningococcal pneumonia,LRTI,infections
+X100N,Chlamydial pneumonia,LRTI,infections
+X100O,Neonatal chlamydial pneumonia,LRTI,infections
+X100R,Fungal pneumonia,LRTI,infections
+X100S,Pulmonary mucormycosis,LRTI,infections
+X100V,Chronic pulmonary coccidioidomycosis,LRTI,infections
+X100W,Pulmonary blastomycosis,LRTI,infections
+X100Y,Mycobacterial pneumonia,LRTI,infections
+X100b,Pneumonia due to parasitic infestation,LRTI,infections
+X100d,Rickettsial pneumonia,LRTI,infections
+X100e,Glandular fever pneumonia,LRTI,infections
+X100f,Mononuclear interstitial pneumonia,LRTI,infections
+X100g,Herpes simplex pneumonia,LRTI,infections
+X100h,Giant cell pneumonia,LRTI,infections
+X100j,Chronic bronchial sepsis,LRTI,infections
+X101K,Tuberculous chylothorax,LRTI,infections
+X104U,Tracheal sepsis,LRTI,infections
+X104j,Tuberculous bronchopleural fistula,LRTI,infections
+X104k,Bronchial sepsis,LRTI,infections
+X70RK,Acute pulmonary histoplasmosis capsulati,LRTI,infections
+X70RL,Chronic pulmonary histoplasmosis capsulati,LRTI,infections
+X70RZ,Acute pulmonary African histoplasmosis,LRTI,infections
+X70Ra,Chronic pulmonary African histoplasmosis,LRTI,infections
+X70Rg,Chronic pulmonary blastomycosis,LRTI,infections
+X70Ua,Capillaria aerophila chest infection,LRTI,infections
+XE0Qw,Whooping cough,LRTI,infections
+XE0Xs,Chest infection NOS,LRTI,infections
+XE0Xt,Acute lower respiratory tract infection,LRTI,infections
+XE0YG,Viral pneumonia,LRTI,infections
+XE0YH,Pneumococcal lobar pneumonia,LRTI,infections
+XE0YI,Pneumonia with infectious diseases EC,LRTI,infections
+XE0YJ,Bronchopneumonia due to unspecified organism,LRTI,infections
+XE0YM,Purulent chronic bronchitis,LRTI,infections
+XE0Yt,Acute: [bronchitis]/[chest infections]/[tracheobronchitis],LRTI,infections
+XE2b5,Psittacosis,LRTI,infections
+XE2wL,Tuberculous pleural empyema,LRTI,infections
+Xa0Aa,Congenital rubella pneumonitis,LRTI,infections
+Xa0B7,Congenital viral pneumonia,LRTI,infections
+Xa0B8,Congenital bacterial pneumonia,LRTI,infections
+Xa0Y7,Non-tuberculous mycobacterial pneumonia,LRTI,infections
+Xa97Y,Tuberculosis of trachea,LRTI,infections
+Xa97Z,Pulmonary mycobacterium avium-intracellulare infection,LRTI,infections
+XaBE9,Basal pneumonia due to unspecified organism,LRTI,infections
+XaBM8,Recurrent chest infection,LRTI,infections
+XaBfJ,Secondary bacterial pneumonia,LRTI,infections
+XaDcV,Viral lower respiratory infection,LRTI,infections
+XaDsa,Infective pneumonia,LRTI,infections
+XaDsb,Congenital infective pneumonia,LRTI,infections
+XaDtB,Acute infective bronchitis,LRTI,infections
+XaDth,Acute infective tracheobronchitis,LRTI,infections
+XaDtl,Legionnaire's disease,LRTI,infections
+XaEW2,Infective pleurisy,LRTI,infections
+XaEW3,Bacterial pleurisy,LRTI,infections
+XaEW4,Viral pleurisy,LRTI,infections
+XaYYt,Acute bronchiolitis due to human metapneumovirus,LRTI,infections
+XaYYu,Pneumonia due to human metapneumovirus,LRTI,infections
+XaYby,Hantavirus pulmonary syndrome,LRTI,infections
+XaeVN,Influenza with pneumonia due to seasonal influenza virus,LRTI,infections
+XaeVO,Pneumonia due to Gram negative bacteria,LRTI,infections
+Y210a,Pneumonia caused by severe acute respiratory syndrome coronavirus 2 (disorder),LRTI,infections
+A740.,Herpangina,URTI,infections
+H024.,Acute viral pharyngitis,URTI,infections
+H036.,Acute viral tonsillitis,URTI,infections
+H040w,Acute viral laryngitis unspecified,URTI,infections
+H05z.,Upper respiratory tract infection (& viral) NOS,URTI,infections
+H1204,Chronic infective rhinitis,URTI,infections
+H1y21,Pharynx or nasopharynx cellulitis,URTI,infections
+H1y22,Parapharyngeal abscess,URTI,infections
+H1y23,Retropharyngeal abscess,URTI,infections
+H1y26,Pharynx or nasopharynx abscess,URTI,infections
+H1y50,Abscess of vocal cords,URTI,infections
+H1y75,Abscess of larynx,URTI,infections
+Hyu03,[X]Other acute upper respiratory infections/multiple sites,URTI,infections
+Hyu28,[X]Other abscess of pharynx,URTI,infections
+X00mH,Acute herpes simplex pharyngitis,URTI,infections
+X00mI,Acute herpes zoster pharyngitis,URTI,infections
+X00mJ,Enteroviral lymphonodular pharyngitis,URTI,infections
+X00mL,Glandular fever pharyngitis,URTI,infections
+X00mr,Acute infection of tonsillar remnant,URTI,infections
+X00n7,Viral epiglottitis,URTI,infections
+X1002,Acute upper respiratory infection,URTI,infections
+X1003,Viral upper respiratory tract infection NOS,URTI,infections
+X76bv,Supraglottic abscess,URTI,infections
+X76c1,Subglottic abscess,URTI,infections
+XE0Xq,Upper respiratory infection NOS,URTI,infections
+XM1QU,Nasal infection,URTI,infections
+Xa1sb,Viral upper respiratory tract infection,URTI,infections
+Xa2o8,Infection of the upper respiratory tract,URTI,infections
+Xa86D,Acute viral laryngotracheitis,URTI,infections
+XaDuG,Infective pharyngitis,URTI,infections
+XaDuH,Infective laryngitis,URTI,infections
+XaDuI,Infective tonsillitis,URTI,infections
+Y210b,Infection of upper respiratory tract caused by severe acute respiratory syndrome coronavirus 2 (disorder),URTI,infections
+G5203,Acute myocarditis - influenzal,influenza,infections
+H0404,Acute haemophilus influenzae laryngitis,URTI,infections
+H0608,Acute haemophilus influenzae bronchitis,influenza,infections
+H060C,Acute parainfluenza virus bronchitis,influenza,infections
+H2...,Pneumonia and influenza,influenza,infections
+H222.,Haemophilus influenzae pneumonia,influenza,infections
+H270.,Influenzal pneumonia,influenza,infections
+H27z.,(Influenza like illness) or (influenza NOS),influenza,infections
+H2y..,Other specified pneumonia or influenza,influenza,infections
+H2z..,Pneumonia or influenza NOS,influenza,infections
+Hyu04,"[X]Flu+oth respiratory manifestations,'flu virus identified",influenza,infections
+Hyu05,"[X]Influenza+other manifestations,influenza virus identified",influenza,infections
+Hyu06,"[X]Influenza+oth respiratory manifestatns,virus not identifd",influenza,infections
+Hyu07,"[X]Influenza with other manifestations, virus not identified",influenza,infections
+X73lJ,Paramyxovirus,influenza,infections
+X73lK,Parainfluenza virus type 1,influenza,infections
+X73lL,Parainfluenza virus type 2,influenza,infections
+X73lM,Parainfluenza virus type 3,influenza,infections
+X73lN,Parainfluenza virus type 4,influenza,infections
+X73lf,Influenza virus,influenza,infections
+X73lg,Influenza virus A and B,influenza,infections
+X73lh,Influenza virus A,influenza,infections
+X73li,Influenza virus B,influenza,infections
+X73lj,Influenza virus C,influenza,infections
+XE0YK,Influenza NOS,influenza,infections
+XE0ZF,Pneumonia and influenza &/or pneumonia,influenza,infections
+XE0ZJ,(Influenza NOS) or (influenza-like illness),influenza,infections
+XM0rz,Influenza-like illness,influenza,infections
+XM0s0,Flu-like illness NOS,influenza,infections
+Xa8VO,Parainfluenza virus,influenza,infections
+XaC1s,Encephalitis due to influenza,influenza,infections
+XaC2H,Encephalitis due to influenza-virus identified,influenza,infections
+XaEGX,Encephalitis due to influenza-specific virus not identified,influenza,infections
+XaIBK,Influenza-like symptoms,influenza,infections
+XaMih,Avian influenza,influenza,infections
+XaPOk,Human parainfluenza virus detected,influenza,infections
+XaQQp,Influenza due to Influenza A virus subtype H1N1,influenza,infections
+XaeVK,Influenza due to zoonotic influenza virus,influenza,infections
+XaeVL,Influenza due to pandemic influenza virus,influenza,infections
+XaeVM,Influenza due to seasonal influenza virus,influenza,infections
+XaeVN,Influenza with pneumonia due to seasonal influenza virus,influenza,infections
+Y0b97,Swine influenza,influenza,infections
+Y8508,Pneumonia/influenza NOS,influenza,infections
+1C9..,Throat soreness (& symptom),URTI,infections
+1C92.,Has a sore throat,URTI,infections
+A34..,Streptococcal sore throat with scarlatina,URTI,infections
+H02..,Throat: [acute pharyngitis]/[sore NOS (& viral)]/[infection],URTI,infections
+H15..,Peritonsillar abscess,URTI,infections
+X20RL,Streptococcal stomatitis,URTI,infections
+X70IA,Cutaneous streptococcal ulcer,URTI,infections
+XE0Yr,Throat: [acute pharyngitis] or [infection NOS] or [sore],URTI,infections
+XE0sE,Sore throat symptom,URTI,infections
+XE0vJ,Throat symptoms (& sore throat symptom),URTI,infections
+Xa9zW,Sore throat,URTI,infections
+2DC3.,Inflamed throat,URTI,infections
+A341.,Scarlet fever,URTI,infections
+A772.,Viral pharyngoconjunctivitis,URTI,infections
+A986.,Gonococcal pharyngitis,URTI,infections
+AA1..,(Vincent's angina) or (trench mouth),URTI,infections
+AA11.,Acute necrotising ulcerative gingivitis,URTI,infections
+AA12.,Vincent's angina - pharyngitis,URTI,infections
+AA1z.,Vincent's: [angina NOS] or [laryngitis] or [tonsillitis],URTI,infections
+H020.,Acute gangrenous pharyngitis,URTI,infections
+H0230,Acute pneumococcal pharyngitis,URTI,infections
+H0231,Acute staphylococcal pharyngitis,URTI,infections
+H025.,Allergic pharyngitis,URTI,infections
+H03..,Tonsillitis (& acute),URTI,infections
+H034.,Acute gangrenous tonsillitis,URTI,infections
+H0350,Acute pneumococcal tonsillitis,URTI,infections
+H2711,Influenza with pharyngitis,URTI,infections
+X00mG,Pharyngitis,URTI,infections
+X00mN,Meningococcal pharyngitis,URTI,infections
+X00mP,Chlamydial pharyngitis,URTI,infections
+X00mS,Acute pharyngeal candidiasis,URTI,infections
+X00mq,Vincent's tonsillitis,URTI,infections
+X00ms,Acute peritonsillitis,URTI,infections
+X00n2,Vincent's laryngitis,URTI,infections
+X5021,Staphylococcal scarlatina,URTI,infections
+XE0S5,Vincent's angina NOS,URTI,infections
+XE0Xn,Acute pharyngitis,URTI,infections
+XE0Yv,Ac resp infec: [NOS][pharyngotracheitis][tracheopharyngitis],URTI,infections
+XE2aC,Acute tonsillitis,URTI,infections
+Xa7I0,Tonsillitis,URTI,infections
+Xa7lm,Uvulitis,URTI,infections
+Xa9Bu,Acute lingual tonsillitis,URTI,infections
+Y5293,Acute recurrent tonsillitis,URTI,infections
+Y9313,Strep. throat and scarlatina,URTI,infections
+Y9314,Strep.throat + scarlatina NOS,URTI,infections
+65VA.,Notification of whooping cough,LRTI,infections
+A0222,Salmonella pneumonia,LRTI,infections
+A054.,Amoebic lung abscess,LRTI,infections
+A11..,Pulmonary tuberculosis,LRTI,infections
+A110.,Infiltrative lung tuberculosis,LRTI,infections
+A111.,Nodular lung tuberculosis,LRTI,infections
+A112.,Tuberculosis of lung with cavitation,LRTI,infections
+A113.,Tuberculosis of bronchus,LRTI,infections
+A115.,Tuberculous bronchiectasis,LRTI,infections
+A116.,Tuberculous pneumonia,LRTI,infections
+A11y.,Other specified pulmonary tuberculosis,LRTI,infections
+A11z.,Pulmonary tuberculosis NOS,LRTI,infections
+A1202,Tuberculous hydrothorax,LRTI,infections
+A1221,Isolated bronchial tuberculosis,LRTI,infections
+A1240,TB lung confirm sputum microscopy with or without culture,LRTI,infections
+A1241,"Tuberculosis of lung, confirmed by culture only",LRTI,infections
+A1242,"Tuberculosis of lung, confirmed histologically",LRTI,infections
+A1243,"Tuberculosis of lung, confirmed by unspecified means",LRTI,infections
+A1251,Tuberculosis lung bact and histological examin not done,LRTI,infections
+A203.,Primary pneumonic plague,LRTI,infections
+A204.,Secondary pneumonic plague,LRTI,infections
+A205.,"Pneumonic plague, unspecified",LRTI,infections
+A33..,Whooping cough,LRTI,infections
+A330.,Bordetella pertussis,LRTI,infections
+A331.,Bordetella parapertussis,LRTI,infections
+A33y.,Whooping cough - other specified organism,LRTI,infections
+A33y0,Bordetella bronchiseptica,LRTI,infections
+A33yz,Other whooping cough NOS,LRTI,infections
+A33z.,Whooping cough NOS,LRTI,infections
+A3B3.,Friedlander's bacillus infection,LRTI,infections
+A3BX4,Streptococ pneumon/cause/disease classified/oth chapters,LRTI,infections
+A3BXA,Mycoplasma pneumoniae [PPLO] cause/dis classifd/oth chaptr,LRTI,infections
+A3BXB,Klebsiella pneumoniae/cause/disease classifd/oth chapters,LRTI,infections
+A3By1,Eaton's agent infection,LRTI,infections
+A3By4,Pleuropneumonia-like organism (PPLO) infection,LRTI,infections
+A73x.,Ornithosis with other specified complications,LRTI,infections
+A73y.,Ornithosis with unspecified complications,LRTI,infections
+A73z.,Unspecified Ornithosis,LRTI,infections
+AB24.,Candidiasis of lung,LRTI,infections
+AB30.,Primary pulmonary coccidioidomycosis,LRTI,infections
+AB405,Histoplasma capsulatum with pneumonia,LRTI,infections
+AB415,Histoplasma duboisii with pneumonia,LRTI,infections
+AB501,Primary pulmonary blastomycosis,LRTI,infections
+AB504,Acute pulmonary blastomycosis,LRTI,infections
+AB511,Pulmonary paracoccidioidomycosis,LRTI,infections
+AB636,Aspergillus bronchitis,LRTI,infections
+AD04.,Toxoplasma pneumonitis,LRTI,infections
+Ayu39,[X]Whooping cough due to other Bordetella species,LRTI,infections
+Ayu3A,"[X]Whooping cough, unspecified",LRTI,infections
+H06..,Acute bronchitis and bronchiolitis,LRTI,infections
+H060.,Acute bronchitis,LRTI,infections
+H0600,Acute fibrinous bronchitis,LRTI,infections
+H0601,Acute membranous bronchitis,LRTI,infections
+H0602,Acute pseudomembranous bronchitis,LRTI,infections
+H0603,Acute purulent bronchitis,LRTI,infections
+H0604,Acute croupous bronchitis,LRTI,infections
+H0605,Acute tracheobronchitis,LRTI,infections
+H0606,Acute pneumococcal bronchitis,LRTI,infections
+H0607,Acute streptococcal bronchitis,LRTI,infections
+H0608,Acute haemophilus influenzae bronchitis,LRTI,infections
+H0609,Acute neisseria catarrhalis bronchitis,LRTI,infections
+H060A,Acute bronchitis due to mycoplasma pneumoniae,LRTI,infections
+H060B,Acute bronchitis due to coxsackievirus,LRTI,infections
+H060C,Acute bronchitis due to parainfluenza virus,LRTI,infections
+H060D,Acute bronchitis due to respiratory syncytial virus,LRTI,infections
+H060E,Acute bronchitis due to rhinovirus,LRTI,infections
+H060F,Acute bronchitis due to echovirus,LRTI,infections
+H060v,Subacute bronchitis unspecified,LRTI,infections
+H060w,Acute viral bronchitis unspecified,LRTI,infections
+H060x,Acute bacterial bronchitis unspecified,LRTI,infections
+H060z,Acute bronchitis NOS,LRTI,infections
+H061.,Acute bronchiolitis,LRTI,infections
+H0615,Acute bronchiolitis due to respiratory syncytial virus,LRTI,infections
+H0616,Acute bronchiolitis due to other specified organisms,LRTI,infections
+H062.,Acute lower respiratory tract infection,LRTI,infections
+H06z.,Acute bronchitis or bronchiolitis NOS,LRTI,infections
+H06z0,Chest infection NOS,LRTI,infections
+H06z1,Lower resp tract infection,LRTI,infections
+H06z2,Recurrent chest infection,LRTI,infections
+H07..,Chest cold,LRTI,infections
+H1yz0,Abscess of trachea,LRTI,infections
+H2...,Pneumonia and influenza,LRTI,infections
+H20..,Viral pneumonia,LRTI,infections
+H200.,Pneumonia due to adenovirus,LRTI,infections
+H201.,Pneumonia due to respiratory syncytial virus,LRTI,infections
+H202.,Pneumonia due to parainfluenza virus,LRTI,infections
+H203.,Pneumonia due to human metapneumovirus,LRTI,infections
+H20y.,Viral pneumonia NEC,LRTI,infections
+H20y0,Severe acute respiratory syndrome,LRTI,infections
+H20z.,Viral pneumonia NOS,LRTI,infections
+H21..,Lobar (pneumococcal) pneumonia,LRTI,infections
+H22..,Other bacterial pneumonia,LRTI,infections
+H220.,Pneumonia due to klebsiella pneumoniae,LRTI,infections
+H221.,Pneumonia due to pseudomonas,LRTI,infections
+H222.,Pneumonia due to haemophilus influenzae,LRTI,infections
+H223.,Pneumonia due to streptococcus,LRTI,infections
+H2230,"Pneumonia due to streptococcus, group B",LRTI,infections
+H224.,Pneumonia due to staphylococcus,LRTI,infections
+H22y.,Pneumonia due to other specified bacteria,LRTI,infections
+H22y0,Pneumonia due to escherichia coli,LRTI,infections
+H22y1,Pneumonia due to proteus,LRTI,infections
+H22y2,Pneumonia - Legionella,LRTI,infections
+H22yX,Pneumonia due to other aerobic gram-negative bacteria,LRTI,infections
+H22yz,Pneumonia due to bacteria NOS,LRTI,infections
+H22z.,Bacterial pneumonia NOS,LRTI,infections
+H23..,Pneumonia due to other specified organisms,LRTI,infections
+H230.,Pneumonia due to Eaton's agent,LRTI,infections
+H231.,Pneumonia due to mycoplasma pneumoniae,LRTI,infections
+H232.,Pneumonia due to pleuropneumonia like organisms,LRTI,infections
+H233.,Chlamydial pneumonia,LRTI,infections
+H23z.,Pneumonia due to specified organism NOS,LRTI,infections
+H24..,Pneumonia with infectious diseases EC,LRTI,infections
+H240.,Pneumonia with measles,LRTI,infections
+H241.,Pneumonia with cytomegalic inclusion disease,LRTI,infections
+H242.,Pneumonia with ornithosis,LRTI,infections
+H243.,Pneumonia with whooping cough,LRTI,infections
+H244.,Pneumonia with tularaemia,LRTI,infections
+H245.,Pneumonia with anthrax,LRTI,infections
+H246.,Pneumonia with aspergillosis,LRTI,infections
+H247.,Pneumonia with other systemic mycoses,LRTI,infections
+H2470,Pneumonia with candidiasis,LRTI,infections
+H2471,Pneumonia with coccidioidomycosis,LRTI,infections
+H2472,Pneumonia with histoplasmosis,LRTI,infections
+H247z,Pneumonia with systemic mycosis NOS,LRTI,infections
+H24y.,Pneumonia with other infectious diseases EC,LRTI,infections
+H24y0,Pneumonia with actinomycosis,LRTI,infections
+H24y1,Pneumonia with nocardiasis,LRTI,infections
+H24y2,Pneumonia with pneumocystis carinii,LRTI,infections
+H24y3,Pneumonia with Q-fever,LRTI,infections
+H24y4,Pneumonia with salmonellosis,LRTI,infections
+H24y5,Pneumonia with toxoplasmosis,LRTI,infections
+H24y6,Pneumonia with typhoid fever,LRTI,infections
+H24y7,Pneumonia with varicella,LRTI,infections
+H24yz,Pneumonia with other infectious diseases EC NOS,LRTI,infections
+H24z.,Pneumonia with infectious diseases EC NOS,LRTI,infections
+H25..,Bronchopneumonia due to unspecified organism,LRTI,infections
+H26..,Pneumonia due to unspecified organism,LRTI,infections
+H260.,Lobar pneumonia due to unspecified organism,LRTI,infections
+H2600,Lung consolidation,LRTI,infections
+H261.,Basal pneumonia due to unspecified organism,LRTI,infections
+H262.,Postoperative pneumonia,LRTI,infections
+H263.,"Pneumonitis, unspecified",LRTI,infections
+H270.,Influenza with pneumonia,LRTI,infections
+H2700,Influenza with bronchopneumonia,LRTI,infections
+H2701,"Influenza with pneumonia, influenza virus identified",LRTI,infections
+H270z,Influenza with pneumonia NOS,LRTI,infections
+H28..,Atypical pneumonia,LRTI,infections
+H2B..,Community acquired pneumonia,LRTI,infections
+H2C..,Hospital acquired pneumonia,LRTI,infections
+H2y..,Other specified pneumonia or influenza,LRTI,infections
+H2z..,Pneumonia or influenza NOS,LRTI,infections
+H30..,Bronchitis unspecified,LRTI,infections
+H300.,Tracheobronchitis NOS,LRTI,infections
+H301.,Laryngotracheobronchitis,LRTI,infections
+H302.,Wheezy bronchitis,LRTI,infections
+H30z.,Bronchitis NOS,LRTI,infections
+H31..,Chronic bronchitis,LRTI,infections
+H310.,Simple chronic bronchitis,LRTI,infections
+H3100,Chronic catarrhal bronchitis,LRTI,infections
+H3101,Smokers' cough,LRTI,infections
+H310z,Simple chronic bronchitis NOS,LRTI,infections
+H311.,Mucopurulent chronic bronchitis,LRTI,infections
+H3110,Purulent chronic bronchitis,LRTI,infections
+H3111,Fetid chronic bronchitis,LRTI,infections
+H311z,Mucopurulent chronic bronchitis NOS,LRTI,infections
+H312.,Obstructive chronic bronchitis,LRTI,infections
+H3120,Chronic asthmatic bronchitis,LRTI,infections
+H3121,Emphysematous bronchitis,LRTI,infections
+H3122,Acute exacerbation of chronic obstructive airways disease,LRTI,infections
+H312z,Obstructive chronic bronchitis NOS,LRTI,infections
+H313.,Mixed simple and mucopurulent chronic bronchitis,LRTI,infections
+H31y.,Other chronic bronchitis,LRTI,infections
+H31y1,Chronic tracheobronchitis,LRTI,infections
+H31yz,Other chronic bronchitis NOS,LRTI,infections
+H31z.,Chronic bronchitis NOS,LRTI,infections
+H33zz,Asthma NOS,LRTI,infections
+H341.,Post-infective bronchiectasis,LRTI,infections
+H3y0.,Chronic obstruct pulmonary dis with acute lower resp infectn,LRTI,infections
+H530.,Abscess of lung,LRTI,infections
+H5300,Single lung abscess,LRTI,infections
+H5301,Multiple lung abscess,LRTI,infections
+H5303,Abscess of lung with pneumonia,LRTI,infections
+H530z,Abscess of lung NOS,LRTI,infections
+H5400,Hypostatic pneumonia,LRTI,infections
+H5401,Hypostatic bronchopneumonia,LRTI,infections
+H5832,Eosinophilic bronchitis,LRTI,infections
+Hyu08,[X]Other viral pneumonia,LRTI,infections
+Hyu09,[X]Pneumonia due to other aerobic gram-negative bacteria,LRTI,infections
+Hyu0A,[X]Other bacterial pneumonia,LRTI,infections
+Hyu0B,[X]Pneumonia due to other specified infectious organisms,LRTI,infections
+Hyu0C,[X]Pneumonia in bacterial diseases classified elsewhere,LRTI,infections
+Hyu0D,[X]Pneumonia in viral diseases classified elsewhere,LRTI,infections
+Hyu0E,[X]Pneumonia in mycoses classified elsewhere,LRTI,infections
+Hyu0F,[X]Pneumonia in parasitic diseases classified elsewhere,LRTI,infections
+Hyu0G,[X]Pneumonia in other diseases classified elsewhere,LRTI,infections
+Hyu0H,"[X]Other pneumonia, organism unspecified",LRTI,infections
+Hyu1.,[X]Other acute lower respiratory infections,LRTI,infections
+Hyu10,[X]Acute bronchitis due to other specified organisms,LRTI,infections
+Hyu11,[X]Acute bronchiolitis due to other specified organisms,LRTI,infections
+Hyu6.,[X]Suppurative & necrotic conditions of lower respir tract,LRTI,infections
+SP131,Other aspiration pneumonia as a complication of care,LRTI,infections
+SP132,Post operative chest infection,LRTI,infections
+X1004,Infection of lower respiratory tract,LRTI,infections
+X1006,Chest infection - unspecified bronchitis,LRTI,infections
+X1007,Acute bacterial bronchitis,LRTI,infections
+X1009,Acute mycoplasmal bronchitis,LRTI,infections
+X100A,Acute chlamydial bronchitis,LRTI,infections
+X100B,Acute viral bronchitis,LRTI,infections
+X100C,Acute viral bronchiolitis,LRTI,infections
+X100D,Acute bronchiolitis due to adenovirus,LRTI,infections
+X100E,Pneumonia,LRTI,infections
+X100G,Atypical pneumonia,LRTI,infections
+X100H,Bacterial pneumonia,LRTI,infections
+X100J,Pneumococcal pneumonia,LRTI,infections
+X100K,Pneumonic plague,LRTI,infections
+X100L,Meningococcal pneumonia,LRTI,infections
+X100M,Bronchopneumonia,LRTI,infections
+X100N,Chlamydial pneumonia,LRTI,infections
+X100O,Neonatal chlamydial pneumonia,LRTI,infections
+X100R,Fungal pneumonia,LRTI,infections
+X100S,Pulmonary mucormycosis,LRTI,infections
+X100V,Chronic pulmonary coccidioidomycosis,LRTI,infections
+X100W,Pulmonary blastomycosis,LRTI,infections
+X100X,Haemorrhagic pneumonia,LRTI,infections
+X100Y,Mycobacterial pneumonia,LRTI,infections
+X100d,Rickettsial pneumonia,LRTI,infections
+X100e,Glandular fever pneumonia,LRTI,infections
+X100g,Herpes simplex pneumonia,LRTI,infections
+X100h,Giant cell pneumonia,LRTI,infections
+X100j,Chronic bronchial sepsis,LRTI,infections
+X101i,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",LRTI,infections
+X101j,Occupational chronic bronchitis,LRTI,infections
+X1038,Lupus pneumonia,LRTI,infections
+X104U,Tracheal sepsis,LRTI,infections
+X104j,Tuberculous bronchopleural fistula,LRTI,infections
+X104k,Bronchial sepsis,LRTI,infections
+X70RK,Acute pulmonary histoplasmosis capsulati,LRTI,infections
+X70RL,Chronic pulmonary histoplasmosis capsulati,LRTI,infections
+X70RZ,Acute pulmonary African histoplasmosis,LRTI,infections
+X70Ra,Chronic pulmonary African histoplasmosis,LRTI,infections
+X70Rg,Chronic pulmonary blastomycosis,LRTI,infections
+X70Ua,Capillaria aerophila chest infection,LRTI,infections
+XE0Qw,Whooping cough,LRTI,infections
+XE0Xr,Acute bronchitis,LRTI,infections
+XE0Xs,Chest infection NOS,LRTI,infections
+XE0Xt,Acute lower respiratory tract infection,LRTI,infections
+XE0YG,Viral pneumonia,LRTI,infections
+XE0YH,Pneumococcal lobar pneumonia,LRTI,infections
+XE0YI,Pneumonia with infectious diseases EC,LRTI,infections
+XE0YJ,Bronchopneumonia due to unspecified organism,LRTI,infections
+XE0YL,Bronchitis unspecified,LRTI,infections
+XE0YM,Purulent chronic bronchitis,LRTI,infections
+XE0Yt,Acute: [bronchitis]/[chest infections]/[tracheobronchitis],LRTI,infections
+XE0ZF,Pneumonia and influenza &/or pneumonia,LRTI,infections
+XE0ZH,Pneumonia: [lobar] or [pneumococcal],LRTI,infections
+XE0ZN,Chronic: [bronchitis NOS] or [tracheobronchitis],LRTI,infections
+XE2b5,Psittacosis,LRTI,infections
+XM0rv,Pneumonia NOS,LRTI,infections
+XM1QV,Infection of lower respiratory tract and mediastinum,LRTI,infections
+XM1QX,Acute wheezy bronchitis,LRTI,infections
+XSCET,Bacterial infection due to Klebsiella pneumoniae,LRTI,infections
+Xa0Y7,Non-tuberculous mycobacterial pneumonia,LRTI,infections
+Xa0lY,Lobar pneumonia,LRTI,infections
+Xa0lZ,Asthmatic bronchitis,LRTI,infections
+Xa35l,Acute infective exacerbation chronic obstruct airway disease,LRTI,infections
+Xa7nL,Basal pneumonia,LRTI,infections
+Xa7nM,Left lower zone pneumonia,LRTI,infections
+Xa7nN,Right lower zone pneumonia,LRTI,infections
+Xa7nP,Left upper zone pneumonia,LRTI,infections
+Xa7nT,Right middle zone pneumonia,LRTI,infections
+Xa7nU,Right upper zone pneumonia,LRTI,infections
+Xa97Z,Pulmonary mycobacterium avium-intracellulare infection,LRTI,infections
+XaBE9,Basal pneumonia due to unspecified organism,LRTI,infections
+XaBM8,Recurrent chest infection,LRTI,infections
+XaBfJ,Secondary bacterial pneumonia,LRTI,infections
+XaDcD,Bacterial lower respiratory infection,LRTI,infections
+XaDcV,Viral lower respiratory infection,LRTI,infections
+XaDsa,Infective pneumonia,LRTI,infections
+XaDtB,Acute infective bronchitis,LRTI,infections
+XaDtP,Bronchitis,LRTI,infections
+XaDth,Acute infective tracheobronchitis,LRTI,infections
+XaDtl,Legionnaire's disease,LRTI,infections
+XaFrU,Postoperative pneumonia,LRTI,infections
+XaJEl,Bilateral pneumonia,LRTI,infections
+XaREU,Aspergillus bronchitis,LRTI,infections
+XaYYt,Acute bronchiolitis due to human metapneumovirus,LRTI,infections
+XaYYu,Pneumonia due to human metapneumovirus,LRTI,infections
+XaYby,Hantavirus pulmonary syndrome,LRTI,infections
+XaZ1k,Community acquired pneumonia,LRTI,infections
+XaZ1l,Hospital acquired pneumonia,LRTI,infections
+Xaa7C,Eosinophilic bronchitis,LRTI,infections
+A33y.,Whooping cough - other specified organism,LRTI,infections
+A33yz,Other whooping cough NOS,LRTI,infections
+A33z.,Whooping cough NOS,LRTI,infections
+Ayu39,[X]Whooping cough due to other Bordetella species,LRTI,infections
+Ayu3A,"[X]Whooping cough, unspecified",LRTI,infections
+Y9896,Whooping cough - pertussis,LRTI,infections
+Y9897,Whooping cough pneumonia,LRTI,infections
+AyuK3,[X]Streptococcus pneumoniae as the cause of diseases classified to other chapters,LRTI,NA
+AyuK9,[X]Mycoplasma pneumoniae [pplo] as the cause of diseases classified to other chapters,LRTI,NA
+AyuKA,[X]Klebsiella pneumoniae as the cause of diseases classified to other chapters,LRTI,NA
+X00kv,Acute rhinitis,URTI,NA
+X70I8,Bordetella infection,LRTI,NA
+X70Pk,Vincents infection,URTI,NA
+Xa05b,Acute laryngitis and tracheitis,URTI,NA
+Xa0lc,Acute necrotising ulcerative gingivitis,URTI,NA
+XaKyZ,Acute obstructive laryngitis,URTI,NA
+Xa7u5,Lung consolidation,LRTI,NA
+Xa7u5,Lung consolidation,LRTI,NA
+XaIzV,Severe acute respiratory syndrome,LRTI,NA
+XaL2O,"Pneumonitis, unspecified",LRTI,NA
+XE0aG,Oral cellulitis and abscess NOS,URTI,NA
+XE0S4,Acute necrotising ulcerative gingivostomatitis,URTI,NA
+XE0S4,Acute necrotising ulcerative gingivostomatitis,URTI,NA
+XE0Xo,Acute laryngotracheitis,URTI,NA
+XE0Xp,Acute epiglottitis (non-streptococcal),URTI,NA
+XM1QS,Laryngotracheitis,URTI,NA
+XM1QW,Respiratory tract infection,URTI,NA
+171G.,Bovine cough,URTI,infections
+171E.,Unexplained cough,URTI,infections
+AB670,Pulmonary mucormycosis,LRTI,infections
+AB301,Chron pulm coccidioidomycosis,LRTI,infections
+AB506,Pulmonary blastomycosis,LRTI,infections
+A75..,Glandular fever,URTI,infections
+A54x4,Herpes simplex pneumonia,LRTI,infections
+AB406,Ac pulm histoplasmosis capsul,LRTI,infections
+AB407,Chron pulm histoplasmosis caps,LRTI,infections
+A73..,Ornithosis - psittacosis,LRTI,infections
+A1201,Tuberculous empyema,LRTI,infections
+Q3105,Cong pneumonia due viral agent,LRTI,infections
+Q310.,Congenital pneumonia,LRTI,infections
+A3100,Pulm mycob avium-intracell inf,LRTI,infections
+H0617,Ac bronchiol due hum metapneum,LRTI,infections
+A78B.,Hantavir cardio-pulmonary synd,LRTI,infections
+H2F0.,Inflnza wth pmn due sesnl vir,influenza,infections
+H22y3,Pneumonia due to Gram neg bact,LRTI,infections
+F0308,Enceph due to influ-vir not id,influenza,infections
+F030A,Enceph due to influ-virus id,influenza,infections
+4JUF.,Hum parainfluenza vir detected,influenza,infections
+H2A..,Infl due Infl A vir subtp H1N1,influenza,infections
+H2D..,Flu due to zoonotic virus,influenza,infections
+H2E..,Flu due to pandemic virus,influenza,infections
+H2Fz.,Influenza with other manifestations due to seasonal influenza virus,influenza,infections
+A36..,Meningococcal infection,LRTI,infections
+A78A1,Chlamydial infection of pharynx,URTI,infections
+AB20.,Candidiasis mouth/oesophagus,URTI,infections
+A3B1.,Staphylococcal infection,LRTI,infections
