@@ -365,3 +365,9 @@ manuscript/supplement.pdf
 
 analysis/cohort_opcrd/connect.R
 terminal/*
+
+# project-specific
+output/*
+analysis/lib/*
+
+renv-errors.txt
