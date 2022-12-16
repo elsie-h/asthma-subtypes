@@ -19,7 +19,7 @@ select_features <- c(
   "emergency_cat", "exacerbation_cat", "ar_cat", "URTI_cat", "LRTI_cat",  
   "influenza_vaccination",
   # lung function
-  "pefr_pp", "ppFEV1", # "FEV1FVC", 
+  "pefr_pp", "ppFEV1", 
   # management
   "plan_n", "pefr_home",
   # control
@@ -28,7 +28,6 @@ select_features <- c(
   "anaphylaxis", "angioedema_or_urticaria", "conjunctivitis", "eczema", "rhinitis", 
   "drug_allergy", "food_allergy", "other_allergy",  "oral_antihistamine",
   # comorbidity
-  # "cci_cat", 
   "Anxiety", "Chronic_cardiac_disease",  "COPD", "Depression",
   "Diabetes", "GORD", "Nasal_polyps", 
   # other prescriptions
@@ -68,12 +67,8 @@ create_dummy_data <- function(index_date, n) {
   )
   
   sex_levels <- c("F" = 0.5, "M" = 0.5)
-  # ethnicity_levels <- c("White" = 0.6, "Asian British" = 0.1, "Black" = 0.1, "Mixed" = 0.1, "Other" = 0.05, "Missing" = 0.05)
-  # imd_decile_levels <- rep(1/11,11)
-  # names(imd_decile_levels) <- c(as.character(1:10), "Missing")
   smoking_status_levels <- c("current" = 1/3, "ex" = 1/3, "non" = 1/3)
   BMI_levels <- c("<20" = 0.1, "20-24" = 0.3, "25-29" = 0.3, "30-39" = 0.2, "40+" = 0.05, "missing" = 0.05)
-  # cci_levels <- c("0-1" = 0.6, "2+" = 0.4)
   eos_levels <- c("<=0.4" = 0.6, ">0.4" = 0.2, "missing" = 0.2)
   emergency_cat_levels <- exacerbation_cat_levels <- c("0" = 0.9, "1+" = 0.1)
   
